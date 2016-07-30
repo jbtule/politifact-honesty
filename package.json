@@ -1,0 +1,21 @@
+{
+  "name":"poltifact-honesty",
+  "version":"1.0.0",
+  "private": true,
+  "dependencies": {
+    "fable-core": "^0.2.2"
+  },
+  "devDependencies": {
+    "commander": "^2.9.0",
+    "fable-compiler": "^0.4.6",
+    "fable-core": "^0.2.3",
+    "typings": "^1.3.2"
+  },
+  "scripts": {
+    "prebuild:npm": "npm install",
+    "prebuild:typings": "typings install",
+    "prebuild": "npm run prebuild:npm && npm run prebuild:typings",
+    "build": "fable",
+    "watch": "fable -w --target watch"
+  }
+}
