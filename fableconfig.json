@@ -1,7 +1,7 @@
 {
     "module": "commonjs",
     "sourceMaps": true,
-    "projFile": "./main.fsx",
+    "projFile": "./src/main.fsx",
     "outDir": "bin",
     "scripts": {
     }

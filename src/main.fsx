@@ -1,6 +1,6 @@
 module Run
-#r "node_modules/fable-core/Fable.Core.dll"
-#load "fstypings/Fable.Import.Commander.fsx"
+#r "../node_modules/fable-core/Fable.Core.dll"
+#load "./fstypings/Fable.Import.Commander.fsx"
 
 open System
 open Fable.Core
@@ -77,5 +77,7 @@ let main argv =
         fs.mkdir("data/people", Func<_,_>(afterMkDirHandler))
         0
     else if program.count then
-        1    else
+        
+        0
+    else
         1
