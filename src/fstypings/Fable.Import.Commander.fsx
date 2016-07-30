@@ -1,5 +1,5 @@
 namespace Fable.Import
-#r "../node_modules/fable-core/Fable.Core.dll"
+#r "../../node_modules/fable-core/Fable.Core.dll"
 open System
 open System.Text.RegularExpressions
 open Fable.Core
@@ -67,6 +67,7 @@ module commander =
         //custom fields
         abstract download:bool with get
         abstract count:bool with get
+        abstract graph:bool with get
 
     type [<Import("*","commander")>] Globals =
         static member ``default`` with get(): IExportedCommand = failwith "JS only" and set(v: IExportedCommand): unit = failwith "JS only"
