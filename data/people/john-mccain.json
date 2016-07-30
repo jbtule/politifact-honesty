@@ -1,0 +1,2837 @@
+[
+    {
+        "statement_url": "/truth-o-meter/statements/2015/jul/21/donald-trump/after-not-war-hero-remark-donald-trump-says-john-m/",
+        "statement_date": "2015-07-19",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "john-mccain",
+                "last_name": "McCain",
+                "first_name": "John"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            },
+            {
+                "subject_slug": "veterans",
+                "subject": "Veterans"
+            },
+            {
+                "subject_slug": "voting-record",
+                "subject": "Voting Record"
+            }
+        ],
+        "statement": "<p>Says John McCain &quot;has done nothing to help the vets.&quot;</p>\r\n",
+        "ruling_headline": "After 'not a war hero' remark, Donald Trump says John McCain has 'done nothing' for veterans",
+        "ruling_link_text": "Major provisions, casework support are not \"nothing\"",
+        "statement_context": "comments on ABC's This Week.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-07-21T14:33:31",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "donald-trump",
+            "last_name": "Trump",
+            "first_name": "Donald"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/may/28/john-mccain/john-mccain-says-75-airstrike-missions-against-isi/",
+        "statement_date": "2015-05-24",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            },
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ],
+        "statement": "<p>If you count United States airstrikes against ISIS, &quot;75 percent of those combat missions return to base without having fired a weapon.&quot;</p>\r\n",
+        "ruling_headline": "John McCain says 75% of airstrike missions against ISIS return without firing a weapon",
+        "ruling_link_text": "It minimizes civilian casualties, Pentagon says",
+        "statement_context": "an interview on CBS' \"Face the Nation\"",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-05-28T14:33:05",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/jan/15/john-mccain/mccain-30-past-guantanamo-detainees-re-enter-fight/",
+        "statement_date": "2015-01-13",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ],
+        "statement": "<p>&quot;About 30 percent&quot; of those released from Guantanamo &quot;have re-entered the fight.&quot;</p>\r\n",
+        "ruling_headline": "McCain: 30% of past Guantanamo detainees 're-enter the fight'",
+        "ruling_link_text": "Conflating official but opaque numbers",
+        "statement_context": "a press conference",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-01-15T14:58:00",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2014/oct/12/john-mccain/mccain-we-were-told-thered-be-no-ebola-united-stat/",
+        "statement_date": "2014-10-12",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "ebola",
+                "subject": "Ebola"
+            },
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            },
+            {
+                "subject_slug": "public-health",
+                "subject": "Public Health"
+            },
+            {
+                "subject_slug": "public-safety",
+                "subject": "Public Safety"
+            }
+        ],
+        "statement": "<div style=\"color: rgb(0, 0, 0); font-family: arial, sans-serif; line-height: normal;\">&quot;We were told there would never be a case of Ebola in the United States.&quot;</div>\r\n",
+        "ruling_headline": "McCain: We were 'told' there'd be no Ebola in the United States",
+        "ruling_link_text": "It's always been a possibility",
+        "statement_context": "comments on CNN's \"State of the Union\"",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2014-10-12T16:22:25",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2014/sep/12/john-mccain/mccain-obama-never-said-he-wanted-leave-troops-ira/",
+        "statement_date": "2014-09-10",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party": "Democrat",
+                    "party_slug": "democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama",
+                "first_name": "Barack"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "iraq",
+                "subject": "Iraq"
+            },
+            {
+                "subject_slug": "islam",
+                "subject": "Islam"
+            },
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ],
+        "statement": "<p>Says President Obama &quot;has never made a statement ... that he wanted a residual force left (in Iraq).&quot;</p>\r\n",
+        "ruling_headline": "McCain: Obama never said he wanted to leave troops in Iraq",
+        "ruling_link_text": "Obama publicly wanted the full withrawal",
+        "statement_context": "an interview on CNN",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2014-09-12T11:06:51",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2014/sep/11/john-mccain/john-mccain-says-barack-obama-went-against-nationa/",
+        "statement_date": "2014-09-10",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party": "Democrat",
+                    "party_slug": "democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama",
+                "first_name": "Barack"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "homeland-security",
+                "subject": "Homeland Security"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            }
+        ],
+        "statement": "<p>&quot;(Obama&#39;s) entire national security team, including his secretary of state, said we want to arm and train and equip (Syrian rebel forces), and he made the unilateral decision to turn them down.&quot;</p>\r\n\r\n<div>&nbsp;</div>\r\n",
+        "ruling_headline": "John McCain says Barack Obama went against national security team's advice to arm Syrian rebels",
+        "ruling_link_text": "Some big names were for it",
+        "statement_context": "an interview on CNN",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2014-09-11T18:13:59",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2014/aug/27/john-mccain/john-mccain-says-he-holds-record-meet-press-appear/",
+        "statement_date": "2014-08-27",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "history",
+                "subject": "History"
+            },
+            {
+                "subject_slug": "pop-culture",
+                "subject": "Pop Culture"
+            },
+            {
+                "subject_slug": "pundits",
+                "subject": "Pundits"
+            }
+        ],
+        "statement": "<p>Says he holds the record for &quot;most appearances on &#39;<em>Meet the Press&#39;.&quot;</em></p>\r\n",
+        "ruling_headline": "John McCain says he holds the record for 'Meet the Press' appearances",
+        "ruling_link_text": "Meet the McCain",
+        "statement_context": "comments on MSNBC's \"Daily Rundown\"",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2014-08-27T16:51:22",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2014/jun/02/john-mccain/john-mccain-says-five-taliban-detainees-freed-bowe/",
+        "statement_date": "2014-06-01",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            },
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ],
+        "statement": "<p>The five Taliban detainees being released from Guantanamo in exchange for captured Army Sgt. Bowe Bergdahl &quot;are the hardest of the hard-core. These are the highest high-risk people.&quot;</p>\r\n",
+        "ruling_headline": "John McCain says five Taliban detainees freed in Bowe Bergdahl exchange 'are the hardest of the hard-core'",
+        "ruling_link_text": "All five were rated as \"high\" risks by U.S. officials",
+        "statement_context": "an interview on CBS' \"Face the Nation\"",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2014-06-02T17:29:16",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2013/sep/03/john-mccain/mccain-says-million-children-are-refugees-syrian-c/",
+        "statement_date": "2013-09-01",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            }
+        ],
+        "statement": "<p>Fleeing Syria, &quot;a million children are now refugees.&quot;</p>\r\n",
+        "ruling_headline": "McCain says a million children are refugees from Syrian civil war",
+        "ruling_link_text": "If anything, the number is even higher",
+        "statement_context": "an interview on \"Face the Nation\"",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2013-09-03T14:19:27",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2013/apr/30/john-mccain/john-mccain-says-half-stem-graduate-degrees-given-/",
+        "statement_date": "2013-04-26",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            },
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            },
+            {
+                "subject_slug": "science",
+                "subject": "Science"
+            },
+            {
+                "subject_slug": "technology",
+                "subject": "Technology"
+            }
+        ],
+        "statement": "<p dir=\"ltr\" id=\"docs-internal-guid-1207bd09-574b-88d1-dd41-9f7fa3ec0c9c\" style=\"line-height:1.15;margin-top:0pt;margin-bottom:0pt;\">\r\n\t&quot;Over half&quot; of science, technology, engineering and mathematics students &quot;receiving advanced degrees are not citizens of the United States of America.&quot;</p>\r\n",
+        "ruling_headline": "John McCain says half of STEM graduate degrees given to foreigners",
+        "ruling_link_text": "True for specific fields like computer science",
+        "statement_context": "a speech at the U.S. Chamber of Commerce",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2013-04-30T10:35:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2011/mar/09/john-mccain/john-mccain-errs-saying-ipads-iphones-are-made-us/",
+        "statement_date": "2011-03-06",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "abc-news-week",
+                "subject": "This Week - ABC News"
+            },
+            {
+                "subject_slug": "trade",
+                "subject": "Trade"
+            }
+        ],
+        "statement": "<p>\r\n\tSays iPads and iPhones &quot;are built in the United States of America.&quot;</p>",
+        "ruling_headline": "John McCain errs in saying iPads, iPhones are made in the USA",
+        "ruling_link_text": "Designed in U.S., made in China",
+        "statement_context": "an interview on ABC's \"This Week with Christiane Amanpour\"",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2011-03-09T17:06:36",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/dec/06/harry-reid/sen-harry-reid-says-sen-john-mccain-opposes-dont-a/",
+        "statement_date": "2010-12-04",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "john-mccain",
+                "last_name": "McCain",
+                "first_name": "John"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "gays-and-lesbians",
+                "subject": "Gays and Lesbians"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;The senior senator from Arizona (John McCain) said he couldn&#39;t support repealing &#39;don&#39;t ask, don&#39;t tell&#39; because of the economy.&quot;</p>",
+        "ruling_headline": "Sen. Harry Reid says Sen. John McCain opposes 'don't ask, don't tell' due to economy",
+        "ruling_link_text": "McCain's economy argument was about priorities",
+        "statement_context": "the Senate floor",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2010-12-06T18:17:04",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-harryreid.jpg",
+            "party": {
+                "party": "Democrat",
+                "party_slug": "democrat"
+            },
+            "name_slug": "harry-reid",
+            "last_name": "Reid",
+            "first_name": "Harry"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/aug/11/john-mccain/john-mccain-said-he-would-add-3000-troops-border-w/",
+        "statement_date": "2010-07-29",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party": "Democrat",
+                    "party_slug": "democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama",
+                "first_name": "Barack"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "homeland-security",
+                "subject": "Homeland Security"
+            },
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            },
+            {
+                "subject_slug": "message-machine",
+                "subject": "Message Machine 2010"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;The border security plan of Sens. McCain and Kyl called for 3,000 additional troops to keep us safe. President Obama says he&#39;ll send 524.&quot;</p>\r\n",
+        "ruling_headline": "John McCain said he would add 3,000 troops to the border while Obama would add only 524",
+        "ruling_link_text": "Obama wants to add more than that, but not as much as McCain",
+        "statement_context": "a campaign commercial",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2010-08-11T16:17:49",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/aug/11/jd-hayworth/hayworth-claims-mccain-opposed-border-fence/",
+        "statement_date": "2010-08-05",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "john-mccain",
+                "last_name": "McCain",
+                "first_name": "John"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            },
+            {
+                "subject_slug": "message-machine",
+                "subject": "Message Machine 2010"
+            }
+        ],
+        "statement": "<p>\r\n\tMcCain opposed the border fence.</p>\r\n",
+        "ruling_headline": "Hayworth claims McCain opposed the border fence",
+        "ruling_link_text": "One amendment tells all (apparently)",
+        "statement_context": "a TV ad against John McCain",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2010-08-11T16:15:56",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/JD_Hayworth.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "jd-hayworth",
+            "last_name": "Hayworth",
+            "first_name": "J.D."
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/jul/23/john-mccain/mccain-campaign-ad-claims-more-half-illegal-immigr/",
+        "statement_date": "2010-05-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            },
+            {
+                "subject_slug": "message-machine",
+                "subject": "Message Machine 2010"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Of all the illegals in America, more than half come through Arizona.&quot;</p>\r\n",
+        "ruling_headline": "Sheriff in McCain campaign ad claims more than half of illegal immigrants come through Arizona",
+        "ruling_link_text": "How did they get here?",
+        "statement_context": "a campaign ad",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2010-07-23T13:01:38",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/jul/16/john-mccain/john-mccain-labels-jd-hayworth-avid-earmarker/",
+        "statement_date": "2010-05-26",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/JD_Hayworth.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "jd-hayworth",
+                "last_name": "Hayworth",
+                "first_name": "J.D."
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            },
+            {
+                "subject_slug": "message-machine",
+                "subject": "Message Machine 2010"
+            }
+        ],
+        "statement": "<p>\r\n\tAs a Congressman, J.D. Hayworth was an avid earmarker who supported such pork as &quot;$220,000 to renovate a Maine Blueberry farm&quot; and &quot;$5.8 million for a Vermont snowmobile trail.&quot;</p>\r\n",
+        "ruling_headline": "John McCain campaign ad labels J.D. Hayworth an \"avid earmarker\"",
+        "ruling_link_text": "Projects were tucked in massive appropriations bills",
+        "statement_context": "a political ad",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2010-07-16T16:44:57",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/jul/07/john-mccain/john-mccain-said-barack-obama-voted-against-part-i/",
+        "statement_date": "2010-07-04",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party": "Democrat",
+                    "party_slug": "democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama",
+                "first_name": "Barack"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            },
+            {
+                "subject_slug": "abc-news-week",
+                "subject": "This Week - ABC News"
+            },
+            {
+                "subject_slug": "workers",
+                "subject": "Workers"
+            }
+        ],
+        "statement": "<p>As a senator, Barack Obama supported \"an amendment that basically gutted the legal temporary worker program.\"</p>",
+        "ruling_headline": "John McCain said that Barack Obama voted against part of immigration reform",
+        "ruling_link_text": "Yes, but Obama voted for overall package",
+        "statement_context": "an interview on \"This Week.\"",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2010-07-07T15:46:58",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/jul/05/jd-hayworth/hayworth-claims-mccain-was-lobbyist-too-us-navy/",
+        "statement_date": "2010-06-14",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "john-mccain",
+                "last_name": "McCain",
+                "first_name": "John"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "ethics",
+                "subject": "Ethics"
+            }
+        ],
+        "statement": "<p>John McCain \"began his career in Washington as a lobbyist when he was appointed in 1976 as the Navy's liaison to the United States Senate.\"</p>",
+        "ruling_headline": "Hayworth claims McCain was a lobbyist too -- for the U.S. Navy",
+        "ruling_link_text": "A case could be made either way",
+        "statement_context": "a campaign commerical",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2010-07-05T09:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/JD_Hayworth.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "jd-hayworth",
+            "last_name": "Hayworth",
+            "first_name": "J.D."
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/jun/15/jd-hayworth/hayworth-says-mccain-voted-against-bush-tax-cuts-b/",
+        "statement_date": "2010-06-04",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "john-mccain",
+                "last_name": "McCain",
+                "first_name": "John"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "message-machine",
+                "subject": "Message Machine 2010"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>John McCain \"voted against the tax cuts of 2001 and 2003, wrongly claiming they helped only the rich.\"</p>",
+        "ruling_headline": "Hayworth says McCain voted against Bush tax cuts because they tilted toward the rich",
+        "ruling_link_text": "McCain did indeed cite the tilt to the rich in 2001, 2003",
+        "statement_context": "a campaign commercial",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2010-06-15T11:04:26",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/JD_Hayworth.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "jd-hayworth",
+            "last_name": "Hayworth",
+            "first_name": "J.D."
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/jun/15/john-mccain/mccain-accuses-hayworth-earning-thousands-lobbyist/",
+        "statement_date": "2010-06-07",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/JD_Hayworth.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "jd-hayworth",
+                "last_name": "Hayworth",
+                "first_name": "J.D."
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "ethics",
+                "subject": "Ethics"
+            },
+            {
+                "subject_slug": "message-machine",
+                "subject": "Message Machine 2010"
+            },
+            {
+                "subject_slug": "transparency",
+                "subject": "Transparency"
+            }
+        ],
+        "statement": "<p>After J.D. Hayworth \"was voted out of Congress, he became a registered lobbyist\" who was \"paid thousands by a Florida corporation to lobby the very committee he used to serve on.\"</p>",
+        "ruling_headline": "McCain accuses Hayworth of earning 'thousands' as a Washington lobbyist",
+        "ruling_link_text": "Not one of D.C.'s biggest lobbyists, but a lobbyist nonetheless",
+        "statement_context": "a campaign commercial",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2010-06-15T11:02:40",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/apr/06/john-mccain/mccains-ultimate-maverick-move-denial/",
+        "statement_date": "2010-04-03",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>\"I never considered myself a maverick.\"</p>",
+        "ruling_headline": "McCain's ultimate maverick move, denial ",
+        "ruling_link_text": "Except for all those times he called himself a maverick",
+        "statement_context": "a comment on Newsweek magazine's Web site ",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2010-04-06T18:51:46",
+        "ruling": {
+            "ruling_slug": "pants-fire",
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2010/feb/04/john-mccain/mccain-flips-dont-ask-dont-tell/",
+        "statement_date": "2010-02-02",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "gays-and-lesbians",
+                "subject": "Gays and Lesbians"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            }
+        ],
+        "statement": "<p>On whether he supports 'Don't Ask, Don't Tell.'</p>",
+        "ruling_headline": "McCain flips on 'Don't Ask, Don't Tell'",
+        "ruling_link_text": "He wanted to hear from military leaders but now disagrees with them",
+        "statement_context": "comments at a congressional hearing.",
+        "statement_type": {
+            "statement_type": "Flip"
+        },
+        "ruling_date": "2010-02-04T18:06:36",
+        "ruling": {
+            "ruling_slug": "full-flop",
+            "ruling": "Full Flop",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/fom-fullFlop.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2009/jun/12/john-mccain/McCain-says-Obama-has-more-czars-than-Romanovs/",
+        "statement_date": "2009-05-30",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "pop-culture",
+                "subject": "Pop Culture"
+            }
+        ],
+        "statement": "<p>\"Obama has more czars than the Romanovs.\"</p>",
+        "ruling_headline": "McCain says Obama has more czars than the Romanovs",
+        "ruling_link_text": "Is Obama the Czar Czar?",
+        "statement_context": "a Twitter message",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2009-06-12T18:33:34",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2009/feb/27/john-mccain/mccain-says-obama-will-leave-troops-iraqwishful-th/",
+        "statement_date": "2009-02-27",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "iraq",
+                "subject": "Iraq"
+            }
+        ],
+        "statement": "<p>&quot;The president's plan, even after the end of its withdrawal timeline is reached, will leave in place up to 50,000 U.S. troops.&quot;</p>",
+        "ruling_headline": "McCain says Obama will leave troops in Iraq — wishful thinking?",
+        "ruling_link_text": "McCain lauds a long-term Iraq plan that isn't",
+        "statement_context": "a speech on the Senate floor.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2009-02-27T16:22:58",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2009/feb/27/john-mccain/presidential-helicopters-more-costly-air-force-one/",
+        "statement_date": "2009-02-23",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ],
+        "statement": "<p>A new presidential helicopter &quot;is now going to cost as much as Air Force One.&quot;</p>\r\n",
+        "ruling_headline": "McCain says presidential helicopters now more costly than Air Force One ",
+        "ruling_link_text": "Based on cost to taxpayers, he's right",
+        "statement_context": "a White House forum on fiscal responsibility.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2009-02-27T15:00:53",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2009/feb/25/john-mccain/mccain-says-omnibus-bill-packed-earmarks-and-pork/",
+        "statement_date": "2009-02-25",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ],
+        "statement": "<p>The omnibus spending bill has &quot;9,427 pork barrel items.&quot;</p>",
+        "ruling_headline": "McCain says Omnibus bill packed with earmarks and pork",
+        "ruling_link_text": "Yes, lots of earmarks",
+        "statement_context": "an interview on CNN's American Morning.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2009-02-25T15:22:21",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/dec/03/john-mccain/obamas-no-maverick/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>\"Sen. Obama has never taken on his party leaders on a single major issue.\"</p>",
+        "ruling_headline": "Obama's no maverick",
+        "ruling_link_text": "Obama's no maverick",
+        "statement_context": "Nashville, Tenn.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-12-03T00:00:00",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/dec/03/john-mccain/mccain-is-further-back-than-gore-was/",
+        "statement_date": "2008-10-23",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "elections",
+                "subject": "Elections"
+            }
+        ],
+        "statement": "<p>\"The McCain campaign is roughly in the position where Vice President Gore was running against President Bush one week before the election of 2000.\"</p>",
+        "ruling_headline": "McCain is further back than Gore was",
+        "ruling_link_text": "McCain is further back than Gore was",
+        "statement_context": "remarks by chief strategist Steve Schmidt",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-12-03T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/dec/01/john-mccain/its-not-welfare/",
+        "statement_date": "2008-10-16",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p><span style=\"font-size: xx-small;\"> </span></p>\r\n<p align=\"left\">\"Obama raises taxes on seniors (and) hard-working families to give welfare to those who pay none.\"</p>\r\n<p>&nbsp;</p>",
+        "ruling_headline": "It's not welfare",
+        "ruling_link_text": "It's not welfare",
+        "statement_context": "a Web ad",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-12-01T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/30/john-mccain/updated-mccain-is-right-about-5-of-11-polls/",
+        "statement_date": "2008-10-31",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "elections",
+                "subject": "Elections"
+            }
+        ],
+        "statement": "<p>\"We are within the margin of error.\"</p>",
+        "ruling_headline": "Updated: McCain is right about 5 of 11 polls",
+        "ruling_link_text": "Updated: McCain is right about 5 of 11 polls",
+        "statement_context": "a TV interview",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-10-30T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/29/john-mccain/different-statements-different-numbers/",
+        "statement_date": "2008-10-28",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>Barack Obama <span class=\"hit\"><span></span></span>said \"people making less than $250,000 would benefit from his plan\" then said \"if you're a family making less than $200,000, you'll benefit.\"</p>",
+        "ruling_headline": "Different statements, different numbers",
+        "ruling_link_text": "Different statements, different numbers",
+        "statement_context": "Hershey, Pa. ",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-29T00:00:00",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/29/john-mccain/fidel-castro-no-fan-of-mccain-/",
+        "statement_date": "2008-10-29",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p>\"Fidel (Castro) has made his preferences known in the campaign and had some very unkind things to say about me.\"</p>",
+        "ruling_headline": "Fidel Castro no fan of McCain ",
+        "ruling_link_text": "Fidel Castro no fan of McCain ",
+        "statement_context": "a TV interview",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-10-29T00:00:00",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/28/john-mccain/tiny-ad-makes-large-error/",
+        "statement_date": "2008-10-28",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p>\"Obama says Iran is a 'tiny' country, 'doesn't pose a serious threat.'\"</p>",
+        "ruling_headline": "'Tiny' ad makes large error",
+        "ruling_link_text": "'Tiny' ad makes large error",
+        "statement_context": "a TV ad airing in Florida",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-28T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/26/john-mccain/fines-are-possible-but-for-uninsured/",
+        "statement_date": "2008-10-26",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "<p>If parents \"don't have health insurance that Senator Obama wants them to have (for their children), they will be fined.\"</p>",
+        "ruling_headline": "Fines are possible, but for uninsured",
+        "ruling_link_text": "Fines are possible, but for uninsured",
+        "statement_context": "Waterloo, Iowa",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-26T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/22/john-mccain/mccain-abortion-record-is-consistent/",
+        "statement_date": "2008-08-04",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "abortion",
+                "subject": "Abortion"
+            }
+        ],
+        "statement": "<p>On supporting the Supreme Court abortion decision Roe v. Wade</p>",
+        "ruling_headline": "McCain abortion record is consistent.",
+        "ruling_link_text": "McCain abortion record is consistent.",
+        "statement_context": "flip-o-meter",
+        "statement_type": {
+            "statement_type": "Flip"
+        },
+        "ruling_date": "2008-10-22T00:00:00",
+        "ruling": {
+            "ruling_slug": "no-flip",
+            "ruling": "No Flip",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/fom-noflip.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/21/john-mccain/no-cabinet-picks-yet/",
+        "statement_date": "2008-10-21",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "elections",
+                "subject": "Elections"
+            }
+        ],
+        "statement": "<p>\"Sen. Obama's campaign announced that he's choosing his  cabinet.\"</p>",
+        "ruling_headline": "No Cabinet picks yet",
+        "ruling_link_text": "No Cabinet picks yet",
+        "statement_context": "a rally in Bensalem, Pa.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-21T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/20/john-mccain/closer-to-40-percent-than-50-percent/",
+        "statement_date": "2008-10-12",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>Between 40 and 50 percent of tax filers do not owe any income tax.</p>",
+        "ruling_headline": "Closer to 40 percent than 50 percent",
+        "ruling_link_text": "Closer to 40 percent than 50 percent",
+        "statement_context": "a television interview",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-10-20T00:00:00",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/17/john-mccain/project-vote-not-an-arm-of-acorn/",
+        "statement_date": "2008-10-10",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>In 1992, Barack Obama directed \"Project Vote - an arm of ACORN that also encouraged voter registration.\"</p>",
+        "ruling_headline": "Project Vote not \"an arm of ACORN\"",
+        "ruling_link_text": "Project Vote not \"an arm of ACORN\"",
+        "statement_context": "a memo on campaign Web site",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-17T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/17/john-mccain/he-represented-them-in-one-case-/",
+        "statement_date": "2008-10-10",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>Barack Obama was \"a trial attorney for ACORN.\"</p>",
+        "ruling_headline": "He represented them in one case ",
+        "ruling_link_text": "He represented them in one case ",
+        "statement_context": "a memo on campaign Web site",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-17T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/15/john-mccain/mccains-aim-still-off-on-tax-votes/",
+        "statement_date": "2008-10-15",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\"He voted twice for a budget resolution that increases the taxes on individuals making $42,000 a year.\"</p>",
+        "ruling_headline": "McCain's aim still off on tax votes",
+        "ruling_link_text": "McCain's aim still off on tax votes",
+        "statement_context": "a debate in Hempstead, N.Y.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-15T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/15/john-mccain/small-businesses-are-exempt/",
+        "statement_date": "2008-10-15",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "<p>If you're a small business and don't \"adopt the health care plan that Senator Obama mandates, he's going to fine you.\"</p>",
+        "ruling_headline": "Small businesses are exempt",
+        "ruling_link_text": "Small businesses are exempt",
+        "statement_context": "a debate in Hempstead, N.Y.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-15T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/15/john-mccain/obama-disagreed-but-didnt-criticize/",
+        "statement_date": "2008-10-15",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>\"Congressman John Lewis, an American hero, made allegations that Sarah Palin and I were somehow associated with ... the worst chapter in American history. ... And, Senator Obama, you didn't repudiate those remarks.\"</p>",
+        "ruling_headline": "Obama disagreed, but didn't criticize",
+        "ruling_link_text": "Obama disagreed, but didn't criticize",
+        "statement_context": "a debate in Hempstead, N.Y.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-15T00:00:00",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/15/john-mccain/obamas-been-critical-of-nafta/",
+        "statement_date": "2008-10-15",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p><span style=\"font-size: 12pt; font-family: &quot;Times New Roman&quot;;\">\"Obama said he would unilaterally renegotiate the North American Free Trade Agreement.\"</span></p>",
+        "ruling_headline": "Obama's been critical of NAFTA",
+        "ruling_link_text": "Obama's been critical of NAFTA",
+        "statement_context": "Hempstead, N.Y.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-15T00:00:00",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/13/john-mccain/theres-plenty-of-bipartisan-blame-for-crisis/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ],
+        "statement": "<p>\"The Democrats in the Senate and some members of Congress defended what Fannie and Freddie were doing. They resisted any change.\"</p>",
+        "ruling_headline": "There's plenty of bipartisan blame for crisis",
+        "ruling_link_text": "There's plenty of bipartisan blame for crisis",
+        "statement_context": "Nashville, Tenn.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-10-13T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/13/john-mccain/fannie-and-freddie-contributed-to-wider-problem/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ],
+        "statement": "<p>On the economic troubles of 2008, \"really the match that lit this fire was Fannie Mae and Freddie Mac.\"</p>",
+        "ruling_headline": "Fannie and Freddie contributed to wider problem",
+        "ruling_link_text": "Fannie and Freddie contributed to wider problem",
+        "statement_context": "Nashville, Tenn.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-10-13T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/10/john-mccain/not-a-radical-group-and-ayers-didnt-run-it/",
+        "statement_date": "2008-10-09",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "patriotism",
+                "subject": "Patriotism"
+            }
+        ],
+        "statement": "<p align=\"left\">\"(Bill) Ayers and Obama ran a radical education foundation together.\"</p>",
+        "ruling_headline": "Not a radical group, and Ayers didn't run it",
+        "ruling_link_text": "Not a radical group, and Ayers didn't run it",
+        "statement_context": "a Web ad",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-10T00:00:00",
+        "ruling": {
+            "ruling_slug": "pants-fire",
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/10/john-mccain/obama-sought-the-money-but-its-no-mere-projector/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ],
+        "statement": "<p>Obama \"voted for ... $3-million for an overhead projector at a planetarium in Chicago.\"</p>",
+        "ruling_headline": "Obama sought the money, but it's no mere projector",
+        "ruling_link_text": "Obama sought the money, but it's no mere projector",
+        "statement_context": "a debate in Nashville, Tenn.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-10T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/09/john-mccain/5000-for-couples-but-half-that-for-every-american/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "<p>\"I want to give every American a $5,000 refundable tax credit.\"</p>",
+        "ruling_headline": "$5,000 for couples, but half that for \"every American\"",
+        "ruling_link_text": "$5,000 for couples, but half that for \"every American\"",
+        "statement_context": "a debate in Nashville, Tenn.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-10-09T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/09/john-mccain/the-idea-is-old-but-the-plan-is-mccains/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ],
+        "statement": "<p>A mortgage buyback plan is \"my proposal, it's not Sen. Obama's proposal, it's not President Bush's proposal.\"</p>",
+        "ruling_headline": "The idea is old, but the plan is McCain's",
+        "ruling_link_text": "The idea is old, but the plan is McCain's",
+        "statement_context": "Nashville, Tenn.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-10-09T00:00:00",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/08/john-mccain/small-businesses-exempt-from-obamas-plan/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "<p>Barack Obama's plan calls for \"mandates and fines for small businesses.\"</p>",
+        "ruling_headline": "Small businesses exempt from Obama's plan",
+        "ruling_link_text": "Small businesses exempt from Obama's plan",
+        "statement_context": "a debate in Nashville, Tenn.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-08T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/07/john-mccain/ebays-big-but-not-that-big/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ],
+        "statement": "<p>\"1.3-million people in America make their living off eBay.\"</p>",
+        "ruling_headline": "eBay's big, but not that big",
+        "ruling_link_text": "eBay's big, but not that big",
+        "statement_context": "Nashville, Tenn.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-10-07T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/07/john-mccain/mccain-proud-to-have-parted-ways-with-bush/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "environment",
+                "subject": "Environment"
+            }
+        ],
+        "statement": "<p>\"I have disagreed strongly with the Bush administration on this issue\" of global warming.</p>",
+        "ruling_headline": "McCain proud to have parted ways with Bush",
+        "ruling_link_text": "McCain proud to have parted ways with Bush",
+        "statement_context": "a debate in Nashville, Tenn.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-10-07T00:00:00",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/07/john-mccain/94-not-even-close/",
+        "statement_date": "2008-10-07",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\"Senator Obama has voted 94 times to either increase your taxes or against tax cuts.\"</p>",
+        "ruling_headline": "94? Not even close",
+        "ruling_link_text": "94? Not even close",
+        "statement_context": "comment from McCain spokesman Tucker Bounds on Fox News",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-07T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/oct/01/john-mccain/a-clean-hit-not-quite/",
+        "statement_date": "2008-10-01",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "energy",
+                "subject": "Energy"
+            }
+        ],
+        "statement": "<p>\"Obama, Biden and their liberal allies oppose clean coal.\"</p>",
+        "ruling_headline": "A clean hit? Not quite",
+        "ruling_link_text": "A clean hit? Not quite",
+        "statement_context": "a radio ad.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-10-01T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/30/john-mccain/fannie-freddie-and-john-at-odds-in-2006/",
+        "statement_date": "2008-09-30",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ],
+        "statement": "<p>\"John McCain fought to rein in Fannie and Freddie...but Democrats blocked the reforms.\"</p>",
+        "ruling_headline": "Fannie, Freddie and John, at odds in 2006",
+        "ruling_link_text": "Fannie, Freddie and John, at odds in 2006",
+        "statement_context": "an advertisement",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-30T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/27/john-mccain/yes-south-koreans-taller/",
+        "statement_date": "2008-09-26",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p>\"The average South Korean is&nbsp;3 inches taller than the average North Korean, a huge gulag.\"</p>",
+        "ruling_headline": "Yes, South Koreans taller",
+        "ruling_link_text": "Yes, South Koreans taller",
+        "statement_context": "a debate in Oxford, Miss.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-27T00:00:00",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/26/john-mccain/bear-study-funding-actually-undersold/",
+        "statement_date": "2008-09-26",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ],
+        "statement": "<p>\"You know, we spent $3-million to study the DNA of bears in Montana.\"</p>",
+        "ruling_headline": "Bear study funding actually undersold",
+        "ruling_link_text": "Bear study funding actually undersold",
+        "statement_context": "in debate in Oxford, Miss.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-26T00:00:00",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/26/john-mccain/mccain-flubs-military-history/",
+        "statement_date": "2008-09-26",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            }
+        ],
+        "statement": "<p>\"President Eisenhower, on the night before the Normandy invasion...[wrote a] letter of resignation to the United States Army for the failure of the landings at Normandy.\"</p>",
+        "ruling_headline": "McCain flubs military history",
+        "ruling_link_text": "McCain flubs military history",
+        "statement_context": "Oxford, Miss.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-26T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/26/john-mccain/mccain-right-on-amount-of-obamas-pork-requests/",
+        "statement_date": "2008-09-26",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ],
+        "statement": "<p><span style=\"font-size: xx-small;\">\r\n<p align=\"left\">\"He has asked for $932-million of earmark pork-barrel spending, nearly a million dollars for every day that he&rsquo;s been in the United States Senate.\"</p>\r\n</span></p>",
+        "ruling_headline": "McCain right on amount of Obama's pork requests",
+        "ruling_link_text": "McCain right on amount of Obama's pork requests",
+        "statement_context": "in debate in Oxford, Miss.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-09-26T00:00:00",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/26/john-mccain/mccain-repeats-questionable-tax-claim/",
+        "statement_date": "2008-09-26",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>Obama \"has voted in the United States Senate to increase taxes on people who make as low as $42,000 a year.\"</p>",
+        "ruling_headline": "McCain repeats questionable tax claim",
+        "ruling_link_text": "McCain repeats questionable tax claim",
+        "statement_context": "Oxford, Miss.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-09-26T00:00:00",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/26/john-mccain/several-ratings-rank-obama-lower/",
+        "statement_date": "2008-09-26",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>\"Senator Obama has the most liberal voting record in the United States Senate.\"</p>",
+        "ruling_headline": "Several ratings rank Obama lower",
+        "ruling_link_text": "Several ratings rank Obama lower",
+        "statement_context": "Oxford, Miss.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-09-26T00:00:00",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/26/john-mccain/republicans-werent-shut-out/",
+        "statement_date": "2008-09-26",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ],
+        "statement": "<p>House Republicans \"weren't part of the negotiations\" on the Wall Street bailout plan.</p>",
+        "ruling_headline": "Republicans weren't shut out",
+        "ruling_link_text": "Republicans weren't shut out",
+        "statement_context": "the first presidential debate in Oxford, Miss.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-26T00:00:00",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/23/john-mccain/turning-the-tables-on-obama/",
+        "statement_date": "2008-09-15",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ],
+        "statement": "<p>\r\n<p align=\"left\">\"Barack Obama has the longest track record of any candidate in this election in support of the 'Bridge To Nowhere.' \"</p>\r\n</p>",
+        "ruling_headline": "Turning the tables on Obama",
+        "ruling_link_text": "Turning the tables on Obama",
+        "statement_context": "a news release.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-09-23T00:00:00",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/23/john-mccain/he-said-it-was-patriotic-to-pay-higher-taxes/",
+        "statement_date": "2008-09-22",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\"Last week Senator Obama's running mate said, get this, 'Raising taxes is patriotic.' \"</p>",
+        "ruling_headline": "He said it was patriotic to pay higher taxes",
+        "ruling_link_text": "He said it was patriotic to pay higher taxes",
+        "statement_context": "Reading, Pa.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-09-23T00:00:00",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/19/john-mccain/mccain-neither-endorsed-nor-condemned-the-bailout/",
+        "statement_date": "2008-09-17",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "corporations",
+                "subject": "Corporations"
+            },
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ],
+        "statement": "<p>On whether the government should bail out insurance giant AIG.</p>",
+        "ruling_headline": "McCain neither endorsed nor condemned the bailout",
+        "ruling_link_text": "McCain neither endorsed nor condemned the bailout",
+        "statement_context": "",
+        "statement_type": {
+            "statement_type": "Flip"
+        },
+        "ruling_date": "2008-09-19T00:00:00",
+        "ruling": {
+            "ruling_slug": "half-flip",
+            "ruling": "Half Flip",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/fom-halfFlip.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/19/john-mccain/their-employees-have-donated/",
+        "statement_date": "2008-09-19",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "ethics",
+                "subject": "Ethics"
+            }
+        ],
+        "statement": "<p>Barack Obama got more campaign contributions from Fannie Mae and Freddie Mac \"than any other member of Congress, except for the Democratic chairmen of the committee that oversees them.\"</p>",
+        "ruling_headline": "Their employees have donated",
+        "ruling_link_text": "Their employees have donated",
+        "statement_context": "Green Bay, Wis.",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-09-19T00:00:00",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/17/john-mccain/ringing-an-alarm-not-averting-a-crisis/",
+        "statement_date": "2008-09-16",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "housing",
+                "subject": "Housing"
+            },
+            {
+                "subject_slug": "market-regulation",
+                "subject": "Regulation"
+            }
+        ],
+        "statement": "<p>\"I said two years ago that the Fannie and Freddie thing was a very serious problem and we had to work on it.\"</p>",
+        "ruling_headline": "Ringing an alarm, not averting a crisis",
+        "ruling_link_text": "Ringing an alarm, not averting a crisis",
+        "statement_context": "an interview on CNN's \"American Morning\"",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-17T00:00:00",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/16/john-mccain/mccains-got-obama-over-a-pork-barrel/",
+        "statement_date": "2008-09-16",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ],
+        "statement": "<p>\"Obama has asked for $932-million in earmarks, literally $1-million for every day that he&rsquo;s been in Congress.\"</p>",
+        "ruling_headline": "McCain's got Obama over a pork barrel",
+        "ruling_link_text": "McCain's got Obama over a pork barrel",
+        "statement_context": "a speech in Tampa",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-09-16T00:00:00",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/16/john-mccain/mccains-record-on-pork-good-not-perfect/",
+        "statement_date": "2008-09-16",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ],
+        "statement": "<p>\"I have never asked for a single earmark, pork barrel project for my state of Arizona.\"</p>",
+        "ruling_headline": "McCain's record on pork: Good, not perfect",
+        "ruling_link_text": "McCain's record on pork: Good, not perfect",
+        "statement_context": "Tampa, Fla.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-16T00:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/11/john-mccain/an-absurd-claim-about-a-bill-that-never-passed/",
+        "statement_date": "2008-09-09",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            }
+        ],
+        "statement": "<p>Obama's one education accomplishment was \"legislation to teach 'comprehensive sex education' to kindergartners.\"</p>",
+        "ruling_headline": "An absurd claim about a bill that never passed",
+        "ruling_link_text": "An absurd claim about a bill that never passed",
+        "statement_context": "in a television ad",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-09-11T00:00:00",
+        "ruling": {
+            "ruling_slug": "pants-fire",
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/11/john-mccain/education-ad-is-incomplete/",
+        "statement_date": "2008-09-09",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            }
+        ],
+        "statement": "<i>Education Week</i> says Obama 'hasn't made a significant mark on education,' is 'elusive' on accountability, and a 'staunch defender of the existing public school monopoly.'<p>",
+        "ruling_headline": "Education ad is incomplete",
+        "ruling_link_text": "Education ad is incomplete",
+        "statement_context": "in a television ad",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-11T00:00:00",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/10/john-mccain/if-theres-lipstick-on-a-pig-its-this-mccain-ad/",
+        "statement_date": "2008-09-09",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>Says Obama called Sarah Palin a pig.</p>",
+        "ruling_headline": "If there's lipstick on a pig, it's this McCain ad",
+        "ruling_link_text": "If there's lipstick on a pig, it's this McCain ad",
+        "statement_context": "a Web ad",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_date": "2008-09-10T00:00:00",
+        "ruling": {
+            "ruling_slug": "pants-fire",
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/09/john-mccain/he-butted-heads-with-big-pharma/",
+        "statement_date": "2008-09-08",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "John McCain \"took on the drug industry.\"",
+        "ruling_headline": "He butted heads with Big Pharma",
+        "ruling_link_text": "He butted heads with Big Pharma",
+        "statement_context": "a TV ad",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-09T00:00:00",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/08/john-mccain/a-bridge-to-exaggeration/",
+        "statement_date": "2008-09-08",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "transportation",
+                "subject": "Transportation"
+            }
+        ],
+        "statement": "<p>Palin \"stopped the Bridge to Nowhere.\"</p>",
+        "ruling_headline": "A bridge to exaggeration",
+        "ruling_link_text": "A bridge to exaggeration",
+        "statement_context": "a TV ad",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-08T00:00:00",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2008/sep/05/john-mccain/history-notes-elder-mccains-passing/",
+        "statement_date": "2008-09-04",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "\"My grandfather came home from ... (World War II) exhausted from the burdens he had borne, and died the next day.\"",
+        "ruling_headline": "History notes elder McCain's passing",
+        "ruling_link_text": "History notes elder McCain's passing",
+        "statement_context": "St. Paul, Minn.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2008-09-05T00:00:00",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-johnmccain.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-mccain",
+            "last_name": "McCain",
+            "first_name": "John"
+        }
+    }
+]

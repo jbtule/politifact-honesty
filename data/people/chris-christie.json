@@ -1,0 +1,813 @@
+[
+    {
+        "statement_url": "/truth-o-meter/statements/2016/jul/19/chris-christie/stamp-one-correct-chris-christie-says-clinton-wron/",
+        "target": [
+            {
+                "last_name": "Clinton",
+                "first_name": "Hillary",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "hillary-clinton"
+            }
+        ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "history",
+                "subject": "History"
+            },
+            {
+                "subject_slug": "job-accomplishments",
+                "subject": "Job Accomplishments"
+            },
+            {
+                "subject_slug": "technology",
+                "subject": "Technology"
+            },
+            {
+                "subject_slug": "transparency",
+                "subject": "Transparency"
+            }
+        ],
+        "statement": "<p>Says Hillary Clinton &quot;said all work-related emails were sent back to the State Department. The FBI director said, that&#39;s not true.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2016-07-19T23:42:48",
+        "statement_date": "2016-07-19",
+        "ruling_link_text": "Christie delivers",
+        "statement_context": "a speech at the Republican convention",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Stamp this one 'correct;' Chris Christie says Clinton wrong about work-related emails"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2016/jul/19/chris-christie/gov-chris-christie-clintons-reformer-quote/",
+        "target": [
+            {
+                "last_name": "Clinton",
+                "first_name": "Hillary",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "hillary-clinton"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p>Says &quot;(Clinton) called President Assad a &lsquo;reformer.&rsquo; She called Assad a &lsquo;different kind of leader.&rsquo; &quot;</p>\r\n\r\n<div>&nbsp;</div>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2016-07-19T22:36:42",
+        "statement_date": "2016-07-19",
+        "ruling_link_text": "Objection, your Honor",
+        "statement_context": "a speech at the Republican National Convention",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "In RNC speech, Chris Christie says Clinton called Assad a 'reformer,' a 'different kind of leader'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2016/feb/08/carly-fiorina/carly-fiorina-says-her-campaign-has-more-cash-hand/",
+        "target": [
+            {
+                "last_name": "Christie",
+                "first_name": "Chris",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "chris-christie"
+            },
+            {
+                "last_name": "Kasich",
+                "first_name": "John",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "john-kasich"
+            }
+        ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "campaign-finance",
+                "subject": "Campaign Finance"
+            }
+        ],
+        "statement": "<p>Says she &quot;is 6th in hard dollars raised and has more cash on hand than Governors (John) Kasich and (Chris) Christie combined.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2016-02-08T17:53:15",
+        "statement_date": "2016-02-06",
+        "ruling_link_text": "She's right, though still back in the pack",
+        "statement_context": "a column posted on Medium.com",
+        "speaker": {
+            "last_name": "Fiorina",
+            "first_name": "Carly",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Fiorina_1.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "carly-fiorina"
+        },
+        "ruling_headline": "Carly Fiorina says her campaign has more cash on hand than John Kasich and Chris Christie combined"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2016/jan/28/chris-christie/christie-says-neighbors-san-bernardino-shooters-kn/",
+        "target": [],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ],
+        "statement": "<p>Neighbors of the San Bernardino shooters &quot;knew that they were talking about trying to take our country and attack it.&quot;</p>\r\n\r\n<div>&nbsp;</div>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2016-01-28T23:07:14",
+        "statement_date": "2016-01-28",
+        "ruling_link_text": "No inkling of an attack",
+        "statement_context": "the Republican debate in Des Moines, Iowa",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Christie says neighbors of San Bernardino shooters knew more than they did"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2016/jan/15/chris-christie/marco-rubio-says-chris-christie-supported-sonia-so/",
+        "target": [],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "sotomayor-nomination",
+                "subject": "Sotomayor Nomination"
+            },
+            {
+                "subject_slug": "supreme-court",
+                "subject": "Supreme Court"
+            }
+        ],
+        "statement": "<p>&quot;I didn&rsquo;t support Sonia Sotomayor.&quot;</p>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2016-01-15T00:15:25",
+        "statement_date": "2016-01-15",
+        "ruling_link_text": "Initial reservation followed by support",
+        "statement_context": "a Republican debate on Fox Business Network in South Carolina on Fox Business Network ",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Chris Christie says 'I didn’t support Sonia Sotomayor' -- but he did"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2016/jan/14/conservative-solutions-pac/marco-rubio-superpac-says-chris-christie-imposed-i/",
+        "target": [
+            {
+                "last_name": "Christie",
+                "first_name": "Chris",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "chris-christie"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "government-regulation",
+                "subject": "Government regulation"
+            },
+            {
+                "subject_slug": "state-budget",
+                "subject": "State Budget"
+            },
+            {
+                "subject_slug": "states",
+                "subject": "States"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>Says Chris Christie &quot;instituted an Internet sales tax.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2016-01-14T17:00:00",
+        "statement_date": "2016-01-04",
+        "ruling_link_text": "It's money already owed to the state ",
+        "statement_context": "an attack ad",
+        "speaker": {
+            "last_name": "Conservative Solutions PAC",
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/conservsol.png",
+            "party": {
+                "party_slug": "organization",
+                "party": "Organization"
+            },
+            "name_slug": "conservative-solutions-pac"
+        },
+        "ruling_headline": "Marco Rubio super PAC says Chris Christie imposed an Internet tax in New Jersey"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/dec/21/chris-christie/chris-christie-mostly-wrong-barack-obama-invited-r/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            }
+        ],
+        "statement": "<p>Says the Obama administration invited &quot;Russia into Syria.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-12-21T15:23:57",
+        "statement_date": "2015-12-15",
+        "ruling_link_text": "At most, an act of omission, not commission",
+        "statement_context": "a Republican presidential debate in Las Vegas",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Chris Christie mostly wrong that Barack Obama invited Russia into military role in Syria"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/nov/12/chris-christie/chris-christies-false-claim-democrats-are-going-ra/",
+        "target": [],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>The Democrats plan &quot;to raise your tax rates to 70 or 80 percent.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-11-12T11:25:43",
+        "statement_date": "2015-11-10",
+        "ruling_link_text": "No Dem has released a detailed tax plan",
+        "statement_context": "the fourth GOP undercard debate.",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Chris Christie's false claim that Democrats are going to raise taxes to 70 or 80 percent"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/nov/10/chris-christie/christie-us-worst-recovery-wwii/",
+        "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ],
+        "statement": "<p>Says the United States is in &quot;the worst recovery from an economic recession since World War II.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-11-10T21:50:05",
+        "statement_date": "2015-11-10",
+        "ruling_link_text": "Worst for GDP, second worst for jobs",
+        "statement_context": "the fourth Republican presidential debate",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Christie: The U.S. is in the worst recovery since WWII"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/oct/28/chris-christie/chris-christie-says-bernie-sanderss-plan-raise-you/",
+        "target": [
+            {
+                "last_name": "Sanders",
+                "first_name": "Bernie",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Bernie_Sanders.jpg",
+                "party": {
+                    "party_slug": "independent",
+                    "party": "Independent"
+                },
+                "name_slug": "bernie-s"
+            }
+        ],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>Bernie Sanders&rsquo;s plan is &quot;to raise your taxes to 90 percent.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-10-28T21:28:36",
+        "statement_date": "2015-10-28",
+        "ruling_link_text": "Same claim, another pair of pants is ablaze",
+        "statement_context": "a Republican presidential debate in Boulder, Colo.",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Chris Christie says Bernie Sanders’s plan is 'to raise your taxes to 90 percent'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/jul/13/ultraviolet/did-chris-christie-veto-equal-pay-women-ultraviole/",
+        "target": [
+            {
+                "last_name": "Christie",
+                "first_name": "Chris",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "chris-christie"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "income",
+                "subject": "Income"
+            },
+            {
+                "subject_slug": "women",
+                "subject": "Women"
+            },
+            {
+                "subject_slug": "workers",
+                "subject": "Workers"
+            }
+        ],
+        "statement": "<p>Says Chris Christie &quot;vetoed equal pay for women 3 times. He only let the bill pass once it became a damaging campaign issue.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-07-13T16:27:29",
+        "statement_date": "2015-06-30",
+        "ruling_link_text": "Way more complex than that",
+        "statement_context": "a Facebook meme",
+        "speaker": {
+            "last_name": "Ultraviolet",
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Ultraviolet_logo.jpg",
+            "party": {
+                "party_slug": "none",
+                "party": "None"
+            },
+            "name_slug": "ultraviolet"
+        },
+        "ruling_headline": "Did Chris Christie veto equal pay for women, as Ultraviolet says? "
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/jul/09/chris-christie/chris-christie-bridgegate-investigations-back-my-s/",
+        "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>&quot;There&rsquo;s now been three independent investigations (into the bridge scandal) all of which have said&quot; that Christie did not have prior knowledge of or involvement in the lane closures.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-07-09T11:31:52",
+        "statement_date": "2015-07-06",
+        "ruling_link_text": "One out of three",
+        "statement_context": "an interview on MSNBC's \"Morning Joe\"",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Chris Christie: Bridgegate investigations back up my story"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/jun/24/chris-christie/christie-says-parent-and-teacher-complaints-prompt/",
+        "target": [],
+        "ruling": {
+            "ruling": "Full Flop",
+            "ruling_slug": "full-flop",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/fom-fullFlop.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            }
+        ],
+        "statement": "<p>On Common Core.&nbsp;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Flip"
+        },
+        "ruling_date": "2015-06-24T15:26:16",
+        "statement_date": "2015-06-07",
+        "ruling_link_text": "Says he changed after hearing parent and teacher complaints",
+        "statement_context": "an interview on CBS' Face the Nation",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Chris Christie says parent and teacher complaints prompted change on Common Core"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/jun/09/hillary-clinton/hillary-clinton-chris-christie-voting-early-voting/",
+        "target": [
+            {
+                "last_name": "Christie",
+                "first_name": "Chris",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "chris-christie"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "elections",
+                "subject": "Elections"
+            }
+        ],
+        "statement": "<p>&quot;In New Jersey, Gov. Christie vetoed legislation to extend early voting.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-06-09T12:07:06",
+        "statement_date": "2015-06-04",
+        "ruling_link_text": "Voting early differs from early voting",
+        "statement_context": "a speech",
+        "speaker": {
+            "last_name": "Clinton",
+            "first_name": "Hillary",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "hillary-clinton"
+        },
+        "ruling_headline": "Hillary Clinton says Chris Christie vetoed early voting"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2013/nov/14/chris-christie/new-jersey-medicaid-expansion-was-small-given-alre/",
+        "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "corrections-and-updates",
+                "subject": "Corrections and Updates"
+            },
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            },
+            {
+                "subject_slug": "medicaid",
+                "subject": "Medicaid"
+            },
+            {
+                "subject_slug": "state-budget",
+                "subject": "State Budget"
+            }
+        ],
+        "statement": "<p>&quot;Given how expansive our program already was,&quot; expanding Medicaid in New Jersey due to Obamacare &quot;was a relatively small expansion.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2013-11-14T14:46:02",
+        "statement_date": "2013-11-10",
+        "ruling_link_text": "Looks right, but data is limited",
+        "statement_context": "an interview on ABC's \"This Week\"",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "New Jersey Medicaid expansion was small, given already large program, Christie says"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/aug/28/chris-christie/chris-christie-says-there-has-been-5-trillion-debt/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debt",
+                "subject": "Debt"
+            }
+        ],
+        "statement": "<p>There has been &quot;$5 trillion in debt added over the last four years.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-08-28T22:47:53",
+        "statement_date": "2012-08-28",
+        "ruling_link_text": "His number is very close",
+        "statement_context": "a speech at the Republican National Convention in Tampa",
+        "speaker": {
+            "last_name": "Christie",
+            "first_name": "Chris",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "chris-christie"
+        },
+        "ruling_headline": "Chris Christie says there has been “$5 trillion in debt added over the last four years”"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2011/oct/03/martin-omalley/under-chris-christie-does-new-jersey-have-one-high/",
+        "target": [
+            {
+                "last_name": "Christie",
+                "first_name": "Chris",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "chris-christie"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            },
+            {
+                "subject_slug": "states",
+                "subject": "States"
+            }
+        ],
+        "statement": "<p>\r\n\tChris Christie has not been &quot;effective at creating jobs &hellip; (or have) a record of governing for effectiveness. ...<br />\r\n\tNew Jersey (has) one of the higher unemployment rates in the country at 9.4 percent.&quot;</p>",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2011-10-03T15:18:46",
+        "statement_date": "2011-10-02",
+        "ruling_link_text": "Rate is higher than average, but not in the top 10",
+        "statement_context": "an interview on CBS's \"Face the Nation\"",
+        "speaker": {
+            "last_name": "O'Malley",
+            "first_name": "Martin",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Martin_OMalley.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "martin-omalley"
+        },
+        "ruling_headline": "Under Chris Christie, does New Jersey have \"one of the higher unemployment rates in the country\"?"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2011/oct/03/martin-omalley/did-chris-christies-new-jersey-create-no-net-new-j/",
+        "target": [
+            {
+                "last_name": "Christie",
+                "first_name": "Chris",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "chris-christie"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            },
+            {
+                "subject_slug": "states",
+                "subject": "States"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;When it comes to being effective at creating jobs &hellip; (Chris Christie has not had) a record of governing for effectiveness. ... Last year, New Jersey created no net new jobs.&quot;</p>",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2011-10-03T15:14:33",
+        "statement_date": "2011-10-02",
+        "ruling_link_text": "True for 2010, but why stop counting there?",
+        "statement_context": "an interview on CBS's \"Face the Nation\"",
+        "speaker": {
+            "last_name": "O'Malley",
+            "first_name": "Martin",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Martin_OMalley.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "martin-omalley"
+        },
+        "ruling_headline": "Did Chris Christie's New Jersey create no net new jobs last year?"
+    }
+]

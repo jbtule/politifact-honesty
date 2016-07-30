@@ -1,0 +1,3704 @@
+[
+    {
+        "statement_url": "/truth-o-meter/statements/2016/mar/06/mitt-romney/mitt-romney-praised-donald-trumps-business-skill-2/",
+        "target": [
+            {
+                "last_name": "Trump",
+                "first_name": "Donald",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "donald-trump"
+            }
+        ],
+        "ruling": {
+            "ruling": "Full Flop",
+            "ruling_slug": "full-flop",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/fom-fullFlop.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>On Donald Trump&#39;s track record in business</p>\r\n",
+        "statement_type": {
+            "statement_type": "Flip"
+        },
+        "ruling_date": "2016-03-06T18:12:22",
+        "statement_date": "2016-03-06",
+        "ruling_link_text": "Romney has done a U-turn since 2012",
+        "statement_context": "an interview with NBC's \"Meet the Press\"",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney praised Donald Trump's business skill in 2012, then flip-flopped in 2016"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2013/nov/03/mitt-romney/mitt-romney-says-health-insurance-more-expensive-m/",
+        "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            },
+            {
+                "subject_slug": "states",
+                "subject": "States"
+            }
+        ],
+        "statement": "<p>&quot;Health insurance is more expensive in Massachusetts than anywhere else in the country.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2013-11-03T13:40:35",
+        "statement_date": "2013-11-03",
+        "ruling_link_text": "Only Alaska is higher",
+        "statement_context": "comments on NBC's \"Meet the Press\"",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says 'health insurance is more expensive in Massachusetts than anywhere else in the country'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/nov/05/priorities-usa-action/ad-claims-mitt-romney-made-over-hundred-million-do/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "corporations",
+                "subject": "Corporations"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Mitt Romney made over a hundred million dollars by shutting down (a Marion, Ind. paper) plant.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-11-05T16:20:20",
+        "statement_date": "2012-11-02",
+        "ruling_link_text": "Money earned by far more people on a much bigger investment",
+        "statement_context": "in a TV ad",
+        "speaker": {
+            "last_name": "Priorities USA Action",
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/priorities.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "priorities-usa-action"
+        },
+        "ruling_headline": "Ad claims Mitt Romney made 'over a hundred million dollars' shutting down paper plant"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/nov/02/priorities-usa-action/mitt-romney-and-rick-scott-both-have-medicare-frau/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "medicare",
+                "subject": "Medicare"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney &quot;was director of a company that stole millions from Medicare.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-11-02T17:26:02",
+        "statement_date": "2012-10-31",
+        "ruling_link_text": "One of several directors",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Priorities USA Action",
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/priorities.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "priorities-usa-action"
+        },
+        "ruling_headline": "Mitt Romney and Rick Scott both have Medicare fraud in their background, super PAC ad claims"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/nov/02/planned-parenthood-action-fund/radio-ad-says-mitt-romney-wants-get-rid-planned-pa/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "abortion",
+                "subject": "Abortion"
+            },
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            },
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney wants to &quot;get rid of Planned Parenthood.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-11-02T11:45:15",
+        "statement_date": "2012-10-31",
+        "ruling_link_text": "Romney wants to get rid of federal funding",
+        "statement_context": "a radio ad",
+        "speaker": {
+            "last_name": "Planned Parenthood Action Fund",
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/PP_logo.jpg",
+            "party": {
+                "party_slug": "none",
+                "party": "None"
+            },
+            "name_slug": "planned-parenthood-action-fund"
+        },
+        "ruling_headline": "Radio ad says Mitt Romney wants to \"get rid of Planned Parenthood”"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/nov/02/florida-democratic-party/florida-dems-say-romney-supported-law-could-have-b/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "abortion",
+                "subject": "Abortion"
+            },
+            {
+                "subject_slug": "sexuality",
+                "subject": "Sexuality"
+            }
+        ],
+        "statement": "<p>Says &quot;Romney supported a law that could have made most common forms of birth control illegal.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-11-02T10:14:23",
+        "statement_date": "2012-10-26",
+        "ruling_link_text": "Misrepresents Romney's careful language",
+        "statement_context": "a mailer to voters",
+        "speaker": {
+            "last_name": "Florida Democratic Party",
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Donkey.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "florida-democratic-party"
+        },
+        "ruling_headline": "Florida Dems say Romney supported law that could have banned some kinds of birth control"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/31/barack-obama/obama-says-romney-would-roll-back-banking-regulati/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "financial-regulation",
+                "subject": "Financial Regulation"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tSays &quot;Mitt Romney&rsquo;s plan rolls back regulations&quot; on banks.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-31T17:32:56",
+        "statement_date": "2012-10-27",
+        "ruling_link_text": "No details but an easing of current rules",
+        "statement_context": "a television ad",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Barack Obama says Mitt Romney would roll back banking regulations"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/30/barack-obama/obama-ad-says-romney-will-make-catastrophic-cuts-e/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney&rsquo;s plan makes &quot;catastrophic cuts to education.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-30T16:48:10",
+        "statement_date": "2012-10-27",
+        "ruling_link_text": "Catastrophe is speculative",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama ad says Romney will make ‘catastrophic cuts to education’"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/30/mitt-romney/mitt-romney-obama-chrysler-sold-italians-china-ame/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "china",
+                "subject": "China"
+            },
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            },
+            {
+                "subject_slug": "workers",
+                "subject": "Workers"
+            }
+        ],
+        "statement": "<p>Says Barack Obama &quot;sold Chrysler to Italians who are going to build Jeeps in China&quot; at the cost of American jobs.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-30T10:44:43",
+        "statement_date": "2012-10-29",
+        "ruling_link_text": "This claim throws reality in reverse",
+        "statement_context": "a television ad",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says Obama's Chrysler deal undermined U.S. workers"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/29/mitt-romney/mitt-romney-says-women-white-house-employees-earn-/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            },
+            {
+                "subject_slug": "women",
+                "subject": "Women"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Women in Barack Obama&#39;s White House are earning less than men.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-29T10:42:19",
+        "statement_date": "2012-10-26",
+        "ruling_link_text": "Big-picture, yes; in identical jobs, not so much",
+        "statement_context": "a campaign mailer",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says women White House employees earn less than men under Barack Obama"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/26/mitt-romney/romney-says-obama-plans-4000-tax-hike-middle-class/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Under President Obama: $4,000 tax hike on middle-class families.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-26T14:44:55",
+        "statement_date": "2012-10-10",
+        "ruling_link_text": "Treats a hypothetical study like a crystal ball",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney says Obama plans $4,000 tax hike on middle class"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/24/barack-obama/obama-says-romney-would-spend-2-trilllion-military/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney wants to add $2 trillion to defense budget that the military hasn&rsquo;t asked for.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-24T14:43:23",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "Romney wants more for defense",
+        "statement_context": "a presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says Romney would spend $2 trillion that the military hasn't asked for"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/23/barack-obama/obama-claims-romney-said-we-should-ask-pakistan-pe/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Romney said &quot;we should ask Pakistan for permission&quot; to take a shot at Osama bin Laden.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-23T18:29:06",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "Oversimplifies what Romney said",
+        "statement_context": "the third presidential debate in Boca Raton, Fla.",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama claims Romney said \"we should ask Pakistan for permission\" to take out Osama bin Laden"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/23/mitt-romney/mitt-romney-says-obama-was-silent-about-protests-a/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Barack Obama was silent on Iran &quot;when the students took to the streets in Tehran and the people there protested, (and) the Green Revolution occurred.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-23T18:11:33",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "Obama's response was quiet but not silent",
+        "statement_context": "a foreign policy debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says Barack Obama was silent about the protests after the 2009 Iran election"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/23/mitt-romney/mitt-romney-says-pakistan-path-overtake-uk-nuclear/",
+        "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "nuclear",
+                "subject": "Nuclear"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Pakistan has 100 nuclear warheads and they&rsquo;re rushing to build a lot more. They&rsquo;ll have more than Great Britain sometime in the relatively near future.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-23T17:41:33",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "A plausible path",
+        "statement_context": "the third presidential debate in Boca Raton, Fla.",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says Pakistan is on a path to overtake the U.K. in nuclear weapons"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/23/barack-obama/obama-romney-said-troops-should-still-be-iraq/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "iraq",
+                "subject": "Iraq"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney &quot;just gave a speech a few weeks ago&quot; and said &quot;we should still have troops in Iraq.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-23T17:34:57",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "Romney wanted gradual drawdown",
+        "statement_context": "the third presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Barack Obama: Mitt Romney said troops should still be in Iraq"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/23/mitt-romney/mitt-romney-says-latin-americas-economy-almost-big/",
+        "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Latin America&rsquo;s economy is almost as big as the economy of China.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-23T16:21:23",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "Depends on your definition of \"almost as big\"",
+        "statement_context": "the third presidential debate in Boca Raton, Fla.",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says Latin America’s economy is \"almost as big\" as the economy of China"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/23/barack-obama/obama-says-romney-opposed-any-government-help-resc/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney was clear that he &quot;would not provide government assistance to the U.S. auto companies, even if they went through bankruptcy.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-23T15:13:32",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "Romney said little but he did offer something",
+        "statement_context": "the final debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says Romney opposed any government help to rescue carmakers"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/22/mitt-romney/mitt-romney-says-he-balanced-budget-salt-lake-city/",
+        "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;I went to the Olympics that was out of balance, and we got it on balance.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-22T23:40:58",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "Off-budget, he got a lot of federal help",
+        "statement_context": "the third presidential debate in Boca Raton, Fla.",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says he balanced the budget of the Salt Lake City Olympics"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/22/mitt-romney/romney-says-obama-wants-daylight-us-israel-relatio/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "israel",
+                "subject": "Israel"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;The president said he was going to create daylight between ourselves and Israel.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-22T23:15:28",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "An unconfirmed quote",
+        "statement_context": "a presidential debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney says Obama wants ‘daylight’ in U.S.-Israel relationship"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/22/barack-obama/obama-romney-called-russia-our-top-geopolitical-fo/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "corrections-and-updates",
+                "subject": "Corrections and Updates"
+            },
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;A few months ago when you were asked what&#39;s the biggest geopolitical threat facing America, you said Russia.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-22T21:47:27",
+        "statement_date": "2012-10-22",
+        "ruling_link_text": "UPDATE: Romney said foe, not threat",
+        "statement_context": "a presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama: Romney called Russia our top geopolitical threat"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/22/mitt-romney/romney-says-survey-found-massachusetts-had-more-wo/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "job-accomplishments",
+                "subject": "Job Accomplishments"
+            },
+            {
+                "subject_slug": "states",
+                "subject": "States"
+            },
+            {
+                "subject_slug": "women",
+                "subject": "Women"
+            }
+        ],
+        "statement": "<p>\r\n\tSays a university survey concluded his Massachusetts administration &quot;had more women in senior leadership positions than any other state in America.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-22T18:45:24",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "Highest percentage in the nation — his first year",
+        "statement_context": "the second presidential debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney says a survey found Massachusetts 'had more women in senior leadership positions than any other state'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/19/planned-parenthood/planned-parenthood-says-mitt-romney-and-george-all/",
+        "target": [
+            {
+                "last_name": "Allen",
+                "first_name": "George",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/George__Allen.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "george-allen"
+            },
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "abortion",
+                "subject": "Abortion"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            },
+            {
+                "subject_slug": "states",
+                "subject": "States"
+            },
+            {
+                "subject_slug": "supreme-court",
+                "subject": "Supreme Court"
+            },
+            {
+                "subject_slug": "women",
+                "subject": "Women"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney and George Allen &quot;would overturn Roe v. Wade and allow states to end safe, legal abortion even in cases of rape, incest or when a woman&#39;s life is at risk.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-19T16:02:45",
+        "statement_date": "2012-10-10",
+        "ruling_link_text": "Presidents and senators can't directly 'overturn' decision",
+        "statement_context": "in a mailer",
+        "speaker": {
+            "last_name": "Planned Parenthood",
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-independentgroup____________.jpg",
+            "party": {
+                "party_slug": "none",
+                "party": "None"
+            },
+            "name_slug": "planned-parenthood"
+        },
+        "ruling_headline": "Planned Parenthood says Mitt Romney and George Allen 'would overturn Roe v. Wade and allow states to end safe, legal abortion'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/18/mitt-romney/federal-regulations-quadrupled-under-obama/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "corrections-and-updates",
+                "subject": "Corrections and Updates"
+            },
+            {
+                "subject_slug": "market-regulation",
+                "subject": "Regulation"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Regulations have quadrupled. The rate of regulations quadrupled under this president.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-18T16:53:23",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "The number actually hasn't changed much",
+        "statement_context": "town hall presidential debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney says federal regulations quadrupled under Obama"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/17/barack-obama/obama-says-romney-suggested-employers-should-be-ab/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "drugs",
+                "subject": "Drugs"
+            },
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            },
+            {
+                "subject_slug": "sexuality",
+                "subject": "Sexuality"
+            },
+            {
+                "subject_slug": "women",
+                "subject": "Women"
+            }
+        ],
+        "statement": "<p>Says Mitt Romney suggested that &quot;employers should be able to make the decision as to whether or not a woman gets contraception through her insurance coverage.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-17T13:26:05",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "Romney supported moral exemption",
+        "statement_context": "the second presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says Romney suggested employers should be able to decide if insurance covers contraceptives"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/17/barack-obama/barack-obama-says-says-mitt-romney-called-arizona-/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            },
+            {
+                "subject_slug": "legal-issues",
+                "subject": "Legal Issues"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney &quot;called the Arizona law a model for the nation.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-17T00:48:04",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "A widely spread misquote",
+        "statement_context": "the second presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Barack Obama says Mitt Romney called the Arizona immigration law a 'model for the nation.'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/17/mitt-romney/mitt-romney-says-barack-obama-began/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p>Says Barack Obama began his presidency &quot;with an apology tour.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-17T00:35:41",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "Repeating it over and over doesn't make it true",
+        "statement_context": "the second presidential debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says Barack Obama began his presidency \"with an apology tour\""
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/17/mitt-romney/romney-says-obama-waited-14-days-call-libya-attack/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "corrections-and-updates",
+                "subject": "Corrections and Updates"
+            },
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ],
+        "statement": "<p>\r\n\tSays President Obama waited two weeks to call the attack in Libya &quot;terror.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-17T00:20:13",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "Obama said it, then things got muddied",
+        "statement_context": "the second presidential debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney says Obama waited 14 days to call Libya attack terror"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/16/barack-obama/obama-mitt-romney-refused-say-whether-he-supports-/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "women",
+                "subject": "Women"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney refused to say whether he&#39;d sign the Lilly Ledbetter bill.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-16T23:49:06",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "A dodge for Romney",
+        "statement_context": "the second presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama: Mitt Romney refused to say whether he supports Lilly Ledbetter Act"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/16/barack-obama/obama-says-romney-once-said-coal-burning-plant-kil/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "energy",
+                "subject": "Energy"
+            }
+        ],
+        "statement": "<p>\r\n\tWhen Mitt Romney was governor of Massachusetts, he &quot;stood in front of a coal plant and pointed at it and said, &lsquo;This plant kills.&rsquo;&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-16T23:07:07",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "He said it",
+        "statement_context": "in a town-hall debate in Long Island, N.Y.",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says Romney once said a coal-burning plant ‘kills people’ "
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/16/mitt-romney/mitt-romney-says-oil-production-down-14-percent-ye/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "energy",
+                "subject": "Energy"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Oil production is down 14 percent this year on federal land.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-16T22:46:58",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "Number is right, but cherry-picked",
+        "statement_context": "the second presidential debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says 'oil production is down 14 percent this year on federal land'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/16/mitt-romney/romney-says-obama-failed-offer-immigration-bill-he/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Obama broke his promise to offer a comprehensive immigration bill in his first year.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-16T22:44:14",
+        "statement_date": "2012-10-16",
+        "ruling_link_text": "Immigration bill was a no-show",
+        "statement_context": "the second presidential debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney says Obama failed to offer the immigration bill he promised"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/15/barack-obama/obama-ad-says-romney-raised-nursing-home-fees-eigh/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "medicaid",
+                "subject": "Medicaid"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tAs governor, &quot;Mitt Romney raised nursing home fees eight times.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-15T18:01:37",
+        "statement_date": "2012-10-09",
+        "ruling_link_text": "Fees raised once, not eight times",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama ad says Romney raised nursing home fees eight times in Mass."
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/15/barack-obama/barack-obama-says-princeton-economists-analysis-do/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\tSays economists Harvey Rosen and Martin Feldstein have said that &quot;paying for (Mitt) Romney&rsquo;s tax cuts would require large tax increases on families making between $100,000 and $200,000.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-15T11:30:34",
+        "statement_date": "2012-10-07",
+        "ruling_link_text": "Largely contradicted by their writings",
+        "statement_context": "an email to supporters",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Barack Obama says economists' studies don't back up Mitt Romney's tax promises"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/11/joe-biden/biden-romney-called-ending-iraq-war-tragic/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "iraq",
+                "subject": "Iraq"
+            }
+        ],
+        "statement": "<p>\r\n\tOn ending the war in Iraq, &quot;Gov. Romney said that was a tragic mistake, we should have left 30,000 troops there.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-11T23:56:06",
+        "statement_date": "2012-10-11",
+        "ruling_link_text": "He used that word",
+        "statement_context": "the vice presidential debate",
+        "speaker": {
+            "last_name": "Biden",
+            "first_name": "Joe",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "joe-biden"
+        },
+        "ruling_headline": "Biden: Romney called ending the Iraq war 'tragic'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/11/joe-biden/says-mitt-romney-paul-ryan-would-eliminate-guarant/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            },
+            {
+                "last_name": "Ryan",
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            },
+            {
+                "subject_slug": "medicare",
+                "subject": "Medicare"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney and Paul Ryan would &quot;eliminate the guarantee of Medicare.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-11T22:40:54",
+        "statement_date": "2012-10-11",
+        "ruling_link_text": "A guarantee today in some ways, not others",
+        "statement_context": "the vice presidential debate in Danville, Ky.",
+        "speaker": {
+            "last_name": "Biden",
+            "first_name": "Joe",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "joe-biden"
+        },
+        "ruling_headline": "Joe Biden says Mitt Romney, Paul Ryan would 'eliminate the guarantee of Medicare.'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/10/mitt-romney/mitt-romney-ad-says-under-barack-obama-there-are-4/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            },
+            {
+                "subject_slug": "women",
+                "subject": "Women"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Since President Obama took office, there are over 450,000 more unemployed women.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-10T18:09:10",
+        "statement_date": "2012-10-06",
+        "ruling_link_text": "Number is cherry-picked",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney ad says under Barack Obama, there are 450,000 more unemployed women"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/10/priorities-usa-action/super-pac-says-romney-takes-education-gives-millio/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Romney wants to &quot;take away early childhood education, slash K-12 funding, and cut college aid &hellip; to pay for a $250,000 tax break for multi-millionaires.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-10T16:22:29",
+        "statement_date": "2012-10-08",
+        "ruling_link_text": "Effects on education far from clear",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Priorities USA Action",
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/priorities.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "priorities-usa-action"
+        },
+        "ruling_headline": "Super PAC says Romney takes from education, gives to millionaires"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/09/barack-obama/obama-ties-romney-chinese-exporter/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "china",
+                "subject": "China"
+            },
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Romney invested in a firm that made goods in China that &quot;could have been made here in America.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-09T17:21:21",
+        "statement_date": "2012-10-01",
+        "ruling_link_text": "Those jobs had left long before",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama ties Romney to Chinese exporter"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/08/barack-obama/obama-says-tax-code-rewards-firms-shifting-jobs-ov/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\tThe federal tax code has &quot;loopholes that are giving incentives for companies that are shipping jobs overseas.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-08T18:17:22",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Hefty tax savings await",
+        "statement_context": "the first presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says tax code rewards firms for shifting jobs overseas"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/08/barack-obama/obama-ad-accuses-romney-cutting-mass-k-12-educatio/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            },
+            {
+                "subject_slug": "state-budget",
+                "subject": "State Budget"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;In Romney&#39;s first budget (in Massachusetts), he cut $248.7 million from K-12 education.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-08T16:30:23",
+        "statement_date": "2012-09-25",
+        "ruling_link_text": "Proposed increase, but signed cuts into law",
+        "statement_context": "a Web ad",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama ad accuses Romney of cutting Mass. K-12 education by $248.7 million"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/05/mitt-romney/mitt-romney-says-barack-obama-provided-90-billion/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "corporations",
+                "subject": "Corporations"
+            },
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "energy",
+                "subject": "Energy"
+            },
+            {
+                "subject_slug": "environment",
+                "subject": "Environment"
+            },
+            {
+                "subject_slug": "stimulus",
+                "subject": "Stimulus"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;In one year, (President Obama) provided $90 billion in breaks to the green energy world &hellip; into solar and wind, to Solyndra and Fisker and Tesla and Ener1.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-05T18:06:40",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Not one year, not 'breaks,' not Fisker or Tesla ... it goes on",
+        "statement_context": "the first presidential debate in Denver",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says Barack Obama provided $90 billion in green energy 'breaks' in one year"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/05/barack-obama/obama-says-50-million-lose-coverage-if-obamacare-r/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "<p>\r\n\tSays 50 million people would lose their health insurance if Obamacare is repealed.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-05T17:47:47",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Based on far-off projection",
+        "statement_context": "a presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says 50 million lose coverage if Obamacare is repealed"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/05/mitt-romney/mitt-romney-says-barack-obama-has-doubled-deficit/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "deficit",
+                "subject": "Deficit"
+            },
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ],
+        "statement": "<p>Says President Obama has &quot;doubled&quot; the deficit.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-05T16:37:08",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "The deficit is actually down slightly from what Obama inherited",
+        "statement_context": "the first presidential debate in Denver",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says Barack Obama has 'doubled' the deficit"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/05/mitt-romney/mitt-romney-says-his-health-care-plan-covers-pre-e/",
+        "target": [],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Pre-existing conditions are covered under my (health care) plan.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-05T16:00:11",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Only if you keep yourself insured along the way",
+        "statement_context": "a presidential debate in Denver",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says his health care plan covers pre-existing conditions"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/05/mitt-romney/mitt-romney-said-massachusetts-schools-are-ranked-/",
+        "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            },
+            {
+                "subject_slug": "states",
+                "subject": "States"
+            }
+        ],
+        "statement": "<p>\r\n\tMassachusetts schools &quot;are ranked No. 1 of all 50 states.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-05T15:20:18",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Different ways to count, but MA is up there",
+        "statement_context": "a presidential debate in Denver",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney said Massachusetts schools are ranked 1st in the nation"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/05/barack-obama/obama-says-romney-would-spend-2-trilllion-military/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "deficit",
+                "subject": "Deficit"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Romney wants to add $2 trillion to the defense budget that the military hasn&rsquo;t asked for.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-05T13:42:27",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Pentagon says it's ready for anything",
+        "statement_context": "a presidential debate in Denver",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Barack Obama says Mitt Romney would spend $2 trillion that the military hasn't asked for"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/04/barack-obama/obama-said-romneys-plan-could-cost-future-retirees/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "medicare",
+                "subject": "Medicare"
+            },
+            {
+                "subject_slug": "retirement",
+                "subject": "Retirement"
+            }
+        ],
+        "statement": "<p>\r\n\tRomney&rsquo;s Medicare plan was estimated to &quot;cost the average senior about $6,000 a year.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-04T12:04:40",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Using number from a different analysis",
+        "statement_context": "a debate in Denver",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama said Romney's plan could cost future retirees $6,000"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/04/mitt-romney/romney-says-obama-promised-cut-deficit-half/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "deficit",
+                "subject": "Deficit"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Obama promised to cut the deficit in half.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-04T12:03:05",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "See YouTube video, 2009",
+        "statement_context": "a presidential debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney says Obama promised to cut deficit in half"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/04/barack-obama/obama-says-he-will-cut-deficits-4-trillion/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "deficit",
+                "subject": "Deficit"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\tObama says he&rsquo;s &quot;put forward a specific $4 trillion deficit reduction plan.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-04T11:33:33",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Cherry-picking ",
+        "statement_context": "the first presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says he will cut deficits by $4 trillion"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/04/mitt-romney/mitt-romney-says-20-million-will-lose-health-insur/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Right now, the (Congressional Budget Office) says up to 20 million people will lose their insurance as Obamacare goes into effect next year.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-04T11:32:47",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Wrong before, wrong now",
+        "statement_context": "the first presidential debate in Denver",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says up to 20 million will lose health insurance due to Obama health care law"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/04/barack-obama/obama-says-romneys-plan-5-trillion-tax-cut/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney&#39;s plan &quot;calls for a $5 trillion tax cut.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-04T00:15:24",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "An incomplete claim about an incomplete plan",
+        "statement_context": "the first presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says Romney's plan is a $5 trillion tax cut"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/04/mitt-romney/romney-says-ipab-board-can-tell-people-ultimately-/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "medicare",
+                "subject": "Medicare"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Barack Obama &quot;put in place a board that can tell people ultimately what treatments they&#39;re going to receive.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-04T00:12:24",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "The board doesn't make individual treatment decisions",
+        "statement_context": "a debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney says IPAB board can \"tell people ultimately what treatments they're going to receive.”"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/03/mitt-romney/mitt-romney-says-us-now-spending-42-percent-our-ec/",
+        "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            },
+            {
+                "subject_slug": "government-efficiency",
+                "subject": "Government Efficiency"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;We&rsquo;re now spending 42 percent of our economy on government.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-03T23:11:43",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "It's about right, but a lot is checks to individuals",
+        "statement_context": "the first presidential debate in Denver",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says U.S. is 'now spending 42 percent of our economy on government'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/03/barack-obama/obama-says-romney-wants-turn-medicare-voucher-prog/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "medicare",
+                "subject": "Medicare"
+            }
+        ],
+        "statement": "<p>\r\n\tRomney &quot;would turn Medicare into a voucher program.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-03T23:05:24",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "A familiar, pretty accurate refrain",
+        "statement_context": "the first presidential debate",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says Romney wants to turn Medicare into a voucher program"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/03/mitt-romney/romney-says-obama-cut-716-billion-medicare/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            },
+            {
+                "subject_slug": "medicare",
+                "subject": "Medicare"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;On Medicare for current retirees, he&#39;s cutting $716 billion from the program.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-03T22:39:56",
+        "statement_date": "2012-10-03",
+        "ruling_link_text": "Reduces future spending, not current budget",
+        "statement_context": "a presidential debate",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney says Obama cut $716 billion from Medicare"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/01/barack-obama/ad-says-obama-defied-china-save-tire-making-jobs-h/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "china",
+                "subject": "China"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            },
+            {
+                "subject_slug": "trade",
+                "subject": "Trade"
+            }
+        ],
+        "statement": "<p>\r\n\tChinese tire imports threatened 1,000 American jobs, so President Obama &quot;stood up to China and protected American workers. Mitt Romney attacked Obama&#39;s decision.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-01T15:36:02",
+        "statement_date": "2012-09-17",
+        "ruling_link_text": "Tire jobs saved, others lost",
+        "statement_context": "a television ad",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Ad says Obama defied China to save tire-making jobs at home, Romney criticized"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/oct/01/workers-voice/union-backed-ad-says-romneys-investments-created-z/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "corporations",
+                "subject": "Corporations"
+            },
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Mitt Romney&rsquo;s investments created zero jobs.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-10-01T14:15:04",
+        "statement_date": "2012-09-17",
+        "ruling_link_text": "Staples, anyone?",
+        "statement_context": "a mailer",
+        "speaker": {
+            "last_name": "Workers' Voice",
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/workers_voice_logo.jpg",
+            "party": {
+                "party_slug": "none",
+                "party": "None"
+            },
+            "name_slug": "workers-voice"
+        },
+        "ruling_headline": "Union-backed ad says Mitt Romney's investments created zero jobs"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/25/mitt-romney/mitt-romney-spanish-language-ad-says-college-costs/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tCollege tuition &quot;costs have risen by 25 percent under the Democrats.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-25T16:09:52",
+        "statement_date": "2012-09-21",
+        "ruling_link_text": "Cherry-picked in several ways",
+        "statement_context": "a Spanish-language television ad",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney, in Spanish-language ad, says college costs are up 25 percent under Barack Obama"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/24/barack-obama/obama-says-romney-could-take-away-middle-class-tax/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Romney tax plan &quot;could take away middle-class deductions for child care, mortgages and college tuition.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-24T16:58:16",
+        "statement_date": "2012-09-18",
+        "ruling_link_text": "Assumes the worst from an incomplete plan",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says Romney could take away middle class tax deductions"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/20/mitt-romney/mitt-romney-says-redistribution-has-never-been-cha/",
+        "target": [],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            },
+            {
+                "subject_slug": "history",
+                "subject": "History"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Redistribution&quot; has &quot;never been a characteristic of America.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-20T17:55:04",
+        "statement_date": "2012-09-19",
+        "ruling_link_text": "Don't know much about history...",
+        "statement_context": "remarks in Atlanta",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says “redistribution” has “never been a characteristic of America”"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/20/barack-obama/obama-says-romney-talks-tough-china-puts-his-money/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "china",
+                "subject": "China"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Even today part of Romney&rsquo;s fortune is invested in China.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-20T17:54:00",
+        "statement_date": "2012-09-13",
+        "ruling_link_text": "Some money yes, but probably not much",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says Romney talks tough on China but puts his money there"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/19/mitt-romney/romney-ad-accuses-obama-refusing-seven-times-stop-/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "china",
+                "subject": "China"
+            },
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "job-accomplishments",
+                "subject": "Job Accomplishments"
+            },
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            },
+            {
+                "subject_slug": "trade",
+                "subject": "Trade"
+            }
+        ],
+        "statement": "<p>\r\n\t&nbsp;&quot;Seven times Obama could have stopped China&#39;s cheating. Seven times, he refused.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-19T17:47:09",
+        "statement_date": "2012-09-13",
+        "ruling_link_text": "Too narrow a look at Obama's actions",
+        "statement_context": "in a TV ad",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney ad accuses Obama of refusing 'seven times' to stop 'China's cheating'"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/19/mitt-romney/romney-ad-faults-obama-falling-incomes/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "income",
+                "subject": "Income"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Under Obama, families have lost over $4,000 a year in income.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-19T11:57:58",
+        "statement_date": "2012-09-17",
+        "ruling_link_text": "More blame goes to the recession",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney ad faults Obama for falling incomes"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/19/barack-obama/obama-ties-romney-ryan-abortion-ban-rape-incest/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "abortion",
+                "subject": "Abortion"
+            },
+            {
+                "subject_slug": "corrections-and-updates",
+                "subject": "Corrections and Updates"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Romney and Ryan &quot;both backed proposals that would outlaw abortions even in cases of rape or incest.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-19T11:51:52",
+        "statement_date": "2012-09-11",
+        "ruling_link_text": "Romney has not always been crystal clear",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama ties Romney and Ryan to abortion ban with no rape, incest exceptions"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/18/mitt-romney/mitt-romney-says-voters-who-support-barack-obama-a/",
+        "target": [],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\tThe &quot;48, 49 percent&quot; that supports President Barack Obama are &quot;people who pay no income tax.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-18T18:07:22",
+        "statement_date": "2012-05-17",
+        "ruling_link_text": "Plenty of non-payers support Romney",
+        "statement_context": "a surreptitiously recorded speech to donors at a fundraiser",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says voters who support Barack Obama are “people who pay no income tax”"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/18/mitt-romney/romney-says-47-percent-americans-pay-no-income-tax/",
+        "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Forty-seven percent of Americans pay no income tax.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-18T18:06:41",
+        "statement_date": "2012-05-17",
+        "ruling_link_text": "He cites an accurate stat",
+        "statement_context": "remarks at a campaign fundraiser",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says 47 percent of Americans pay no income tax"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/18/mitt-romney/mitt-romney-says-50-percent-kids-coming-out-school/",
+        "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            },
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Fifty percent of kids coming out of school can&#39;t get a job.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-18T17:04:56",
+        "statement_date": "2012-05-17",
+        "ruling_link_text": "50% includes underemployed, not just jobless",
+        "statement_context": "a private campaign fundraiser",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney says half of students can't get a job out of college"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/18/mitt-romney/romney-repeats-claim-obama-promised-unemployment-w/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ],
+        "statement": "<p>\r\n\tSays President Obama promised &quot;he&#39;d keep unemployment below 8 percent&quot; if the stimulus passed.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-18T12:16:59",
+        "statement_date": "2012-05-17",
+        "ruling_link_text": "Projection, not promise",
+        "statement_context": "a private campaign fundraiser",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney repeats claim that Obama promised unemployment would not exceed 8 percent"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/17/barack-obama/barack-obama-right-guaranteed-benefits-under-medic/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            },
+            {
+                "subject_slug": "medicare",
+                "subject": "Medicare"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tSays he &quot;will protect your guaranteed benefits&quot; in Medicare while &quot;Mitt Romney would take away Medicare as guaranteed benefits.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-17T10:54:17",
+        "statement_date": "2012-09-12",
+        "ruling_link_text": "\"Guarantees\" less clear than Obama lets on",
+        "statement_context": "a campaign commercial",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Is Barack Obama right on 'guaranteed benefits' under Medicare?"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/14/barack-obama/obama-campaign-says-89-million-americans-could-be/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            }
+        ],
+        "statement": "<p>\r\n\tSays that under Mitt Romney, 89 million Americans could be denied coverage if they have a pre-existing condition.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-14T11:59:17",
+        "statement_date": "2012-09-10",
+        "ruling_link_text": "More protection than that under Romney",
+        "statement_context": "a Facebook post",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama campaign says 89 million Americans 'could' be denied health coverage under Mitt Romney"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/14/mitt-romney/romney-claims-5-studies-back-his-tax-plan/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ],
+        "statement": "<p>\r\n\tSays five studies show his tax plan can cut rates and still bring the same revenue without raising taxes on the middle class.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-14T11:06:27",
+        "statement_date": "2012-09-09",
+        "ruling_link_text": "Editorials don't count",
+        "statement_context": "a Meet the Press interview",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Romney claims five studies back up his tax plan"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/14/mitt-romney/romney-ad-blames-obama-florida-housing-woes/",
+        "target": [
+            {
+                "last_name": "Obama",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "housing",
+                "subject": "Housing"
+            },
+            {
+                "subject_slug": "message-machine-2012",
+                "subject": "Message Machine 2012"
+            }
+        ],
+        "statement": "<p>\r\n\tUnder Obama, home values in Florida collapsed, construction jobs were lost and the state had a high foreclosure rate.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-14T10:11:04",
+        "statement_date": "2012-09-07",
+        "ruling_link_text": "Housing bust predated Obama",
+        "statement_context": "a campaign ad",
+        "speaker": {
+            "last_name": "Romney",
+            "first_name": "Mitt",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "mitt-romney"
+        },
+        "ruling_headline": "Mitt Romney ad blames Barack Obama for Florida housing woes"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/07/barack-obama/obama-says-romney-called-russia-our-no-1-enemy/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            }
+        ],
+        "statement": "<p>\r\n\tSays Romney called Russia our No. 1 enemy.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-07T00:50:59",
+        "statement_date": "2012-09-06",
+        "ruling_link_text": "Geopolitical foe = enemy",
+        "statement_context": "a convention speech",
+        "speaker": {
+            "last_name": "Obama",
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama"
+        },
+        "ruling_headline": "Obama says Romney called Russia our ‘No. 1 enemy’"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/sep/06/jennifer-granholm/granholm-says-romneys-response-auto-crisis-was-let/",
+        "target": [
+            {
+                "last_name": "Romney",
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney"
+            }
+        ],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "subject": [
+            {
+                "subject_slug": "bankruptcy",
+                "subject": "Bankruptcy"
+            },
+            {
+                "subject_slug": "jobs",
+                "subject": "Jobs"
+            }
+        ],
+        "statement": "<p>\r\n\tSays that Mitt Romney&#39;s response to the crisis in the auto industry was, &quot;Let Detroit go bankrupt.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2012-09-06T21:13:22",
+        "statement_date": "2012-09-06",
+        "ruling_link_text": "He didn't write those words",
+        "statement_context": "a speech at the Democratic convention",
+        "speaker": {
+            "last_name": "Granholm",
+            "first_name": "Jennifer",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Granholm_mug.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "jennifer-granholm"
+        },
+        "ruling_headline": "Granholm says Romney's response to auto crisis was 'Let Detroit go bankrupt'"
+    }
+]

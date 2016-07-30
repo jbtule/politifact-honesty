@@ -1,0 +1,1149 @@
+[
+    {
+        "ruling_link_text": "Numerically correct; significance is less clear",
+        "statement_context": "a column posted on Medium.com",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2016/feb/18/jeb-bush/jeb-bush-says-barack-obama-will-add-more-debt-all-/",
+        "ruling_date": "2016-02-18T10:54:07",
+        "target": [
+            {
+                "first_name": "Barack",
+                "name_slug": "barack-obama",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "last_name": "Obama",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                }
+            }
+        ],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2016-02-05",
+        "statement": "<p>&quot;Barack Obama will somehow manage to add more than $8 trillion to the national debt, which is more debt than the 43 presidents who held office before him compiled together.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says Barack Obama will add more debt than all 43 previous presidents combined",
+        "subject": [
+            {
+                "subject_slug": "debt",
+                "subject": "Debt"
+            },
+            {
+                "subject_slug": "deficit",
+                "subject": "Deficit"
+            },
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Not 100 percent consistent, but generally conservative",
+        "statement_context": "a post on Medium",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2016/feb/10/jeb-bush/jeb-bush-says-his-two-appointments-florida-supreme/",
+        "ruling_date": "2016-02-10T18:11:38",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2016-01-24",
+        "statement": "<p>&quot;My two appointments to the Florida Supreme Court, Raul Cantero and Kenneth Bell, have earned reputations as its most consistent conservatives.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says his two picks for Florida Supreme Court have been 'its most consistent conservatives'",
+        "subject": [
+            {
+                "subject_slug": "legal-issues",
+                "subject": "Legal Issues"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Asked, and answered",
+        "statement_context": " an appearance at Franklin Pierce University in Rindge, N.H.",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2016/feb/02/jeb-bush/jeb-bush-wrong-claim-national-debt-never-debate-to/",
+        "ruling_date": "2016-02-02T17:00:57",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2016-02-02",
+        "statement": "<p>The debt &quot;comes up all the time in town meetings ... but it&#39;s never asked in the debates. It&#39;s really weird. It hasn&#39;t been brought up.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush wrong to claim national debt never a debate topic",
+        "subject": [
+            {
+                "subject_slug": "debt",
+                "subject": "Debt"
+            },
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "She's not singled out",
+        "statement_context": "the Fox Business Network debate",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2016/jan/14/jeb-bush/heres-whats-wrong-jeb-bush-saying-hillary-clinton-/",
+        "ruling_date": "2016-01-14T23:04:10",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2016-01-14",
+        "statement": "<p>Says Hillary Clinton &quot;is&nbsp;under investigation with the FBI right now.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Here's what's wrong with Jeb Bush saying Hillary Clinton is under FBI investigation",
+        "subject": [
+            {
+                "subject_slug": "criminal-justice",
+                "subject": "Criminal Justice"
+            },
+            {
+                "subject_slug": "debates",
+                "subject": "Debates"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Study needs to be treated cautiously, experts say",
+        "statement_context": "a column posted on Medium",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2016/jan/13/jeb-bush/jeb-bush-says-governor-he-helped-reduce-youth-hero/",
+        "ruling_date": "2016-01-13T16:03:19",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2016-01-04",
+        "statement": "<p>&quot;As governor of Florida, I used a combination of strategies to help reduce heroin use among youth in Florida by approximately 50 percent.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says as governor, he helped reduce youth heroin use in Florida by 50 percent",
+        "subject": [
+            {
+                "subject_slug": "drugs",
+                "subject": "Drugs"
+            },
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            },
+            {
+                "subject_slug": "public-health",
+                "subject": "Public Health"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Let's go to the transcript!",
+        "statement_context": "a GOP debate on CNN",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/dec/15/jeb-bush/jeb-bush-claims-cnn-debate-donald-trump-said-isis-/",
+        "ruling_date": "2015-12-15T23:02:54",
+        "target": [
+            {
+                "first_name": "Donald",
+                "name_slug": "donald-trump",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
+                "last_name": "Trump",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-12-15",
+        "statement": "<p>&quot;Two months ago, Donald Trump said that ISIS was not our fight.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush largely right in CNN debate that Donald Trump said 'ISIS was not our fight' 2 months ago",
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Sometimes it is, sometimes it isn't",
+        "statement_context": "an interview on \"Face the Nation\"",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/dec/01/jeb-bush/bush-says-law-requires-religious-screening/",
+        "ruling_date": "2015-12-01T17:54:04",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-11-29",
+        "statement": "<p>&quot;It is already in the law that there is a requirement to screen (refugees) for religion.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Bush says law requires religious screening of refugees",
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "religion",
+                "subject": "Religion"
+            },
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Reading the signs can get tricky",
+        "statement_context": "a radio interview in New Hampshire",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/dec/01/jeb-bush/identifying-middle-eastern-christians-can-be-harde/",
+        "ruling_date": "2015-12-01T17:52:03",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-11-24",
+        "statement": "<p>Says there are &quot;ample means&quot; to &quot;tell when someone is a Christian in the Middle East ... by name, by where they&rsquo;re born, their birth certificates.&quot;</p>\r\n\r\n<div>&nbsp;</div>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Identifying Middle Eastern Christians can be harder than Bush suggests",
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "religion",
+                "subject": "Religion"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "The process typically takes 2 years",
+        "statement_context": "comments on CNN's \"State of the Union\"",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/nov/15/jeb-bush/jeb-bush-it-takes-almost-year-refugee-be-processed/",
+        "ruling_date": "2015-11-15T16:17:40",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-11-15",
+        "statement": "<div>&quot;It takes almost a year for a refugee to be processed in the United States.&quot;</div>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush: 'It takes almost a year for a refugee to be processed in the United States'",
+        "subject": [
+            {
+                "subject_slug": "terrorism",
+                "subject": "Terrorism"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Sitting here on Capitol Hill",
+        "statement_context": "comments on \"Meet the Press\"",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/nov/01/jeb-bush/jeb-bush-says-rubio-cruz-and-paul-have-combined-tw/",
+        "ruling_date": "2015-11-01T16:30:00",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-11-01",
+        "statement": "<p>&quot;If you look at the three people on the (debate) stage from the United States Senate, all three of them have a combined two bills that became law that they&#39;ve sponsored.&quot;</p>\r\n\r\n<div>&nbsp;</div>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says that Rubio, Cruz and Paul have a combined 'two bills that became law'",
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "congress",
+                "subject": "Congress"
+            },
+            {
+                "subject_slug": "corrections-and-updates",
+                "subject": "Corrections and Updates"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "On economic growth, Bush trailed other recent presidents",
+        "statement_context": "an interview on \"Fox News Sunday\"",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/sep/27/jeb-bush/jeb-bush-says-tax-policies-george-w-bush-created-d/",
+        "ruling_date": "2015-09-27T15:34:16",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-09-27",
+        "statement": "<p>The tax policies of George W. Bush &quot;created a dynamic effect of high growth.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says tax policies of George W. Bush 'created a dynamic effect of high growth'",
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Not the only way of measuring spending",
+        "statement_context": "comments on Twitter.",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/sep/09/jeb-bush/jeb-bush-cut-spending/",
+        "ruling_date": "2015-09-09T09:45:02",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-08-31",
+        "statement": "<p>&quot;I cut state spending more than anybody (in the 2016 GOP field).&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says he's cut spending 'more than anybody'",
+        "subject": [
+            {
+                "subject_slug": "candidates-biography",
+                "subject": "Candidate Biography"
+            },
+            {
+                "subject_slug": "state-budget",
+                "subject": "State Budget"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Its main purpose is women's health",
+        "statement_context": "remarks at a town hall in Colorado",
+        "ruling": {
+            "ruling_slug": "pants-fire",
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/aug/26/jeb-bush/jeb-bush-planned-parenthood-isnt-involved-womens-h/",
+        "ruling_date": "2015-08-26T15:43:19",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-08-25",
+        "statement": "<p>Planned Parenthood is &quot;not actually doing women&rsquo;s health issues.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush: Planned Parenthood isn't involved in women's health",
+        "subject": [
+            {
+                "subject_slug": "abortion",
+                "subject": "Abortion"
+            },
+            {
+                "subject_slug": "women",
+                "subject": "Women"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Singling out Bush for a widespread problem",
+        "statement_context": "a Twitter exchange",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/aug/14/hillary-clinton/hillary-clinton-tweets-florida-got-f-college-affor/",
+        "ruling_date": "2015-08-14T10:00:02",
+        "target": [
+            {
+                "first_name": "Jeb",
+                "name_slug": "jeb-bush",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+                "last_name": "Bush",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "speaker": {
+            "first_name": "Hillary",
+            "name_slug": "hillary-clinton",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
+            "last_name": "Clinton",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            }
+        },
+        "statement_date": "2015-08-10",
+        "statement": "<p>&quot;F: The grade given to Florida for college affordability under Jeb Bush&#39;s leadership.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Hillary Clinton tweets that Florida got an F for college affordability under Jeb Bush",
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            },
+            {
+                "subject_slug": "state-budget",
+                "subject": "State Budget"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Not quite double",
+        "statement_context": "a Twitter exchange",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/aug/14/jeb-bush/jeb-bush-student-loan-debt-has-doubled-under-obama/",
+        "ruling_date": "2015-08-14T10:00:01",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-08-10",
+        "statement": "<p>There has been a 100 percent&nbsp;&quot;increase in student debt under this Democratic White House.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush: Student loan debt has doubled under Obama",
+        "subject": [
+            {
+                "subject_slug": "debt",
+                "subject": "Debt"
+            },
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "More like 'upper class'",
+        "statement_context": "a speech launching his 2016 campaign",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/jun/23/jeb-bush/jeb-bush-obama-caused-massive-tax-increase-middle-/",
+        "ruling_date": "2015-06-23T16:36:54",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-06-15",
+        "statement": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:10pt;\">&quot;The party in the White House&quot; is responsible for &quot;a massive tax increase on the middle class.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush: Obama caused 'massive' tax increase on middle class ",
+        "subject": [
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Spending has fallen, but it takes two to tango",
+        "statement_context": "his presidential announcement speech",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/jun/22/jeb-bush/jeb-bush-says-democrats-responsible-swift-mindless/",
+        "ruling_date": "2015-06-22T10:53:02",
+        "target": [
+            {
+                "first_name": "Barack",
+                "name_slug": "barack-obama",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "last_name": "Obama",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                }
+            }
+        ],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-06-15",
+        "statement": "<p>The Democrats are &quot;responsible&quot; for &quot;the swift, mindless drawdown of a military that was generations in the making.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says Democrats 'responsible' for 'swift, mindless' cuts to defense spending",
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            },
+            {
+                "subject_slug": "military",
+                "subject": "Military"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "For many, it takes even less than that",
+        "statement_context": "remarks at an economic summit in Orlando",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/jun/04/jeb-bush/jeb-bush-says-estonians-can-file-their-taxes-five-/",
+        "ruling_date": "2015-06-04T16:00:36",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-06-02",
+        "statement": "<p>&quot;You can fill out your tax return in Estonia online in five minutes.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says Estonians can file their taxes in five minutes. Really?",
+        "subject": [
+            {
+                "subject_slug": "foreign-policy",
+                "subject": "Foreign Policy"
+            },
+            {
+                "subject_slug": "taxes",
+                "subject": "Taxes"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "On Clinton, yes; Bush is less clear",
+        "statement_context": "his presidential announcement speech",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/jun/02/martin-omalley/had-goldman-sachs-ceo-said-his-picks-are-hillary-c/",
+        "ruling_date": "2015-06-02T16:21:58",
+        "target": [
+            {
+                "first_name": "Jeb",
+                "name_slug": "jeb-bush",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+                "last_name": "Bush",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            },
+            {
+                "first_name": "Hillary",
+                "name_slug": "hillary-clinton",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
+                "last_name": "Clinton",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                }
+            }
+        ],
+        "speaker": {
+            "first_name": "Martin",
+            "name_slug": "martin-omalley",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Martin_OMalley.jpg",
+            "last_name": "O'Malley",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            }
+        },
+        "statement_date": "2015-05-30",
+        "statement": "<p>&quot;The CEO of Goldman Sachs let his employees know that he&rsquo;d be just fine with either Bush or Clinton.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Had the Goldman Sachs CEO said his picks are Hillary Clinton or Jeb Bush?",
+        "subject": [
+            {
+                "subject_slug": "financial-regulation",
+                "subject": "Financial Regulation"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Washington, Baghdad never settled on a residual force.",
+        "statement_context": "a response to a question after a town hall meeting",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/may/18/jeb-bush/obama-refused-sign-plan-place-leave-10000-troops-i/",
+        "ruling_date": "2015-05-18T11:47:50",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-05-13",
+        "statement": "<p>&quot;We had an agreement that the president could have signed that would have kept 10,000 troops&quot; in Iraq.</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Obama refused to sign plan in place to leave 10,000 troops in Iraq, Bush says",
+        "subject": [
+            {
+                "subject_slug": "iraq",
+                "subject": "Iraq"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "She missed at least one candidate",
+        "statement_context": "an appearance at a high school in Las Vegas, Nev.",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/may/07/hillary-clinton/hillary-clinton-says-not-one-gop-presidential-cont/",
+        "ruling_date": "2015-05-07T16:29:20",
+        "target": [
+            {
+                "first_name": "Jeb",
+                "name_slug": "jeb-bush",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+                "last_name": "Bush",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            },
+            {
+                "first_name": "Lindsey",
+                "name_slug": "lindsey-graham",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Lindsey_Graham.jpg",
+                "last_name": "Graham",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            },
+            {
+                "first_name": "Marco",
+                "name_slug": "marco-rubio",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Marco_Rubio.jpg",
+                "last_name": "Rubio",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "speaker": {
+            "first_name": "Hillary",
+            "name_slug": "hillary-clinton",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
+            "last_name": "Clinton",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            }
+        },
+        "statement_date": "2015-05-05",
+        "statement": "<p>&quot;Not a single Republican candidate, announced or potential, is clearly and consistently supporting a path to citizenship. Not one.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Hillary Clinton says 'not one' GOP presidential contender backs path to citizenship",
+        "subject": [
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Jobs picture is improving, but not income",
+        "statement_context": "an interview with the Pittsburgh Tribune-Review",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/apr/16/jeb-bush/jeb-bush-correct-median-income-has-fallen-us-end-r/",
+        "ruling_date": "2015-04-16T15:41:25",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-04-14",
+        "statement": "<p>&quot;We are in the sixth year of recovery, and median income is below what it was at the start of the recovery.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush correct that median income has fallen in U.S. since end of recession",
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            },
+            {
+                "subject_slug": "income",
+                "subject": "Income"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Data is a bit fuzzy, but a safe estimate",
+        "statement_context": "a speech in Detroit",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2015/feb/05/jeb-bush/jeb-bush-says-millions-have-given-looking-work/",
+        "ruling_date": "2015-02-05T17:27:33",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-02-04",
+        "statement": "<p>&quot;Millions of people have given up looking for work altogether.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says 'millions' have given up looking for work",
+        "subject": [
+            {
+                "subject_slug": "economy",
+                "subject": "Economy"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Because the courts are slow",
+        "statement_context": "an op-ed in the \"Wall Street Journal\"",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2014/jul/28/jeb-bush/jeb-bush-says-2-percent-children-apprehended-borde/",
+        "ruling_date": "2014-07-28T16:07:58",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2014-07-23",
+        "statement": "<p>&quot;By some estimates, as few as 2 percent of the 50,000 (Central American) children who have crossed the border illegally this year have been sent home.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says 2 percent of children apprehended at border in 2014 were returned",
+        "subject": [
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "His numbers miss the mark but the overall point holds up",
+        "statement_context": "a Wall Street Journal op-ed",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2013/jul/10/jeb-bush/jeb-bush-says-canada-issues-more-150000-high-skill/",
+        "ruling_date": "2013-07-10T12:22:13",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2013-06-30",
+        "statement": "<p>Says &quot;Canada has one-tenth of our population&mdash;yet it issues far more high-skilled visas (more than 150,000) yearly than we do (65,000).&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says Canada issues more than 150,000 high-skilled visas, compared to 65,000 by the U.S.",
+        "subject": [
+            {
+                "subject_slug": "corrections-and-updates",
+                "subject": "Corrections and Updates"
+            },
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Fertile ground for a fact-check",
+        "statement_context": "a speech at the Faith and Freedom Coalition Conference",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2013/jun/18/jeb-bush/jeb-bush-says-immigrants-are-more-fertile/",
+        "ruling_date": "2013-06-18T17:14:05",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2013-06-14",
+        "statement": "<p>\r\n\t&quot;Immigrants are more fertile.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says immigrants are 'more fertile'",
+        "subject": [
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Fair amount of flipping",
+        "statement_context": "a tweet",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2013/mar/08/debbie-wasserman-schultz/jeb-bush-flip-flop-immigration-pathway-citizenship/",
+        "ruling_date": "2013-03-08T13:49:37",
+        "target": [
+            {
+                "first_name": "Jeb",
+                "name_slug": "jeb-bush",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+                "last_name": "Bush",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "speaker": {
+            "first_name": "Debbie",
+            "name_slug": "debbie-wasserman-schultz",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/27560_6444958138_7609_n.jpg",
+            "last_name": "Wasserman Schultz",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            }
+        },
+        "statement_date": "2013-03-05",
+        "statement": "<p>\r\n\tSays Jeb Bush &quot;flip-flop-flip(ped) on immigration.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Has Jeb Bush flip-flopped on immigration and a pathway to citizenship?",
+        "subject": [
+            {
+                "subject_slug": "immigration",
+                "subject": "Immigration"
+            }
+        ]
+    },
+    {
+        "ruling_link_text": "Not all Romney's doing",
+        "statement_context": "a convention speech",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "statement_url": "/truth-o-meter/statements/2012/aug/30/jeb-bush/jeb-bush-says-romney-narrowed-achievement-gap-mass/",
+        "ruling_date": "2012-08-30T20:25:08",
+        "target": [],
+        "speaker": {
+            "first_name": "Jeb",
+            "name_slug": "jeb-bush",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Jeb_Bush.jpg",
+            "last_name": "Bush",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2012-08-30",
+        "statement": "<p>\r\n\t&quot;In Massachusetts, Gov. Romney narrowed the gap between students of different races.&quot;</p>\r\n",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_headline": "Jeb Bush says Romney narrowed achievement gap in Massachusetts",
+        "subject": [
+            {
+                "subject_slug": "education",
+                "subject": "Education"
+            }
+        ]
+    }
+]
