@@ -18,46 +18,46 @@ open Fable.Import.commander
 
 [<EntryPoint>]
 let main argv =
-    let nodeArgs = ResizeArray(argv)
-    nodeArgs.Insert(0,"poltiface-honstey.js")
-    nodeArgs.Insert(0,"node")
+  let nodeArgs = ResizeArray(argv)
+  nodeArgs.Insert(0,"poltiface-honstey.js")
+  nodeArgs.Insert(0,"node")
 
-    let program = Fable.Import.commander.Globals.``default``
+  let program = Fable.Import.commander.Globals.``default``
 
-    program
-        .version("1.0.0")
-        .option("-d, --download", "Download data from Politifact")
-        .parse(nodeArgs)
-        |> ignore
+  program
+      .version("1.0.0")
+      .option("-d, --download", "Download data from Politifact")
+      .parse(nodeArgs)
+      |> ignore
 
-    let people = [ //people used in the Robert Mann Graph
-                    "donald-trump"
-                    "michele-bachmann"
-                    "ted-cruz"
-                    "newt-gingrich"
-                    "sarah-palin"
-                    "rick-santorum"
-                    "scott-walker"
-                    "rick-perry"
-                    "paul-ryan"
-                    "john-mccain"
-                    "mitt-romney"
-                    "rand-paul"
-                    "chris-christie"
-                    "joe-biden"
-                    "john-kasich"
-                    "bernie-s"
-                    "jeb-bush"
-                    "hillary-clinton"
-                    "barack-obama"
+  let people = [ //people used in the Robert Mann Graph
+                  "donald-trump"
+                  "michele-bachmann"
+                  "ted-cruz"
+                  "newt-gingrich"
+                  "sarah-palin"
+                  "rick-santorum"
+                  "scott-walker"
+                  "rick-perry"
+                  "paul-ryan"
+                  "john-mccain"
+                  "mitt-romney"
+                  "rand-paul"
+                  "chris-christie"
+                  "joe-biden"
+                  "john-kasich"
+                  "bernie-s"
+                  "jeb-bush"
+                  "hillary-clinton"
+                  "barack-obama"
 
-                  ]
+                ]
 
-    if program.download then
-        Download.run people
-    else if program.count then
-        Count.run()
-    else if program.graph then
-        Graph.run()
-    else
-        1
+  if program.download then
+      Download.run people
+  else if program.count then
+      Count.run people
+  else if program.graph then
+      Graph.run()
+  else
+      1
