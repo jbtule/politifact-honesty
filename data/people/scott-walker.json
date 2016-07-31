@@ -1,99 +1,80 @@
 [
     {
-        "ruling_link_text": "Other laws introduced, not passed",
-        "statement_context": "an interview on CNN's \"State of the Union\"",
+        "statement_url": "/truth-o-meter/statements/2015/sep/13/scott-walker/scott-walker-im-only-governor-sign-law-requiring-i/",
+        "target": [],
         "ruling": {
-            "ruling_slug": "true",
             "ruling": "True",
+            "ruling_slug": "true",
             "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
         },
-        "statement_url": "/truth-o-meter/statements/2015/sep/13/scott-walker/scott-walker-im-only-governor-sign-law-requiring-i/",
-        "ruling_date": "2015-09-13T17:56:40",
-        "target": [],
-        "speaker": {
-            "first_name": "Scott",
-            "name_slug": "scott-walker",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Scott_Walker_1_1.jpg",
-            "last_name": "Walker",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2015-09-13",
-        "statement": "<p>&quot;I&#39;m the only governor in America ... who signed a law that says there needs to be an independent investigation any time there&#39;s a death of someone in police custody.&quot;</p>\r\n",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_headline": "Scott Walker: I'm the only governor to sign law requiring investigations of deaths in police custody",
         "subject": [
             {
                 "subject_slug": "criminal-justice",
                 "subject": "Criminal Justice"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Study looked at claims, not premiums",
-        "statement_context": "an interview with Fox News",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2013/aug/29/scott-walker/gov-walker-study-says-health-law-will-raise-premiu/",
-        "ruling_date": "2013-08-29T14:34:50",
-        "target": [],
-        "speaker": {
-            "first_name": "Scott",
-            "name_slug": "scott-walker",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Scott_Walker_1_1.jpg",
-            "last_name": "Walker",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2013-08-19",
-        "statement": "<p>In the Wisconsin health insurance exchange, &quot;the Society of Actuaries points out that there&#39;ll be, according to them, an 82 percent increase in individual premiums over the next couple years under Obamacare.&quot;</p>\r\n",
+        ],
+        "statement": "<p>&quot;I&#39;m the only governor in America ... who signed a law that says there needs to be an independent investigation any time there&#39;s a death of someone in police custody.&quot;</p>\r\n",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Walker: Study says health law will raise premiums in Wisconsin exchanges 82 percent",
+        "ruling_date": "2015-09-13T17:56:40",
+        "statement_date": "2015-09-13",
+        "ruling_link_text": "Other laws introduced, not passed",
+        "statement_context": "an interview on CNN's \"State of the Union\"",
+        "speaker": {
+            "last_name": "Walker",
+            "first_name": "Scott",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Scott_Walker_1_1.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "scott-walker"
+        },
+        "ruling_headline": "Scott Walker: I'm the only governor to sign law requiring investigations of deaths in police custody"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2013/aug/29/scott-walker/gov-walker-study-says-health-law-will-raise-premiu/",
+        "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "health-care",
                 "subject": "Health Care"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Many of those increases weren't statistically significant",
-        "statement_context": "a speech to the Republican National Convention in Tampa",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/aug/29/scott-walker/scott-walker-says-44-50-states-last-month-saw-unem/",
-        "ruling_date": "2012-08-29T16:54:53",
-        "target": [],
-        "speaker": {
-            "first_name": "Scott",
-            "name_slug": "scott-walker",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Scott_Walker_1_1.jpg",
-            "last_name": "Walker",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2012-08-28",
-        "statement": "<p>\r\n\t&quot;Last month, 44 of the 50 states saw an increase in the unemployment rate.&quot;</p>\r\n",
+        ],
+        "statement": "<p>In the Wisconsin health insurance exchange, &quot;the Society of Actuaries points out that there&#39;ll be, according to them, an 82 percent increase in individual premiums over the next couple years under Obamacare.&quot;</p>\r\n",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Scott Walker says 44 of 50 states last month saw unemployment-rate increases",
+        "ruling_date": "2013-08-29T14:34:50",
+        "statement_date": "2013-08-19",
+        "ruling_link_text": "Study looked at claims, not premiums",
+        "statement_context": "an interview with Fox News",
+        "speaker": {
+            "last_name": "Walker",
+            "first_name": "Scott",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Scott_Walker_1_1.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "scott-walker"
+        },
+        "ruling_headline": "Walker: Study says health law will raise premiums in Wisconsin exchanges 82 percent"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2012/aug/29/scott-walker/scott-walker-says-44-50-states-last-month-saw-unem/",
+        "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "economy",
@@ -107,35 +88,35 @@
                 "subject_slug": "states",
                 "subject": "States"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Some exceptions, but most federal employees can only negotiate working conditions",
-        "statement_context": "an interview on NBC's 'Meet the Press'",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2011/mar/02/scott-walker/wisconsin-gov-scott-walker-says-most-federal-emplo/",
-        "ruling_date": "2011-03-02T10:56:02",
-        "target": [],
-        "speaker": {
-            "first_name": "Scott",
-            "name_slug": "scott-walker",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Scott_Walker_1_1.jpg",
-            "last_name": "Walker",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2011-02-27",
-        "statement": "<p>\r\n\t&quot;Most federal employees do not have collective bargaining for benefits, nor for pay.&quot;</p>",
+        ],
+        "statement": "<p>\r\n\t&quot;Last month, 44 of the 50 states saw an increase in the unemployment rate.&quot;</p>\r\n",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Wisconsin Gov. Scott Walker says most federal employees do not have collective bargaining for benefits or pay",
+        "ruling_date": "2012-08-29T16:54:53",
+        "statement_date": "2012-08-28",
+        "ruling_link_text": "Many of those increases weren't statistically significant",
+        "statement_context": "a speech to the Republican National Convention in Tampa",
+        "speaker": {
+            "last_name": "Walker",
+            "first_name": "Scott",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Scott_Walker_1_1.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "scott-walker"
+        },
+        "ruling_headline": "Scott Walker says 44 of 50 states last month saw unemployment-rate increases"
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2011/mar/02/scott-walker/wisconsin-gov-scott-walker-says-most-federal-emplo/",
+        "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "labor",
@@ -145,6 +126,25 @@
                 "subject_slug": "state-budget",
                 "subject": "State Budget"
             }
-        ]
+        ],
+        "statement": "<p>\r\n\t&quot;Most federal employees do not have collective bargaining for benefits, nor for pay.&quot;</p>",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2011-03-02T10:56:02",
+        "statement_date": "2011-02-27",
+        "ruling_link_text": "Some exceptions, but most federal employees can only negotiate working conditions",
+        "statement_context": "an interview on NBC's 'Meet the Press'",
+        "speaker": {
+            "last_name": "Walker",
+            "first_name": "Scott",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Scott_Walker_1_1.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "scott-walker"
+        },
+        "ruling_headline": "Wisconsin Gov. Scott Walker says most federal employees do not have collective bargaining for benefits or pay"
     }
 ]

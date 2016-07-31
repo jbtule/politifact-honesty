@@ -1,8 +1,12 @@
 [
     {
         "statement_url": "/truth-o-meter/statements/2016/jan/28/rand-paul/budgets-ferguson-mo-dont-support-rand-pauls-claim-/",
-        "statement_date": "2016-01-28",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
         "subject": [
             {
                 "subject_slug": "city-budget",
@@ -30,33 +34,33 @@
             }
         ],
         "statement": "<p>&quot;A third of the budget for the city of Ferguson (Missouri) was being reaped by civil fines.&quot;</p>\r\n",
-        "ruling_headline": "Budgets from Ferguson, Mo., don't support Rand Paul's claim on the city's reliance on civil fines",
-        "ruling_link_text": "High but not that high",
-        "statement_context": "a Republican debate",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2016-01-28T23:43:36",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
+        "statement_date": "2016-01-28",
+        "ruling_link_text": "High but not that high",
+        "statement_context": "a Republican debate",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Budgets from Ferguson, Mo., don't support Rand Paul's claim on the city's reliance on civil fines"
     },
     {
         "statement_url": "/truth-o-meter/statements/2016/jan/03/rand-paul/rand-paul-overstates-missed-votes-ted-cruz-not-mar/",
-        "statement_date": "2016-01-03",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
         "subject": [
             {
                 "subject_slug": "congress",
@@ -68,44 +72,44 @@
             }
         ],
         "statement": "<p>&quot;Both Cruz and&nbsp;Rubio are missing the vast majority of their votes.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul overstates missed votes for Ted Cruz but not Marco Rubio",
-        "ruling_link_text": "\"Vast\" is an overstatement",
-        "statement_context": "an interview on NBC's \"Meet the Press\"",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2016-01-03T18:25:00",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
+        "statement_date": "2016-01-03",
+        "ruling_link_text": "\"Vast\" is an overstatement",
+        "statement_context": "an interview on NBC's \"Meet the Press\"",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul overstates missed votes for Ted Cruz but not Marco Rubio"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/dec/17/rand-paul/rand-pauls-right-geneva-conventions-bar-donald-tru/",
-        "statement_date": "2015-12-15",
         "target": [
             {
+                "last_name": "Trump",
+                "first_name": "Donald",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
-                "name_slug": "donald-trump",
-                "last_name": "Trump",
-                "first_name": "Donald"
+                "name_slug": "donald-trump"
             }
         ],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "legal-issues",
@@ -121,44 +125,44 @@
             }
         ],
         "statement": "<p>&quot;If you are going to kill the families of terrorists, realize that there&#39;s something called the Geneva Convention we&#39;re going to have to pull out of.&quot;</p>\r\n",
-        "ruling_headline": "Geneva Conventions bar Donald Trump's idea of killing terrorists' families, as Rand Paul says",
-        "ruling_link_text": "Geneva Conventions say don't target civilians",
-        "statement_context": "a Republican presidential debate in Las Vegas",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-12-17T11:29:56",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2015-12-15",
+        "ruling_link_text": "Geneva Conventions say don't target civilians",
+        "statement_context": "a Republican presidential debate in Las Vegas",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Geneva Conventions bar Donald Trump's idea of killing terrorists' families, as Rand Paul says"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/dec/15/rand-paul/rand-paul-said-marco-rubio-open-border/",
-        "statement_date": "2015-12-15",
         "target": [
             {
+                "last_name": "Rubio",
+                "first_name": "Marco",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Marco_Rubio.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
-                "name_slug": "marco-rubio",
-                "last_name": "Rubio",
-                "first_name": "Marco"
+                "name_slug": "marco-rubio"
             }
         ],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
         "subject": [
             {
                 "subject_slug": "immigration",
@@ -166,33 +170,33 @@
             }
         ],
         "statement": "<p>Says Marco Rubio &quot;is the one for an open border.&quot;</p>\r\n\r\n<div>&nbsp;</div>\r\n",
-        "ruling_headline": "Rand Paul said that Marco Rubio is for an 'open border'",
-        "ruling_link_text": "2013 bill included extensive border security",
-        "statement_context": "in the CNN debate in Las Vegas",
         "statement_type": {
             "statement_type": "Attack"
         },
         "ruling_date": "2015-12-15T23:39:48",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
+        "statement_date": "2015-12-15",
+        "ruling_link_text": "2013 bill included extensive border security",
+        "statement_context": "in the CNN debate in Las Vegas",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul said that Marco Rubio is for an 'open border'"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/dec/08/rand-paul/rand-paul-largely-correct-french-electronic-survei/",
-        "statement_date": "2015-12-06",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "homeland-security",
@@ -204,33 +208,33 @@
             }
         ],
         "statement": "<p>&quot;In France, they have a (surveillance) program a thousandfold more invasive&quot; than the United States.</p>\r\n",
-        "ruling_headline": "Rand Paul largely correct that French electronic surveillance law is stronger than what U.S. has",
-        "ruling_link_text": "'Thousandfold' is rhetorical flourish, but he's mostly on target",
-        "statement_context": "an interview on NBC's 'Meet the Press'",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-12-08T17:25:54",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2015-12-06",
+        "ruling_link_text": "'Thousandfold' is rhetorical flourish, but he's mostly on target",
+        "statement_context": "an interview on NBC's 'Meet the Press'",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul largely correct that French electronic surveillance law is stronger than what U.S. has"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/nov/10/rand-paul/debate-rand-paul-says-income-inequality-worse-citi/",
-        "statement_date": "2015-11-10",
         "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "economy",
@@ -242,44 +246,44 @@
             }
         ],
         "statement": "<p>&nbsp;Income inequality &quot;seems to be worst in cities run by Democrats.&quot;</p>\r\n",
-        "ruling_headline": "At debate, Rand Paul says income inequality is worse in cities run by Democrats",
-        "ruling_link_text": "It doesn't mean much",
-        "statement_context": "a Republican presidential debate",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-11-10T23:12:20",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
+        "statement_date": "2015-11-10",
+        "ruling_link_text": "It doesn't mean much",
+        "statement_context": "a Republican presidential debate",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "At debate, Rand Paul says income inequality is worse in cities run by Democrats"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/nov/02/rand-paul/rand-paul-says-debt-limit-deal-allows-president-ob/",
-        "statement_date": "2015-10-28",
         "target": [
             {
+                "last_name": "Obama",
+                "first_name": "Barack",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
-                "name_slug": "barack-obama",
-                "last_name": "Obama",
-                "first_name": "Barack"
+                "name_slug": "barack-obama"
             }
         ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
         "subject": [
             {
                 "subject_slug": "debt",
@@ -295,33 +299,33 @@
             }
         ],
         "statement": "<p>The debt limit deal &quot;allows President Obama to borrow unlimited amounts of money.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says debt limit deal 'allows President Obama to borrow unlimited amounts of money'",
-        "ruling_link_text": "Debt limit bill isn't that permissive",
-        "statement_context": "a Republican presidential debate in Boulder, Colo.",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-11-02T11:18:38",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
+        "statement_date": "2015-10-28",
+        "ruling_link_text": "Debt limit bill isn't that permissive",
+        "statement_context": "a Republican presidential debate in Boulder, Colo.",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says debt limit deal 'allows President Obama to borrow unlimited amounts of money'"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/sep/18/rand-paul/rand-paul-says-legality-birthright-citizenship-not/",
-        "statement_date": "2015-09-16",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "immigration",
@@ -333,33 +337,33 @@
             }
         ],
         "statement": "<p>&quot;There&#39;s never been a direct Supreme Court case on people who were here illegally, whether or not their kids are citizens.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says legality of birthright citizenship not fully adjudicated due to facts of 1898 case",
-        "ruling_link_text": "Still, there's long-standing precedent for birthright citizenship",
-        "statement_context": "a presidential debate",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-09-18T14:12:05",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2015-09-16",
+        "ruling_link_text": "Still, there's long-standing precedent for birthright citizenship",
+        "statement_context": "a presidential debate",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says legality of birthright citizenship not fully adjudicated due to facts of 1898 case"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/aug/07/rand-paul/rand-paul-says-fourth-amendment-was-what-we-fought/",
-        "statement_date": "2015-08-06",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "history",
@@ -375,33 +379,33 @@
             }
         ],
         "statement": "<p>&quot;The Fourth Amendment was what we fought the Revolution over. John Adams said it was the spark that led to our war for independence.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says the Fourth Amendment 'was what we fought the Revolution over'",
-        "ruling_link_text": "One cause, not the only one",
-        "statement_context": "a Republican presidential debate in Cleveland",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-08-07T16:42:51",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2015-08-06",
+        "ruling_link_text": "One cause, not the only one",
+        "statement_context": "a Republican presidential debate in Cleveland",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says the Fourth Amendment 'was what we fought the Revolution over'"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/jul/26/rand-paul/rand-paul-says-hillary-clinton-admonished-one-her-/",
-        "statement_date": "2015-07-26",
         "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "technology",
@@ -413,33 +417,33 @@
             }
         ],
         "statement": "<p>&quot;(Hillary Clinton&#39;s State Department) actually admonished one of her ambassadors because he wasn&rsquo;t using the proper server.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul: Hillary Clinton's State Department 'admonished' ambassador for improper email use",
-        "ruling_link_text": "The ambassador used Gmail, from his bathroom",
-        "statement_context": "an interview on \"Fox News Sunday\"",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-07-26T18:33:14",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2015-07-26",
+        "ruling_link_text": "The ambassador used Gmail, from his bathroom",
+        "statement_context": "an interview on \"Fox News Sunday\"",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul: Hillary Clinton's State Department 'admonished' ambassador for improper email use"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/jul/21/rand-paul/rand-paul-us-borrows-1-million-minute/",
-        "statement_date": "2015-07-17",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "debt",
@@ -451,33 +455,33 @@
             }
         ],
         "statement": "<p>&quot;We borrow a million dollars every minute.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul: U.S. borrows $1 million a minute",
-        "ruling_link_text": "Paul rounds up",
-        "statement_context": "a campaign rally in Houston",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-07-21T14:50:33",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2015-07-17",
+        "ruling_link_text": "Paul rounds up",
+        "statement_context": "a campaign rally in Houston",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul: U.S. borrows $1 million a minute"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/apr/12/rand-paul/rand-paul-attacks-hillary-clintons-response-bengha/",
-        "statement_date": "2015-04-12",
         "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "candidates-biography",
@@ -489,33 +493,33 @@
             }
         ],
         "statement": "<div class=\"km\" style=\"margin-left: 1em; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;\">\r\n<div class=\"kl\" dir=\"ltr\" id=\":2tb\" style=\"margin-bottom: 0.2em;\">Says Hillary Clinton &quot;completely ignored&quot; &quot;dozens and dozens of requests for more security&quot; for the Benghazi consulate.</div>\r\n\r\n<div>&nbsp;</div>\r\n</div>\r\n\r\n<div class=\"km\" style=\"margin-left: 1em; color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; line-height: normal;\">&nbsp;</div>\r\n",
-        "ruling_headline": "Rand Paul attacks Hillary Clinton's response to Benghazi attack",
-        "ruling_link_text": "Multiple requests, but we don't know if she knew",
-        "statement_context": "comments on CNN's \"State of the Union\"",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-04-12T18:22:40",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
+        "statement_date": "2015-04-12",
+        "ruling_link_text": "Multiple requests, but we don't know if she knew",
+        "statement_context": "comments on CNN's \"State of the Union\"",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul attacks Hillary Clinton's response to Benghazi attack"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/apr/09/rand-paul/rand-paul-debt-has-tripled-bush-took-office/",
-        "statement_date": "2015-04-07",
         "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "debt",
@@ -523,33 +527,33 @@
             }
         ],
         "statement": "<p>&quot;Debt doubled&quot; under Bush &quot;and now it&rsquo;s tripling under Barack Obama&rsquo;s watch.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul: Debt doubled under Bush, tripled under Obama",
-        "ruling_link_text": "It's a confusing statement",
-        "statement_context": "a speech announcing his presidential campaign",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-04-09T15:30:27",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
+        "statement_date": "2015-04-07",
+        "ruling_link_text": "It's a confusing statement",
+        "statement_context": "a speech announcing his presidential campaign",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul: Debt doubled under Bush, tripled under Obama"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/mar/25/rand-paul/rand-paul-says-he-has-best-shot-beating-hillary-cl/",
-        "statement_date": "2015-03-24",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
         "subject": [
             {
                 "subject_slug": "elections",
@@ -561,33 +565,33 @@
             }
         ],
         "statement": "<p>Says according to recent polls,&nbsp;no Republican candidate &quot;is doing better against Hillary Clinton than myself.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says polls show he has the best shot at beating Hillary Clinton",
-        "ruling_link_text": "Clinton's still in the lead",
-        "statement_context": "an interview on the Kelly File",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-03-25T16:11:35",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
+        "statement_date": "2015-03-24",
+        "ruling_link_text": "Clinton's still in the lead",
+        "statement_context": "an interview on the Kelly File",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says polls show he has the best shot at beating Hillary Clinton"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/mar/09/rand-paul/paul-gets-it-wrong-fate-libyan-missiles/",
-        "statement_date": "2015-02-27",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
         "subject": [
             {
                 "subject_slug": "military",
@@ -599,33 +603,33 @@
             }
         ],
         "statement": "<p>U.S. military involvement in Libya &quot;allowed thousands of surface-to-air missiles to fall into the hands of radical Islamists.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul gets it wrong on fate of Libyan missiles",
-        "ruling_link_text": "US actually destroyed thousands of missiles",
-        "statement_context": "a speech at CPAC",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-03-09T11:32:26",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
+        "statement_date": "2015-02-27",
+        "ruling_link_text": "US actually destroyed thousands of missiles",
+        "statement_context": "a speech at CPAC",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul gets it wrong on fate of Libyan missiles"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/jan/30/rand-paul/rand-paul-says-earned-income-tax-credit-has-25-per/",
-        "statement_date": "2015-01-25",
         "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "taxes",
@@ -637,33 +641,33 @@
             }
         ],
         "statement": "<p>&quot;When you look at the earned income tax credit, it has about a 25 percent fraud rate. We&#39;re looking at $20 billion to $30 billion.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says Earned Income Tax Credit has 25 percent fraud rate that costs up to $30 billion",
-        "ruling_link_text": "25 percent is error, not fraud, rate",
-        "statement_context": "a forum at the Freedom Partners 2015 California retreat",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-01-30T13:27:58",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
+        "statement_date": "2015-01-25",
+        "ruling_link_text": "25 percent is error, not fraud, rate",
+        "statement_context": "a forum at the Freedom Partners 2015 California retreat",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says Earned Income Tax Credit has 25 percent fraud rate that costs up to $30 billion"
     },
     {
         "statement_url": "/truth-o-meter/statements/2015/jan/16/rand-paul/rand-paul-says-most-people-receive-disability-back/",
-        "statement_date": "2015-01-14",
         "target": [],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
         "subject": [
             {
                 "subject_slug": "disability",
@@ -671,33 +675,33 @@
             }
         ],
         "statement": "<p>&quot;Over half the people on disability are either anxious or their back hurts.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says most people receive disability for back pain, anxiety",
-        "ruling_link_text": "It's much, much less",
-        "statement_context": "a speech in New Hampshire",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2015-01-16T16:23:11",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
+        "statement_date": "2015-01-14",
+        "ruling_link_text": "It's much, much less",
+        "statement_context": "a speech in New Hampshire",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says most people receive disability for back pain, anxiety"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/oct/27/rand-paul/ebola-virus-incredibly-contagious-and-easy-catch-r/",
-        "statement_date": "2014-10-16",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
         "subject": [
             {
                 "subject_slug": "ebola",
@@ -709,33 +713,33 @@
             }
         ],
         "statement": "<p>Ebola is &quot;incredibly contagious,&quot; &quot;very transmissible&quot; and &quot;easy to catch.&quot;</p>\r\n",
-        "ruling_headline": "Is the Ebola virus 'incredibly contagious' and 'easy to catch,' like Rand Paul says?",
-        "ruling_link_text": "The Ebola scare continues",
-        "statement_context": "an interview with a New Hampshire radio station",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-10-27T13:10:31",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
+        "statement_date": "2014-10-16",
+        "ruling_link_text": "The Ebola scare continues",
+        "statement_context": "an interview with a New Hampshire radio station",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Is the Ebola virus 'incredibly contagious' and 'easy to catch,' like Rand Paul says?"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/sep/16/rand-paul/rand-paul-says-income-inequality-worse-cities-demo/",
-        "statement_date": "2014-09-11",
         "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "city-government",
@@ -751,33 +755,33 @@
             }
         ],
         "statement": "<p>&quot;Income inequality is worse in towns run by Democrat mayors than in towns run by Republican mayors.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says income inequality is worse in cities with Democratic mayors",
-        "ruling_link_text": "Correlation does not equal causation",
-        "statement_context": "an interview with NPR",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-09-16T11:31:08",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
+        "statement_date": "2014-09-11",
+        "ruling_link_text": "Correlation does not equal causation",
+        "statement_context": "an interview with NPR",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says income inequality is worse in cities with Democratic mayors"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/sep/11/rand-paul/does-video-show-islamic-jihadists-jumping-us-embas/",
-        "statement_date": "2014-09-04",
         "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "foreign-policy",
@@ -793,33 +797,33 @@
             }
         ],
         "statement": "<p>In Tripoli, &quot;jihadists today swim in our embassy pool.&quot;</p>\r\n",
-        "ruling_headline": "Does a video show jihadists jumping into a U.S. embassy pool?",
-        "ruling_link_text": "Paul's claim sinks",
-        "statement_context": "an op-ed for Time magazine",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-09-11T17:02:04",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
+        "statement_date": "2014-09-04",
+        "ruling_link_text": "Paul's claim sinks",
+        "statement_context": "an op-ed for Time magazine",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Does a video show jihadists jumping into a U.S. embassy pool?"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/aug/21/rand-paul/rand-paul-says-federal-program-incentivizes-police/",
-        "statement_date": "2014-08-14",
         "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "crime",
@@ -847,33 +851,33 @@
             }
         ],
         "statement": "<p>&quot;Washington has incentivized the militarization of local police precincts.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says federal program incentivizes police militarization",
-        "ruling_link_text": "It's an incentive, but not the root cause",
-        "statement_context": "an opinion column",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-08-21T13:52:02",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2014-08-14",
+        "ruling_link_text": "It's an incentive, but not the root cause",
+        "statement_context": "an opinion column",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says federal program incentivizes police militarization"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/aug/07/rand-paul/did-rand-paul-propose-cutting-aid-israel/",
-        "statement_date": "2014-08-04",
         "target": [],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -889,33 +893,33 @@
             }
         ],
         "statement": "<p>&quot;I haven&rsquo;t really proposed (phasing out aid to Israel) in the past.&quot;</p>\r\n",
-        "ruling_headline": "Did Rand Paul propose cutting off aid to Israel?",
-        "ruling_link_text": "Documents and multiple interviews say otherwise",
-        "statement_context": "comments to reporters",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-08-07T11:58:36",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
+        "statement_date": "2014-08-04",
+        "ruling_link_text": "Documents and multiple interviews say otherwise",
+        "statement_context": "comments to reporters",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Did Rand Paul propose cutting off aid to Israel?"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/aug/07/rand-paul/rand-paul-rightly-says-government-shutdown-was-mor/",
-        "statement_date": "2014-08-05",
         "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "congress",
@@ -939,33 +943,33 @@
             }
         ],
         "statement": "<p>&quot;It cost us more to shut the government down than to keep it open.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul rightly says the government shutdown was more expensive than keeping it open",
-        "ruling_link_text": "It was costly to the government and the economy",
-        "statement_context": "a speech in Iowa",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-08-07T11:55:10",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2014-08-05",
+        "ruling_link_text": "It was costly to the government and the economy",
+        "statement_context": "a speech in Iowa",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul rightly says the government shutdown was more expensive than keeping it open"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/may/05/rand-paul/rand-paul-says-40-times-more-kentuckians-have-gott/",
-        "statement_date": "2014-05-02",
         "target": [],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
         "subject": [
             {
                 "subject_slug": "corrections-and-updates",
@@ -977,54 +981,54 @@
             }
         ],
         "statement": "<p>&quot;For every Kentuckian that has enrolled in Obamacare, 40 have been dropped from their coverage.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says 40 times more Kentuckians have gotten health-insurance cancellation notices than signed up for Obamacare",
-        "ruling_link_text": "Mathematically impossible",
-        "statement_context": "a newsletter",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-05-05T17:38:23",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
+        "statement_date": "2014-05-02",
+        "ruling_link_text": "Mathematically impossible",
+        "statement_context": "a newsletter",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says 40 times more Kentuckians have gotten health-insurance cancellation notices than signed up for Obamacare"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/mar/25/facebook-posts/facebook-meme-claims-rand-paul-and-marco-rubio-hav/",
-        "statement_date": "2014-03-10",
         "target": [
             {
+                "last_name": "Paul",
+                "first_name": "Rand",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
-                "name_slug": "rand-paul",
-                "last_name": "Paul",
-                "first_name": "Rand"
+                "name_slug": "rand-paul"
             },
             {
+                "last_name": "Rubio",
+                "first_name": "Marco",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Marco_Rubio.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
-                "name_slug": "marco-rubio",
-                "last_name": "Rubio",
-                "first_name": "Marco"
+                "name_slug": "marco-rubio"
             }
         ],
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
         "subject": [
             {
                 "subject_slug": "religion",
@@ -1036,33 +1040,33 @@
             }
         ],
         "statement": "<p>Says Marco Rubio believes the earth is 9,000 years old and that humans hunted dinosaurs to extinction; says&nbsp; Rand Paul believes the earth is 10,000 years old and God removed dinosaurs &quot;to make space for humans.&quot;</p>\r\n",
-        "ruling_headline": "Facebook meme claims Rand Paul and Marco Rubio have anti-science views on dinosaurs, earth's age",
-        "ruling_link_text": "Yabba dabba doo, this is untrue!",
-        "statement_context": "a post from Being Liberal",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-03-25T15:35:20",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
+        "statement_date": "2014-03-10",
+        "ruling_link_text": "Yabba dabba doo, this is untrue!",
+        "statement_context": "a post from Being Liberal",
         "speaker": {
+            "last_name": "Facebook posts",
+            "first_name": "",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Facebook_icon_1.jpg",
             "party": {
-                "party": "None",
-                "party_slug": "none"
+                "party_slug": "none",
+                "party": "None"
             },
-            "name_slug": "facebook-posts",
-            "last_name": "Facebook posts",
-            "first_name": ""
-        }
+            "name_slug": "facebook-posts"
+        },
+        "ruling_headline": "Facebook meme claims Rand Paul and Marco Rubio have anti-science views on dinosaurs, earth's age"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/mar/09/rand-paul/sen-paul-says-obama-lost-youth-support/",
-        "statement_date": "2014-03-09",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "elections",
@@ -1074,44 +1078,44 @@
             }
         ],
         "statement": "<p>&quot;The president won the youth vote 3 to&nbsp;1, but his numbers have dropped 20, 30 percent among the youth.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says Obama lost youth support",
-        "ruling_link_text": "Ratio off; percent change on target",
-        "statement_context": "a 'Fox News Sunday' interview",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-03-09T16:53:59",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2014-03-09",
+        "ruling_link_text": "Ratio off; percent change on target",
+        "statement_context": "a 'Fox News Sunday' interview",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says Obama lost youth support"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/jan/30/rand-paul/rand-paul-says-barack-obama-spent-nearly-trillion-/",
-        "statement_date": "2014-01-28",
         "target": [
             {
+                "last_name": "Obama",
+                "first_name": "Barack",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
-                "name_slug": "barack-obama",
-                "last_name": "Obama",
-                "first_name": "Barack"
+                "name_slug": "barack-obama"
             }
         ],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
         "subject": [
             {
                 "subject_slug": "economy",
@@ -1131,33 +1135,33 @@
             }
         ],
         "statement": "<p>Says President Barack Obama &quot;spent nearly a trillion dollars on make-work government jobs.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says Barack Obama 'spent nearly a trillion dollars on make-work government jobs.'",
-        "ruling_link_text": "For starters, two-thirds of stimulus was tax cuts and entitlements",
-        "statement_context": "a response to the State of the Union address",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-01-30T16:35:53",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
+        "statement_date": "2014-01-28",
+        "ruling_link_text": "For starters, two-thirds of stimulus was tax cuts and entitlements",
+        "statement_context": "a response to the State of the Union address",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says Barack Obama 'spent nearly a trillion dollars on make-work government jobs.'"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/jan/28/rand-paul/rand-paul-says-more-half-students-medical-dental-a/",
-        "statement_date": "2014-01-26",
         "target": [],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
         "subject": [
             {
                 "subject_slug": "education",
@@ -1177,33 +1181,33 @@
             }
         ],
         "statement": "<p>&quot;Over half of the young people&quot; in medical, dental and law schools are women.</p>\r\n",
-        "ruling_headline": "Rand Paul says more than half of students at medical, dental and law schools are females",
-        "ruling_link_text": "Paul bats 0-for-3 on this one",
-        "statement_context": "an interview with CNN",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-01-28T15:50:22",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
+        "statement_date": "2014-01-26",
+        "ruling_link_text": "Paul bats 0-for-3 on this one",
+        "statement_context": "an interview with CNN",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says more than half of students at medical, dental and law schools are females"
     },
     {
         "statement_url": "/truth-o-meter/statements/2014/jan/09/rand-paul/rand-paul-says-longer-people-get-unemployment-insu/",
-        "statement_date": "2014-01-05",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "economy",
@@ -1215,33 +1219,33 @@
             }
         ],
         "statement": "<p>&quot;There are many studies that indicate&quot; that the longer people get unemployment insurance, &quot;it provides some disincentive to work.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says the longer people get unemployment insurance, it provides 'some disincentive' to work",
-        "ruling_link_text": "There are lots of studies; what they mean for policy is less clear",
-        "statement_context": "an interview on ABC's \"This Week with George Stephanopoulos\"",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2014-01-09T11:42:12",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2014-01-05",
+        "ruling_link_text": "There are lots of studies; what they mean for policy is less clear",
+        "statement_context": "an interview on ABC's \"This Week with George Stephanopoulos\"",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says the longer people get unemployment insurance, it provides 'some disincentive' to work"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/oct/04/rand-paul/rand-paul-says-only-15-percent-federal-spending-be/",
-        "statement_date": "2013-10-02",
         "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -1249,33 +1253,33 @@
             }
         ],
         "statement": "<p>&quot;Eighty-five percent of government&#39;s running right now. Only 15 percent of government spending is shut down.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says '85 percent of government's running right now'",
-        "ruling_link_text": "Most spending goes on, even as many employees are furloughed",
-        "statement_context": "an interview on CNN",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-10-04T13:40:48",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
+        "statement_date": "2013-10-02",
+        "ruling_link_text": "Most spending goes on, even as many employees are furloughed",
+        "statement_context": "an interview on CNN",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says '85 percent of government's running right now'"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/sep/10/rand-paul/rand-paul-syrian-rebels-behead-priests-and-eat-hea/",
-        "statement_date": "2013-09-09",
         "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "corrections-and-updates",
@@ -1295,33 +1299,33 @@
             }
         ],
         "statement": "<p>&quot;We&#39;ve seen priests beheaded by the Islamic rebels on the other side. We&#39;ve also seen an Islamic rebel eating the heart of a soldier.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul: Syrian rebels behead priests and eat hearts",
-        "ruling_link_text": "Exaggerations of brutality but the deaths are real",
-        "statement_context": "an interview on CNN's 'Crossfire'",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-09-10T17:49:02",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
+        "statement_date": "2013-09-09",
+        "ruling_link_text": "Exaggerations of brutality but the deaths are real",
+        "statement_context": "an interview on CNN's 'Crossfire'",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul: Syrian rebels behead priests and eat hearts"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/aug/16/rand-paul/rand-paul-says-young-people-are-major-part-uninsur/",
-        "statement_date": "2013-08-12",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -1329,33 +1333,33 @@
             }
         ],
         "statement": "<p>Many uninsured Americans are &quot;young.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says young people are a major part of the uninsured population",
-        "ruling_link_text": "Young uninsured people are a part of the problem, but far from all",
-        "statement_context": "an interview on Comedy Central's \"The Daily Show\"",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-08-16T11:45:47",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2013-08-12",
+        "ruling_link_text": "Young uninsured people are a part of the problem, but far from all",
+        "statement_context": "an interview on Comedy Central's \"The Daily Show\"",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says young people are a major part of the uninsured population"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/aug/15/rand-paul/rand-paul-daily-show-says-cost-biggest-barrier-uni/",
-        "statement_date": "2013-08-12",
         "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -1367,33 +1371,33 @@
             }
         ],
         "statement": "<p>&quot;Why didn&#39;t (uninsured Americans) buy insurance? Because of the expense.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul, on 'Daily Show,' says cost is biggest barrier for the uninsured",
-        "ruling_link_text": "Surveys confirm cost is biggest obstacle",
-        "statement_context": "an interview on Comedy Central's \"The Daily Show\"",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-08-15T15:11:52",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2013-08-12",
+        "ruling_link_text": "Surveys confirm cost is biggest obstacle",
+        "statement_context": "an interview on Comedy Central's \"The Daily Show\"",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul, on 'Daily Show,' says cost is biggest barrier for the uninsured"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/aug/15/rand-paul/rand-paul-says-half-uninsured-americans-make-least/",
-        "statement_date": "2013-08-12",
         "target": [],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -1405,33 +1409,33 @@
             }
         ],
         "statement": "<p>Of the roughly 15 percent of Americans who don&rsquo;t have health insurance, &quot;half of them made more than $50,000 a year.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says half of uninsured Americans make at least $50,000 a year",
-        "ruling_link_text": "It's somewhere between 28 percent and 38 percent",
-        "statement_context": "an interview on Comedy Central's \"The Daily Show\"",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-08-15T15:11:14",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
+        "statement_date": "2013-08-12",
+        "ruling_link_text": "It's somewhere between 28 percent and 38 percent",
+        "statement_context": "an interview on Comedy Central's \"The Daily Show\"",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says half of uninsured Americans make at least $50,000 a year"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/jul/11/rand-paul/rand-paul-says-gallup-poll-found-70-percent-egypti/",
-        "statement_date": "2013-07-08",
         "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "foreign-policy",
@@ -1443,44 +1447,44 @@
             }
         ],
         "statement": "<p>\r\n\t&quot;There was a Gallup poll in Egypt last year, and 70 percent of Egyptians don&#39;t want our money.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says Gallup poll found 70 percent of Egyptians opposed to U.S. aid",
-        "ruling_link_text": "Actually, opposition was even higher",
-        "statement_context": "a Fox News interview",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-07-11T10:55:01",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2013-07-08",
+        "ruling_link_text": "Actually, opposition was even higher",
+        "statement_context": "a Fox News interview",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says Gallup poll found 70 percent of Egyptians opposed to U.S. aid"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/may/22/rand-paul/rand-paul-says-hillary-clinton-was-asked-repeatedl/",
-        "statement_date": "2013-05-19",
         "target": [
             {
+                "last_name": "Clinton",
+                "first_name": "Hillary",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
-                "name_slug": "hillary-clinton",
-                "last_name": "Clinton",
-                "first_name": "Hillary"
+                "name_slug": "hillary-clinton"
             }
         ],
+        "ruling": {
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
         "subject": [
             {
                 "subject_slug": "foreign-policy",
@@ -1492,33 +1496,33 @@
             }
         ],
         "statement": "<p>\r\n\tSays Hillary Clinton &quot;was asked repeatedly to provide security in Benghazi on several occasions, including direct cables.&quot;</p>\r\n",
-        "ruling_headline": " Rand Paul  says Hillary Clinton was ‘asked repeatedly to provide security in Benghazi … including direct cables’",
-        "ruling_link_text": "'Direct'? Not so much",
-        "statement_context": " an appearance on CNN’s ‘State of the Union’",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-05-22T14:30:02",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
+        "statement_date": "2013-05-19",
+        "ruling_link_text": "'Direct'? Not so much",
+        "statement_context": " an appearance on CNN’s ‘State of the Union’",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": " Rand Paul  says Hillary Clinton was ‘asked repeatedly to provide security in Benghazi … including direct cables’"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/mar/15/rand-paul/rand-paul-mocks-federally-funded-study-menus-astro/",
-        "statement_date": "2013-03-14",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -1534,33 +1538,33 @@
             }
         ],
         "statement": "<p>\r\n\tSays the federal government is supporting a study in Hawaii to &quot;develop a menu for when we colonize Mars.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul mocks federally funded study on menus for astronauts",
-        "ruling_link_text": "Study is more Mars than Maui",
-        "statement_context": "a speech at the CPAC conference",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-03-15T15:06:27",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2013-03-14",
+        "ruling_link_text": "Study is more Mars than Maui",
+        "statement_context": "a speech at the CPAC conference",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul mocks federally funded study on menus for astronauts"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/mar/12/rand-paul/rand-paul-says-cia-director-john-brennan-claimed-n/",
-        "statement_date": "2013-03-06",
         "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "civil-rights",
@@ -1572,44 +1576,44 @@
             }
         ],
         "statement": "<p>\r\n\t&quot;When (John) Brennan ... was asked directly &hellip; &lsquo;Is there any geographic limitation to your drone strike program?&rsquo; Brennan responded and said, &lsquo;no, there is no limitation.&rsquo;&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says CIA Director John Brennan claimed no geographic limit on drone strikes",
-        "ruling_link_text": "That's what he said",
-        "statement_context": "a Senate filibuster",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-03-12T13:57:18",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2013-03-06",
+        "ruling_link_text": "That's what he said",
+        "statement_context": "a Senate filibuster",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says CIA Director John Brennan claimed no geographic limit on drone strikes"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/mar/07/rand-paul/sen-rand-paul-says-obama-advocating-drone-strike-p/",
-        "statement_date": "2013-03-06",
         "target": [
             {
+                "last_name": "Obama",
+                "first_name": "Barack",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
-                "name_slug": "barack-obama",
-                "last_name": "Obama",
-                "first_name": "Barack"
+                "name_slug": "barack-obama"
             }
         ],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
         "subject": [
             {
                 "subject_slug": "civil-rights",
@@ -1621,33 +1625,33 @@
             }
         ],
         "statement": "<p>\r\n\t&quot;The president is advocating a drone strike program in America.&quot;</p>\r\n",
-        "ruling_headline": "Sen. Rand Paul says Obama 'is advocating a drone strike program in America'",
-        "ruling_link_text": "No advocacy we could find",
-        "statement_context": "a tweet",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-03-07T17:43:34",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
+        "statement_date": "2013-03-06",
+        "ruling_link_text": "No advocacy we could find",
+        "statement_context": "a tweet",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Sen. Rand Paul says Obama 'is advocating a drone strike program in America'"
     },
     {
         "statement_url": "/truth-o-meter/statements/2013/mar/07/rand-paul/rand-paul-challenges-obama-spokesmans-comment-son-/",
-        "statement_date": "2013-03-06",
         "target": [],
+        "ruling": {
+            "ruling": "Half-True",
+            "ruling_slug": "half-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "civil-rights",
@@ -1667,33 +1671,33 @@
             }
         ],
         "statement": "<p>\r\n\t&quot;When the president&#39;s spokesman was asked about (Anwar) al-Awlaki&#39;s son, &hellip; he said he should have chosen a more responsible father.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul challenges Obama spokesman's comment on son of terrorist killed by drone strike",
-        "ruling_link_text": "Robert Gibbs said it when pressed by activist group",
-        "statement_context": "a Senate filibuster speech",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2013-03-07T16:45:45",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
+        "statement_date": "2013-03-06",
+        "ruling_link_text": "Robert Gibbs said it when pressed by activist group",
+        "statement_context": "a Senate filibuster speech",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul challenges Obama spokesman's comment on son of terrorist killed by drone strike"
     },
     {
         "statement_url": "/truth-o-meter/statements/2011/feb/17/rand-paul/rand-paul-says-zeroing-out-non-military-discretion/",
-        "statement_date": "2011-02-14",
         "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "deficit",
@@ -1717,33 +1721,33 @@
             }
         ],
         "statement": "<div style=\"margin: 0px; background-color: transparent;\">\r\n\tThe federal government &quot;can cut all of the non-military discretionary spending and not balance the budget.&quot;</div>",
-        "ruling_headline": "Rand Paul says zeroing out non-military discretionary spending can't balance the budget alone",
-        "ruling_link_text": "Defense, entitlements, interest payments are too big to allow it",
-        "statement_context": "an interview on Fox Business News",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2011-02-17T17:50:06",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2011-02-14",
+        "ruling_link_text": "Defense, entitlements, interest payments are too big to allow it",
+        "statement_context": "an interview on Fox Business News",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says zeroing out non-military discretionary spending can't balance the budget alone"
     },
     {
         "statement_url": "/truth-o-meter/statements/2011/feb/04/rand-paul/rand-paul-says-israels-capita-income-greater-proba/",
-        "statement_date": "2011-02-04",
         "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "economy",
@@ -1759,33 +1763,33 @@
             }
         ],
         "statement": "<p>\r\n\tIsrael&#39;s per capita income &quot;is greater than probably three-fourths of the rest of the world.&quot;</p>",
-        "ruling_headline": "Rand Paul says Israel's per capita income \"is greater than probably three-fourths of the rest of the world.\"",
-        "ruling_link_text": "More than probably: It is",
-        "statement_context": "an interview with ABC News",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2011-02-04T17:12:02",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2011-02-04",
+        "ruling_link_text": "More than probably: It is",
+        "statement_context": "an interview with ABC News",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says Israel's per capita income \"is greater than probably three-fourths of the rest of the world.\""
     },
     {
         "statement_url": "/truth-o-meter/statements/2011/jan/28/rand-paul/rand-paul-says-tea-party-pushed-barack-obama-shift/",
-        "statement_date": "2011-01-27",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -1793,33 +1797,33 @@
             }
         ],
         "statement": "<p>\r\n\tSays President Barack Obama revealed in his State of the Union address that he &quot;now is against earmarks.&quot;</p>",
-        "ruling_headline": "Rand Paul says tea party pushed Barack Obama to shift view on earmarks",
-        "ruling_link_text": "The president strengthened his stance, but he's long been critical of earmarks",
-        "statement_context": "a Senate Tea Party Caucus meeting",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2011-01-28T16:35:15",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2011-01-27",
+        "ruling_link_text": "The president strengthened his stance, but he's long been critical of earmarks",
+        "statement_context": "a Senate Tea Party Caucus meeting",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says tea party pushed Barack Obama to shift view on earmarks"
     },
     {
         "statement_url": "/truth-o-meter/statements/2010/nov/15/rand-paul/rand-paul-says-federal-spending-has-risen-25-perce/",
-        "statement_date": "2010-11-14",
         "target": [],
+        "ruling": {
+            "ruling": "True",
+            "ruling_slug": "true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
         "subject": [
             {
                 "subject_slug": "economy",
@@ -1831,33 +1835,33 @@
             }
         ],
         "statement": "<p>\r\n\t&quot;We now consume at the federal level 25 percent of the gross domestic product. Historically we were at 20 percent. So we&#39;ve taken 5 percent away from the private sector.&quot;</p>",
-        "ruling_headline": "Rand Paul says federal spending has risen to 25 percent of GDP",
-        "ruling_link_text": "Yes, spending is up as a share of GDP",
-        "statement_context": "an interview on CBS' \"Face the Nation\"",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2010-11-15T15:56:56",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
+        "statement_date": "2010-11-14",
+        "ruling_link_text": "Yes, spending is up as a share of GDP",
+        "statement_context": "an interview on CBS' \"Face the Nation\"",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says federal spending has risen to 25 percent of GDP"
     },
     {
         "statement_url": "/truth-o-meter/statements/2010/nov/11/rand-paul/rand-paul-says-federal-workers-paid-120000-private/",
-        "statement_date": "2010-11-07",
         "target": [],
+        "ruling": {
+            "ruling": "False",
+            "ruling_slug": "false",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
         "subject": [
             {
                 "subject_slug": "economy",
@@ -1877,33 +1881,33 @@
             }
         ],
         "statement": "<p>\r\n\t&quot;The average federal employee makes $120,000 a year. The average private employee makes $60,000 a year.&quot;</p>",
-        "ruling_headline": "Rand Paul says federal workers paid $120,000, private-sector workers only $60,000",
-        "ruling_link_text": "For starters, that includes salary plus benefits",
-        "statement_context": "an interview on ABC's This Week with Christiane Amanpour",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2010-11-11T10:30:00",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
+        "statement_date": "2010-11-07",
+        "ruling_link_text": "For starters, that includes salary plus benefits",
+        "statement_context": "an interview on ABC's This Week with Christiane Amanpour",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says federal workers paid $120,000, private-sector workers only $60,000"
     },
     {
         "statement_url": "/truth-o-meter/statements/2010/nov/08/rand-paul/rand-paul-says-federal-interest-burden-will-approa/",
-        "statement_date": "2010-11-07",
         "target": [],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -1919,44 +1923,44 @@
             }
         ],
         "statement": "<p>\r\n\t&quot;The interest on the debt now is going to approach in the next couple of years ... what we spend in the national defense budget.&quot;</p>\r\n",
-        "ruling_headline": "Rand Paul says that federal interest burden will approach cost of defense spending in a \"couple of years\"",
-        "ruling_link_text": "It probably will, but not as quickly as suggested",
-        "statement_context": "an interview on ABC's \"This Week with Christiane Amanpour\"",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2010-11-08T16:36:10",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2010-11-07",
+        "ruling_link_text": "It probably will, but not as quickly as suggested",
+        "statement_context": "an interview on ABC's \"This Week with Christiane Amanpour\"",
         "speaker": {
+            "last_name": "Paul",
+            "first_name": "Rand",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
             "party": {
-                "party": "Republican",
-                "party_slug": "republican"
+                "party_slug": "republican",
+                "party": "Republican"
             },
-            "name_slug": "rand-paul",
-            "last_name": "Paul",
-            "first_name": "Rand"
-        }
+            "name_slug": "rand-paul"
+        },
+        "ruling_headline": "Rand Paul says that federal interest burden will approach cost of defense spending in a \"couple of years\""
     },
     {
         "statement_url": "/truth-o-meter/statements/2010/oct/19/jack-conway/jack-conway-says-rand-paul-would-end-faith-based-i/",
-        "statement_date": "2010-10-15",
         "target": [
             {
+                "last_name": "Paul",
+                "first_name": "Rand",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
-                "name_slug": "rand-paul",
-                "last_name": "Paul",
-                "first_name": "Rand"
+                "name_slug": "rand-paul"
             }
         ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "message-machine",
@@ -1972,44 +1976,44 @@
             }
         ],
         "statement": "<p>\r\n\tRand Paul wants &quot;to end all federal faith-based initiatives, and even end the deduction for religious charities.&quot;</p>\r\n",
-        "ruling_headline": "Jack Conway says Rand Paul would end faith-based initiatives, religious charity deduction",
-        "ruling_link_text": "We check the part of the ad that wasn't about Aqua Buddha",
-        "statement_context": "a campaign commercial",
         "statement_type": {
             "statement_type": "Attack"
         },
         "ruling_date": "2010-10-19T10:42:06",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2010-10-15",
+        "ruling_link_text": "We check the part of the ad that wasn't about Aqua Buddha",
+        "statement_context": "a campaign commercial",
         "speaker": {
+            "last_name": "Conway",
+            "first_name": "Jack",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/conway.jpg",
             "party": {
-                "party": "Democrat",
-                "party_slug": "democrat"
+                "party_slug": "democrat",
+                "party": "Democrat"
             },
-            "name_slug": "jack-conway",
-            "last_name": "Conway",
-            "first_name": "Jack"
-        }
+            "name_slug": "jack-conway"
+        },
+        "ruling_headline": "Jack Conway says Rand Paul would end faith-based initiatives, religious charity deduction"
     },
     {
         "statement_url": "/truth-o-meter/statements/2010/oct/08/jack-conway/jack-conway-says-rand-paul-backs-2000-deductible-m/",
-        "statement_date": "2010-09-28",
         "target": [
             {
+                "last_name": "Paul",
+                "first_name": "Rand",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rand_Paul.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
-                "name_slug": "rand-paul",
-                "last_name": "Paul",
-                "first_name": "Rand"
+                "name_slug": "rand-paul"
             }
         ],
+        "ruling": {
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -2025,27 +2029,23 @@
             }
         ],
         "statement": "<p>\r\n\tRand Paul &quot;wants us to pay $2,000 just to get Medicare.&quot;</p>\r\n",
-        "ruling_headline": "Jack Conway says Rand Paul backs a $2,000 deductible for Medicare",
-        "ruling_link_text": "He's been caught on tape saying it several times",
-        "statement_context": "a campaign commercial",
         "statement_type": {
             "statement_type": "Claim"
         },
         "ruling_date": "2010-10-08T14:20:59",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
+        "statement_date": "2010-09-28",
+        "ruling_link_text": "He's been caught on tape saying it several times",
+        "statement_context": "a campaign commercial",
         "speaker": {
+            "last_name": "Conway",
+            "first_name": "Jack",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/conway.jpg",
             "party": {
-                "party": "Democrat",
-                "party_slug": "democrat"
+                "party_slug": "democrat",
+                "party": "Democrat"
             },
-            "name_slug": "jack-conway",
-            "last_name": "Conway",
-            "first_name": "Jack"
-        }
+            "name_slug": "jack-conway"
+        },
+        "ruling_headline": "Jack Conway says Rand Paul backs a $2,000 deductible for Medicare"
     }
 ]

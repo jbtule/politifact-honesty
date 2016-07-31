@@ -1,76 +1,53 @@
 [
     {
-        "ruling_link_text": "Media can't get enough of Trump",
-        "statement_context": "an interview on NBC's \"Meet the Press\"",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
         "statement_url": "/truth-o-meter/statements/2016/mar/20/john-kasich/john-kasich-calls-out-donald-trumps-18-billion-wor/",
-        "ruling_date": "2016-03-20T17:33:08",
+        "statement_date": "2016-03-20",
         "target": [
             {
-                "first_name": "Donald",
-                "name_slug": "donald-trump",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
-                "last_name": "Trump",
                 "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "donald-trump",
+                "last_name": "Trump",
+                "first_name": "Donald"
             }
         ],
-        "speaker": {
-            "first_name": "John",
-            "name_slug": "john-kasich",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-            "last_name": "Kasich",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2016-03-20",
-        "statement": "<p>Says Donald&nbsp;&quot;Trump got, you know, $1.8 billion worth of free media. I got, like, none.&quot;</p>\r\n",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_headline": "John Kasich calls out Donald Trump's '$1.8 billion worth of free media'",
         "subject": [
             {
                 "subject_slug": "elections",
                 "subject": "Elections"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Ad overstates validity of a prior PolitiFact estimate",
-        "statement_context": "a television ad",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2016/mar/09/john-kasich/john-kasich-ad-says-20-million-americans-are-out-w/",
-        "ruling_date": "2016-03-09T10:00:00",
-        "target": [],
-        "speaker": {
-            "first_name": "John",
-            "name_slug": "john-kasich",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-            "last_name": "Kasich",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2016-02-27",
-        "statement": "<p>&quot;Twenty million Americans are out of work.&quot;</p>\r\n",
+        ],
+        "statement": "<p>Says Donald&nbsp;&quot;Trump got, you know, $1.8 billion worth of free media. I got, like, none.&quot;</p>\r\n",
+        "ruling_headline": "John Kasich calls out Donald Trump's '$1.8 billion worth of free media'",
+        "ruling_link_text": "Media can't get enough of Trump",
+        "statement_context": "an interview on NBC's \"Meet the Press\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "John Kasich ad says 20 million Americans 'are out of work'",
+        "ruling_date": "2016-03-20T17:33:08",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-kasich",
+            "last_name": "Kasich",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2016/mar/09/john-kasich/john-kasich-ad-says-20-million-americans-are-out-w/",
+        "statement_date": "2016-02-27",
+        "target": [],
         "subject": [
             {
                 "subject_slug": "economy",
@@ -80,145 +57,145 @@
                 "subject_slug": "jobs",
                 "subject": "Jobs"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "He does fare best, but not always by 11 points",
-        "statement_context": "a Republican presidential debate in Detroit",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2016/mar/03/john-kasich/john-kasich-correct-he-polls-best-against-among-go/",
-        "ruling_date": "2016-03-03T22:22:15",
-        "target": [
-            {
-                "first_name": "Hillary",
-                "name_slug": "hillary-clinton",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
-                "last_name": "Clinton",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            },
-            {
-                "first_name": "Donald",
-                "name_slug": "donald-trump",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
-                "last_name": "Trump",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "John",
-            "name_slug": "john-kasich",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-            "last_name": "Kasich",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2016-03-03",
-        "statement": "<p>In head-to-head polls for the general election, &quot;I beat Hillary Clinton by more than anybody, by 11 points.&quot;</p>\r\n",
+        "statement": "<p>&quot;Twenty million Americans are out of work.&quot;</p>\r\n",
+        "ruling_headline": "John Kasich ad says 20 million Americans 'are out of work'",
+        "ruling_link_text": "Ad overstates validity of a prior PolitiFact estimate",
+        "statement_context": "a television ad",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "John Kasich correct that he polls best among GOP hopefuls against Hillary Clinton",
+        "ruling_date": "2016-03-09T10:00:00",
+        "ruling": {
+            "ruling_slug": "half-true",
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-kasich",
+            "last_name": "Kasich",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2016/mar/03/john-kasich/john-kasich-correct-he-polls-best-against-among-go/",
+        "statement_date": "2016-03-03",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
+                "party": {
+                    "party": "Democrat",
+                    "party_slug": "democrat"
+                },
+                "name_slug": "hillary-clinton",
+                "last_name": "Clinton",
+                "first_name": "Hillary"
+            },
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "donald-trump",
+                "last_name": "Trump",
+                "first_name": "Donald"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "polls",
                 "subject": "Polls and Public Opinion"
             }
-        ]
-    },
-    {
+        ],
+        "statement": "<p>In head-to-head polls for the general election, &quot;I beat Hillary Clinton by more than anybody, by 11 points.&quot;</p>\r\n",
+        "ruling_headline": "John Kasich correct that he polls best among GOP hopefuls against Hillary Clinton",
         "ruling_link_text": "He does fare best, but not always by 11 points",
         "statement_context": "a Republican presidential debate in Detroit",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2016-03-03T22:22:15",
         "ruling": {
             "ruling_slug": "mostly-true",
             "ruling": "Mostly True",
             "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
         },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-kasich",
+            "last_name": "Kasich",
+            "first_name": "John"
+        }
+    },
+    {
         "statement_url": "/truth-o-meter/statements/2016/mar/03/john-kasich/john-kasich-correct-he-polls-best-against-among-go/",
-        "ruling_date": "2016-03-03T22:22:15",
+        "statement_date": "2016-03-03",
         "target": [
             {
-                "first_name": "Hillary",
-                "name_slug": "hillary-clinton",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
-                "last_name": "Clinton",
                 "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
+                    "party": "Democrat",
+                    "party_slug": "democrat"
+                },
+                "name_slug": "hillary-clinton",
+                "last_name": "Clinton",
+                "first_name": "Hillary"
             },
             {
-                "first_name": "Donald",
-                "name_slug": "donald-trump",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
-                "last_name": "Trump",
                 "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "donald-trump",
+                "last_name": "Trump",
+                "first_name": "Donald"
             }
         ],
-        "speaker": {
-            "first_name": "John",
-            "name_slug": "john-kasich",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-            "last_name": "Kasich",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2016-03-03",
-        "statement": "<p>In head-to-head polls for the general election, &quot;I beat Hillary Clinton by more than anybody, by 11 points.&quot;</p>\r\n",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_headline": "John Kasich correct that he polls best among GOP hopefuls against Hillary Clinton",
         "subject": [
             {
                 "subject_slug": "polls",
                 "subject": "Polls and Public Opinion"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Yes, but it's more complicated",
-        "statement_context": "the Republican debate in Charleston, S.C.",
+        ],
+        "statement": "<p>In head-to-head polls for the general election, &quot;I beat Hillary Clinton by more than anybody, by 11 points.&quot;</p>\r\n",
+        "ruling_headline": "John Kasich correct that he polls best among GOP hopefuls against Hillary Clinton",
+        "ruling_link_text": "He does fare best, but not always by 11 points",
+        "statement_context": "a Republican presidential debate in Detroit",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2016-03-03T22:22:15",
         "ruling": {
             "ruling_slug": "mostly-true",
             "ruling": "Mostly True",
             "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
         },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-kasich",
+            "last_name": "Kasich",
+            "first_name": "John"
+        }
+    },
+    {
         "statement_url": "/truth-o-meter/statements/2016/feb/15/john-kasich/kasich-medicaid-spending-rose-twice-fast-under-jeb/",
-        "ruling_date": "2016-02-15T18:04:26",
-        "target": [],
-        "speaker": {
-            "first_name": "John",
-            "name_slug": "john-kasich",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-            "last_name": "Kasich",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
         "statement_date": "2016-02-13",
-        "statement": "<p>&quot;When Jeb (Bush) was governor, his first four years as governor, his Medicaid program grew twice as fast as mine.&quot;</p>\r\n",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_headline": "Kasich: Medicaid spending rose twice as fast under Jeb Bush",
+        "target": [],
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -228,101 +205,101 @@
                 "subject_slug": "state-budget",
                 "subject": "State Budget"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "She's right, though still back in the pack",
-        "statement_context": "a column posted on Medium.com",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2016/feb/08/carly-fiorina/carly-fiorina-says-her-campaign-has-more-cash-hand/",
-        "ruling_date": "2016-02-08T17:53:15",
-        "target": [
-            {
-                "first_name": "Chris",
-                "name_slug": "chris-christie",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
-                "last_name": "Christie",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            },
-            {
-                "first_name": "John",
-                "name_slug": "john-kasich",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-                "last_name": "Kasich",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Carly",
-            "name_slug": "carly-fiorina",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Fiorina_1.jpg",
-            "last_name": "Fiorina",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2016-02-06",
-        "statement": "<p>Says she &quot;is 6th in hard dollars raised and has more cash on hand than Governors (John) Kasich and (Chris) Christie combined.&quot;</p>\r\n",
+        "statement": "<p>&quot;When Jeb (Bush) was governor, his first four years as governor, his Medicaid program grew twice as fast as mine.&quot;</p>\r\n",
+        "ruling_headline": "Kasich: Medicaid spending rose twice as fast under Jeb Bush",
+        "ruling_link_text": "Yes, but it's more complicated",
+        "statement_context": "the Republican debate in Charleston, S.C.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Carly Fiorina says her campaign has more cash on hand than John Kasich and Chris Christie combined",
+        "ruling_date": "2016-02-15T18:04:26",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-kasich",
+            "last_name": "Kasich",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2016/feb/08/carly-fiorina/carly-fiorina-says-her-campaign-has-more-cash-hand/",
+        "statement_date": "2016-02-06",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/christie.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "chris-christie",
+                "last_name": "Christie",
+                "first_name": "Chris"
+            },
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "john-kasich",
+                "last_name": "Kasich",
+                "first_name": "John"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "campaign-finance",
                 "subject": "Campaign Finance"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Not even the drillers back Trump's claim",
-        "statement_context": "comments during the CNBC debate.",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2015/nov/02/donald-trump/donald-trumps-fracked-claim-shales-economic-impact/",
-        "ruling_date": "2015-11-02T15:00:00",
-        "target": [
-            {
-                "first_name": "John",
-                "name_slug": "john-kasich",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-                "last_name": "Kasich",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Donald",
-            "name_slug": "donald-trump",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
-            "last_name": "Trump",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2015-10-28",
-        "statement": "<p>Says Ohio Gov. John Kasich &quot;got lucky with a thing called fracking,&quot; which &quot;is why Ohio is doing well.&quot;</p>\r\n",
+        "statement": "<p>Says she &quot;is 6th in hard dollars raised and has more cash on hand than Governors (John) Kasich and (Chris) Christie combined.&quot;</p>\r\n",
+        "ruling_headline": "Carly Fiorina says her campaign has more cash on hand than John Kasich and Chris Christie combined",
+        "ruling_link_text": "She's right, though still back in the pack",
+        "statement_context": "a column posted on Medium.com",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Donald Trump's fracked-up claim on shale's economic impact in Ohio",
+        "ruling_date": "2016-02-08T17:53:15",
+        "ruling": {
+            "ruling_slug": "true",
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Fiorina_1.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "carly-fiorina",
+            "last_name": "Fiorina",
+            "first_name": "Carly"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/nov/02/donald-trump/donald-trumps-fracked-claim-shales-economic-impact/",
+        "statement_date": "2015-10-28",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+                "party": {
+                    "party": "Republican",
+                    "party_slug": "republican"
+                },
+                "name_slug": "john-kasich",
+                "last_name": "Kasich",
+                "first_name": "John"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "energy",
@@ -336,35 +313,35 @@
                 "subject_slug": "state-finances",
                 "subject": "State Finances"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "That was the projected, 10-year figure that didn't come to pass",
-        "statement_context": "an interview on CBS' \"Face the Nation\"",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2015/sep/29/john-kasich/john-kasich-says-when-he-left-us-house-we-had-5-tr/",
-        "ruling_date": "2015-09-29T15:56:27",
-        "target": [],
-        "speaker": {
-            "first_name": "John",
-            "name_slug": "john-kasich",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-            "last_name": "Kasich",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2015-09-27",
-        "statement": "<p>&quot;When I left Washington, we had a $5 trillion surplus.&quot;</p>\r\n",
+        ],
+        "statement": "<p>Says Ohio Gov. John Kasich &quot;got lucky with a thing called fracking,&quot; which &quot;is why Ohio is doing well.&quot;</p>\r\n",
+        "ruling_headline": "Donald Trump's fracked-up claim on shale's economic impact in Ohio",
+        "ruling_link_text": "Not even the drillers back Trump's claim",
+        "statement_context": "comments during the CNBC debate.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "John Kasich says when he left the U.S. House, 'we had a $5 trillion surplus'",
+        "ruling_date": "2015-11-02T15:00:00",
+        "ruling": {
+            "ruling_slug": "false",
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/trump_1.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "donald-trump",
+            "last_name": "Trump",
+            "first_name": "Donald"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/sep/29/john-kasich/john-kasich-says-when-he-left-us-house-we-had-5-tr/",
+        "statement_date": "2015-09-27",
+        "target": [],
         "subject": [
             {
                 "subject_slug": "deficit",
@@ -374,69 +351,69 @@
                 "subject_slug": "federal-budget",
                 "subject": "Federal Budget"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "A little more to the story",
-        "statement_context": "an interview with \"This Week\" host George Stephanopoulos",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2015/aug/09/john-kasich/checking-out-john-kasichs-claim-he-was-one-chief-a/",
-        "ruling_date": "2015-08-09T19:36:52",
-        "target": [],
-        "speaker": {
-            "first_name": "John",
-            "name_slug": "john-kasich",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-            "last_name": "Kasich",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2015-08-09",
-        "statement": "<p>Says he&nbsp;was &quot;one of the chief architects&quot; of balancing the federal&nbsp;budget.</p>\r\n",
+        ],
+        "statement": "<p>&quot;When I left Washington, we had a $5 trillion surplus.&quot;</p>\r\n",
+        "ruling_headline": "John Kasich says when he left the U.S. House, 'we had a $5 trillion surplus'",
+        "ruling_link_text": "That was the projected, 10-year figure that didn't come to pass",
+        "statement_context": "an interview on CBS' \"Face the Nation\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Checking out John Kasich's claim that he was 'one of the chief architects' of balanced budget",
+        "ruling_date": "2015-09-29T15:56:27",
+        "ruling": {
+            "ruling_slug": "barely-true",
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-kasich",
+            "last_name": "Kasich",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/aug/09/john-kasich/checking-out-john-kasichs-claim-he-was-one-chief-a/",
+        "statement_date": "2015-08-09",
+        "target": [],
         "subject": [
             {
                 "subject_slug": "federal-budget",
                 "subject": "Federal Budget"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "With a big assist from the national recovery",
-        "statement_context": "comments at a GOP debate in Cleveland",
+        ],
+        "statement": "<p>Says he&nbsp;was &quot;one of the chief architects&quot; of balancing the federal&nbsp;budget.</p>\r\n",
+        "ruling_headline": "Checking out John Kasich's claim that he was 'one of the chief architects' of balanced budget",
+        "ruling_link_text": "A little more to the story",
+        "statement_context": "an interview with \"This Week\" host George Stephanopoulos",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-08-09T19:36:52",
         "ruling": {
             "ruling_slug": "mostly-true",
             "ruling": "Mostly True",
             "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
         },
-        "statement_url": "/truth-o-meter/statements/2015/aug/06/john-kasich/kasich-i-took-state-ohio-8-billion-hole-2-billion-/",
-        "ruling_date": "2015-08-06T23:32:04",
-        "target": [],
         "speaker": {
-            "first_name": "John",
-            "name_slug": "john-kasich",
             "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-            "last_name": "Kasich",
             "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-kasich",
+            "last_name": "Kasich",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/aug/06/john-kasich/kasich-i-took-state-ohio-8-billion-hole-2-billion-/",
         "statement_date": "2015-08-06",
-        "statement": "<p>&quot;I took the state of Ohio from an $8 billion hole &hellip; to a $2 billion surplus.&quot;</p>\r\n",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_headline": "John Kasich: 'I took the state of Ohio from an $8 billion hole … to a $2 billion surplus'",
+        "target": [],
         "subject": [
             {
                 "subject_slug": "economy",
@@ -446,35 +423,35 @@
                 "subject_slug": "state-budget",
                 "subject": "State Budget"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "A minister wrote this 50 years after Lincoln died",
-        "statement_context": "comments on \"Fox News Sunday\"",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2015/jan/25/john-kasich/did-abraham-lincoln-say-you-cannot-build-little-gu/",
-        "ruling_date": "2015-01-25T16:01:58",
-        "target": [],
-        "speaker": {
-            "first_name": "John",
-            "name_slug": "john-kasich",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
-            "last_name": "Kasich",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2015-01-25",
-        "statement": "<p>&quot;You cannot build a little guy up by tearing a big guy down -- Abraham Lincoln said it.&quot;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        ],
+        "statement": "<p>&quot;I took the state of Ohio from an $8 billion hole &hellip; to a $2 billion surplus.&quot;</p>\r\n",
+        "ruling_headline": "John Kasich: 'I took the state of Ohio from an $8 billion hole … to a $2 billion surplus'",
+        "ruling_link_text": "With a big assist from the national recovery",
+        "statement_context": "comments at a GOP debate in Cleveland",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Ohio Gov. John Kasich puts words in Abraham Lincoln's mouth about tax policy",
+        "ruling_date": "2015-08-06T23:32:04",
+        "ruling": {
+            "ruling_slug": "mostly-true",
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-kasich",
+            "last_name": "Kasich",
+            "first_name": "John"
+        }
+    },
+    {
+        "statement_url": "/truth-o-meter/statements/2015/jan/25/john-kasich/did-abraham-lincoln-say-you-cannot-build-little-gu/",
+        "statement_date": "2015-01-25",
+        "target": [],
         "subject": [
             {
                 "subject_slug": "candidates-biography",
@@ -484,6 +461,29 @@
                 "subject_slug": "taxes",
                 "subject": "Taxes"
             }
-        ]
+        ],
+        "statement": "<p>&quot;You cannot build a little guy up by tearing a big guy down -- Abraham Lincoln said it.&quot;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+        "ruling_headline": "Ohio Gov. John Kasich puts words in Abraham Lincoln's mouth about tax policy",
+        "ruling_link_text": "A minister wrote this 50 years after Lincoln died",
+        "statement_context": "comments on \"Fox News Sunday\"",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_date": "2015-01-25T16:01:58",
+        "ruling": {
+            "ruling_slug": "pants-fire",
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
+        },
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/John_Kasich_2.jpg",
+            "party": {
+                "party": "Republican",
+                "party_slug": "republican"
+            },
+            "name_slug": "john-kasich",
+            "last_name": "Kasich",
+            "first_name": "John"
+        }
     }
 ]
