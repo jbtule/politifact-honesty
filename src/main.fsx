@@ -32,7 +32,8 @@ let main argv =
     .parse(nodeArgs)
     |> ignore
 
-  let people = [  //people used in the Robert Mann Graph
+  // people used in the Robert Mann Graph
+  let people = [ 
                   "donald-trump"
                   "michele-bachmann"
                   "ted-cruz"
@@ -52,7 +53,6 @@ let main argv =
                   "jeb-bush"
                   "hillary-clinton"
                   "barack-obama"
-
                 ]
 
   if program.download then

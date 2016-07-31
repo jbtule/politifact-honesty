@@ -20,14 +20,13 @@ let run (people:string list) =
     let url = sprintf "http://www.politifact.com/api/statements/truth-o-meter/people/%s/json/?n=%i" personSlug numberOfComments
     let fileName = sprintf "people/%s.json" personSlug
     downloadFile url fileName
-
-  let afterMkDirHandler _ =
-    downloadFile  "http://www.politifact.com/api/people/all/json/" "people.json"
-                            |> ignore
-    let statuses = people 
-                    |> Seq.map downloadPerson
-                    |> Seq.toList
-    ()
-
-  fs.mkdir("data/people", Func<_,_>(afterMkDirHandler))
+  try
+    fs.mkdirSync("data/people", null)
+  with _ -> ()
+  
+  downloadFile  "http://www.politifact.com/api/people/all/json/" "people.json"
+                          |> ignore
+  let statuses = people
+                  |> Seq.map downloadPerson
+                  |> Seq.toList
   0
