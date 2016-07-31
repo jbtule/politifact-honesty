@@ -7,7 +7,7 @@
             "request": "launch",
             "program": "${workspaceRoot}/bin/main.js",
             "stopOnEntry": false,
-            "args": ["--download"],
+            "args": ["--count"],
             "cwd": "${workspaceRoot}",
             "preLaunchTask": "build",
             "runtimeExecutable": null,

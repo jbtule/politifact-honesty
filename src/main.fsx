@@ -25,12 +25,14 @@ let main argv =
   let program = Fable.Import.commander.Globals.``default``
 
   program
-      .version("1.0.0")
-      .option("-d, --download", "Download data from Politifact")
-      .parse(nodeArgs)
-      |> ignore
+    .version("1.0.0")
+    .option("-d, --download", "Download data from Politifact")
+    .option("-c, --count", "Count Statments of data Downloaded")
+    .option("-g, --graph", "Generate Graphs")
+    .parse(nodeArgs)
+    |> ignore
 
-  let people = [ //people used in the Robert Mann Graph
+  let people = [  //people used in the Robert Mann Graph
                   "donald-trump"
                   "michele-bachmann"
                   "ted-cruz"

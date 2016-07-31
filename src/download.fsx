@@ -16,7 +16,7 @@ let run (people:string list) =
                             ))
 
   let downloadPerson personSlug =
-    let numberOfComments = 75 //bug in poltifact api includes subjects as well of speakers, going up to get 50
+    let numberOfComments = 150 //bug in poltifact api includes subjects as well of speakers, going up to get 50
     let url = sprintf "http://www.politifact.com/api/statements/truth-o-meter/people/%s/json/?n=%i" personSlug numberOfComments
     let fileName = sprintf "people/%s.json" personSlug
     downloadFile url fileName
