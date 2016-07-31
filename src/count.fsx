@@ -20,11 +20,20 @@ let run (peopleSlugs:string list) =
   let parsed =
      peopleSlugs
       |> List.map parseIt
-
-  try
-    fs.mkdirSync("data/people-50", 777.0)
-  with _ -> ()
   
+  let slugs = [
+      "pants-fire"
+      "false"
+      "barely-true"
+      "half-true"
+      "mostly-true"
+      "true"
+  ]
+
+  fs.writeFileSync("data/people/50.csv","0.0",null)
+  fs.appendFileSync("data/people/50.csv",String.Join(",","name"::slugs),null)
+  fs.appendFileSync("data/people/50.csv", "\n" ,null)
+
   for slug,statements,count in parsed do
     if count >= 50 then
       let latest50 =
@@ -32,9 +41,21 @@ let run (peopleSlugs:string list) =
           |> Array.sortBy (fun x-> x.statement_date)
           |> Array.rev
           |> Array.take 50
-    
-      let fileName = sprintf "data/people-50/%s.json" slug
-      fs.writeFileSync(fileName, Serialize.toJson latest50, null )
+          |> Array.countBy (fun x -> x.ruling.ruling_slug)
+        
+      let counts = 
+        slugs
+          |> List.map (fun x-> 
+                            let found = 
+                              latest50 
+                                |> Array.tryFind (fun (k,_) -> k = x )
+                            match found with
+                              | Some(k,c) -> c.ToString()
+                              | None -> "0"
+                      )
+
+      fs.appendFileSync("data/people/50.csv", String.Join(",",slug::counts) ,null)
+      fs.appendFileSync("data/people/50.csv", "\n" ,null)
       printfn "%s:%i" slug count
 
   0

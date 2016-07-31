@@ -30,14 +30,14 @@ type Ruling = {
 type Statement = {
   statement_url: string
   statement_date: DateTime
-  // target: Person[]
-  // subject:Subject
-  // statement:string
-  // ruling_headline: string
-  // ruling_link_text: string
-  // statement_context: string
-  // statement_type: StatementType
-  // ruling_date: DateTime
-  // ruling: Ruling
+  target: Person[]
+  subject:Subject
+  statement:string
+  ruling_headline: string
+  ruling_link_text: string
+  statement_context: string
+  statement_type: StatementType
+  ruling_date: DateTime
+  ruling: Ruling
   speaker: Person 
 }
