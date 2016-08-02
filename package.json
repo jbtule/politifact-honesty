@@ -1,14 +1,17 @@
 {
-  "name":"poltifact-honesty",
-  "version":"1.0.0",
+  "name": "poltifact-honesty",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "fable-core": "^0.2.2"
   },
   "devDependencies": {
     "commander": "^2.9.0",
+    "d3": "^4.2.0",
     "fable-compiler": "^0.4.6",
     "fable-core": "^0.2.3",
+    "fable-import-d3": "0.0.2",
+    "jsdom": "^9.4.1",
     "typings": "^1.3.2"
   },
   "scripts": {
