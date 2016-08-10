@@ -30,32 +30,39 @@ let run (peopleSlugs:string list) =
       "true"
   ]
 
-  fs.writeFileSync("data/people/50.csv","0.0",null)
-  fs.appendFileSync("data/people/50.csv",String.Join(",","name"::slugs),null)
-  fs.appendFileSync("data/people/50.csv", "\n" ,null)
+  let writeData limit =
+    printfn "Generating csv for %i" limit
+    let file = sprintf "data/people/%i.csv" limit
+    fs.writeFileSync(file,"0.0",null)
+    fs.appendFileSync(file,String.Join(",","name"::slugs),null)
+    fs.appendFileSync(file, "\n" ,null)
 
-  for slug,statements,count in parsed do
-    if count >= 50 then
-      let latest50 =
-        statements
-          |> Array.sortBy (fun x-> x.statement_date)
-          |> Array.rev
-          |> Array.take 50
-          |> Array.countBy (fun x -> x.ruling.ruling_slug)
-        
-      let counts = 
-        slugs
-          |> List.map (fun x-> 
-                            let found = 
-                              latest50 
-                                |> Array.tryFind (fun (k,_) -> k = x )
-                            match found with
-                              | Some(k,c) -> c.ToString()
-                              | None -> "0"
-                      )
+    for slug,statements,count in parsed do
+      if count >= limit then
+        let latestByLimit =
+          statements
+            |> Array.sortBy (fun x-> x.statement_date)
+            |> Array.rev
+            |> Array.take limit
+            |> Array.countBy (fun x -> x.ruling.ruling_slug)
+          
+        let counts = 
+          slugs
+            |> List.map (fun x-> 
+                              let found = 
+                                latestByLimit 
+                                  |> Array.tryFind (fun (k,_) -> k = x )
+                              match found with
+                                | Some(k,c) -> c.ToString()
+                                | None -> "0"
+                        )
 
-      fs.appendFileSync("data/people/50.csv", String.Join(",",slug::counts) ,null)
-      fs.appendFileSync("data/people/50.csv", "\n" ,null)
-      printfn "%s:%i" slug count
+        fs.appendFileSync(file, String.Join(",",slug::counts) ,null)
+        fs.appendFileSync(file, "\n" ,null)
+        printfn "%s:%i" slug count
 
+  writeData 50
+  writeData 100
+  writeData 150
+  writeData 200
   0

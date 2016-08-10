@@ -45,6 +45,7 @@ module jsdom =
         abstract FetchExternalResources: U2<ResizeArray<string>, bool> option with get, set
         abstract ProcessExternalResources: U2<ResizeArray<string>, bool> option with get, set
         abstract SkipExternalResources: U2<string, bool> option with get, set
+        abstract QuerySelector: U2<string, bool> option with get, set
 
     and [<AllowNullLiteral>] EnvDocument =
         abstract referrer: string option with get, set
