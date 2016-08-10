@@ -1,53 +1,61 @@
 [
     {
-        "statement_url": "/truth-o-meter/statements/2015/aug/02/rick-perry/donald-trump-still-single-payer-health-care/",
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
         "statement_date": "2015-08-02",
-        "target": [],
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling": "Half-True",
+            "ruling_slug": "half-true"
+        },
+        "ruling_date": "2015-08-02T17:03:17",
+        "ruling_headline": "Is Donald Trump still 'for single-payer' health care?",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_link_text": "Trump has murky views on health care",
         "subject": [
             {
                 "subject_slug": "health-care",
                 "subject": "Health Care"
             }
         ],
-        "statement": "<p>Says Donald Trump is for a single-payer health care system.</p>\r\n",
-        "ruling_headline": "Is Donald Trump still 'for single-payer' health care?",
-        "ruling_link_text": "Trump has murky views on health care",
+        "statement_url": "/truth-o-meter/statements/2015/aug/02/rick-perry/donald-trump-still-single-payer-health-care/",
         "statement_context": "an interview on \"Fox News Sunday\"",
+        "target": [],
+        "statement": "<p>Says Donald Trump is for a single-payer health care system.</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/GYI_659046701_585968470.jpg",
+            "name_slug": "hillary-clinton",
+            "first_name": "Hillary",
+            "last_name": "Clinton",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            }
+        },
+        "statement_date": "2015-06-04",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true"
+        },
+        "ruling_date": "2015-06-09T12:15:28",
+        "ruling_headline": "A federal court said Rick Perry okayed a law intended to discriminate, says Hillary Clinton",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2015-08-02T17:03:17",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2015/jun/09/hillary-clinton/hillary-clinton-rick-perry-signed-law-intended-dis/",
-        "statement_date": "2015-06-04",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "rick-perry",
-                "last_name": "Perry",
-                "first_name": "Rick"
-            }
-        ],
+        "ruling_link_text": "Judge: law \"constitutes a poll tax\" ",
         "subject": [
             {
                 "subject_slug": "civil-rights",
@@ -66,68 +74,79 @@
                 "subject": "Legal Issues"
             }
         ],
-        "statement": "<p>&quot;Former Gov. Rick Perry signed a law that a federal court said was actually written with the purpose of discriminating against minority voters.&quot;</p>\r\n",
-        "ruling_headline": "A federal court said Rick Perry okayed a law intended to discriminate, says Hillary Clinton",
-        "ruling_link_text": "Judge: law \"constitutes a poll tax\" ",
+        "statement_url": "/truth-o-meter/statements/2015/jun/09/hillary-clinton/hillary-clinton-rick-perry-signed-law-intended-dis/",
         "statement_context": "a speech",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+                "name_slug": "rick-perry",
+                "first_name": "Rick",
+                "last_name": "Perry",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>&quot;Former Gov. Rick Perry signed a law that a federal court said was actually written with the purpose of discriminating against minority voters.&quot;</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2015-02-11",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling": "False",
+            "ruling_slug": "false"
+        },
+        "ruling_date": "2015-02-12T17:31:35",
+        "ruling_headline": "Obama calls terrorist attacks random, Rick Perry says he denies anti-Semitic motivation",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2015-06-09T12:15:28",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
-            "party": {
-                "party": "Democrat",
-                "party_slug": "democrat"
-            },
-            "name_slug": "hillary-clinton",
-            "last_name": "Clinton",
-            "first_name": "Hillary"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2015/feb/12/rick-perry/obama-calls-kosher-deli-attack-random-rick-perry-s/",
-        "statement_date": "2015-02-11",
-        "target": [],
+        "ruling_link_text": "Obama's prior comments tell another story",
         "subject": [
             {
                 "subject_slug": "terrorism",
                 "subject": "Terrorism"
             }
         ],
-        "statement": "<p>&quot;Obama has chosen to deny the vicious anti-Semitic motivation of the attack on a kosher Jewish grocery in Paris.&quot;</p>\r\n",
-        "ruling_headline": "Obama calls terrorist attacks random, Rick Perry says he denies anti-Semitic motivation",
-        "ruling_link_text": "Obama's prior comments tell another story",
+        "statement_url": "/truth-o-meter/statements/2015/feb/12/rick-perry/obama-calls-kosher-deli-attack-random-rick-perry-s/",
         "statement_context": "a statement",
+        "target": [],
+        "statement": "<p>&quot;Obama has chosen to deny the vicious anti-Semitic motivation of the attack on a kosher Jewish grocery in Paris.&quot;</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2014-08-03",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire"
+        },
+        "ruling_date": "2014-08-03T16:05:38",
+        "ruling_headline": "Rick Perry: 'Historic record highs' of people from terrorists states being apprehended at border",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2015-02-12T17:31:35",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2014/aug/03/rick-perry/rick-perry-historic-record-highs-people-terrorists/",
-        "statement_date": "2014-08-03",
-        "target": [],
+        "ruling_link_text": "Nowhere near a record",
         "subject": [
             {
                 "subject_slug": "afghanistan",
@@ -142,34 +161,34 @@
                 "subject": "Terrorism"
             }
         ],
-        "statement": "<div style=\"color: rgb(0, 0, 0); font-family: arial, sans-serif; line-height: normal; \">The United States is at &quot;historic record highs&quot; of individuals being apprehended on the border from countries with terrorist ties such as &quot;Pakistan or Afghanistan or Syria.&quot;</div>\r\n",
-        "ruling_headline": "Rick Perry: 'Historic record highs' of people from terrorists states being apprehended at border",
-        "ruling_link_text": "Nowhere near a record",
+        "statement_url": "/truth-o-meter/statements/2014/aug/03/rick-perry/rick-perry-historic-record-highs-people-terrorists/",
         "statement_context": "comments on CNN's \"State of the Union\"",
+        "target": [],
+        "statement": "<div style=\"color: rgb(0, 0, 0); font-family: arial, sans-serif; line-height: normal; \">The United States is at &quot;historic record highs&quot; of individuals being apprehended on the border from countries with terrorist ties such as &quot;Pakistan or Afghanistan or Syria.&quot;</div>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2013-09-18",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling": "False",
+            "ruling_slug": "false"
+        },
+        "ruling_date": "2013-09-20T15:51:04",
+        "ruling_headline": "Rick Perry says every engine maker is in Texas",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2014-08-03T16:05:38",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2013/sep/20/rick-perry/rick-perry-every-engine-maker-texas/",
-        "statement_date": "2013-09-18",
-        "target": [],
+        "ruling_link_text": "Texas-sized claim has little proof",
         "subject": [
             {
                 "subject_slug": "jobs",
@@ -180,45 +199,34 @@
                 "subject": "States"
             }
         ],
-        "statement": "<p>&quot;Every engine manufacturer in the United States is now in the state of Texas.&quot;</p>\r\n",
-        "ruling_headline": "Rick Perry says every engine maker is in Texas",
-        "ruling_link_text": "Texas-sized claim has little proof",
+        "statement_url": "/truth-o-meter/statements/2013/sep/20/rick-perry/rick-perry-every-engine-maker-texas/",
         "statement_context": "a discussion on CNN's \"Crossfire\"",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_date": "2013-09-20T15:51:04",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
+        "target": [],
+        "statement": "<p>&quot;Every engine manufacturer in the United States is now in the state of Texas.&quot;</p>\r\n"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/11/barack-obama/barack-obama-campaign-says-romney-perry-gingrich-w/",
-        "statement_date": "2012-01-11",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "rick-perry",
-                "last_name": "Perry",
-                "first_name": "Rick"
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+            "name_slug": "barack-obama",
+            "first_name": "Barack",
+            "last_name": "Obama",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
             }
-        ],
+        },
+        "statement_date": "2012-01-11",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire"
+        },
+        "ruling_date": "2012-01-11T19:00:38",
+        "ruling_headline": "Barack Obama campaign says Romney, Perry, Gingrich would cut aid to Israel to zero",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "ruling_link_text": "None of them said they wanted zero aid for Israel",
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -237,34 +245,45 @@
                 "subject": "Message Machine 2012"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Mitt Romney, Rick Perry, and Newt Gingrich all say they would cut foreign aid to Israel &mdash; and every other country &mdash; to zero.&quot;</p>\r\n",
-        "ruling_headline": "Barack Obama campaign says Romney, Perry, Gingrich would cut aid to Israel to zero",
-        "ruling_link_text": "None of them said they wanted zero aid for Israel",
+        "statement_url": "/truth-o-meter/statements/2012/jan/11/barack-obama/barack-obama-campaign-says-romney-perry-gingrich-w/",
         "statement_context": "a page on the Obama campaign website",
-        "statement_type": {
-            "statement_type": "Attack"
-        },
-        "ruling_date": "2012-01-11T19:00:38",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-            "party": {
-                "party": "Democrat",
-                "party_slug": "democrat"
-            },
-            "name_slug": "barack-obama",
-            "last_name": "Obama",
-            "first_name": "Barack"
-        }
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+                "name_slug": "rick-perry",
+                "first_name": "Rick",
+                "last_name": "Perry",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Mitt Romney, Rick Perry, and Newt Gingrich all say they would cut foreign aid to Israel &mdash; and every other country &mdash; to zero.&quot;</p>\r\n"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/08/rick-perry/rick-perry-says-barack-obama-socialist/",
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
         "statement_date": "2012-01-08",
-        "target": [],
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire"
+        },
+        "ruling_date": "2012-01-08T16:55:18",
+        "ruling_headline": "Rick Perry says Barack Obama is a socialist",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_link_text": "Ridiculous distortion",
         "subject": [
             {
                 "subject_slug": "government-regulation",
@@ -279,45 +298,34 @@
                 "subject": "Patriotism"
             }
         ],
-        "statement": "<p>\r\n\tSays President Barack Obama &quot;is a socialist.&quot;</p>\r\n",
-        "ruling_headline": "Rick Perry says Barack Obama is a socialist",
-        "ruling_link_text": "Ridiculous distortion",
+        "statement_url": "/truth-o-meter/statements/2012/jan/08/rick-perry/rick-perry-says-barack-obama-socialist/",
         "statement_context": "a Republican debate in New Hampshire.",
+        "target": [],
+        "statement": "<p>\r\n\tSays President Barack Obama &quot;is a socialist.&quot;</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2012-01-02",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling": "Half-True",
+            "ruling_slug": "half-true"
+        },
+        "ruling_date": "2012-01-03T18:59:18",
+        "ruling_headline": "Rick Perry says Rick Santorum voted for a teapot museum",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-08T16:55:18",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2012/jan/03/rick-perry/says-rick-santorum-voted-teapot-museum/",
-        "statement_date": "2012-01-02",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "rick-santorum",
-                "last_name": "Santorum",
-                "first_name": "Rick"
-            }
-        ],
+        "ruling_link_text": "Yes, but not specifically",
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -332,45 +340,45 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Santorum also voted for a teapot museum in North Carolina.&quot;</p>\r\n",
-        "ruling_headline": "Rick Perry says Rick Santorum voted for a teapot museum",
-        "ruling_link_text": "Yes, but not specifically",
+        "statement_url": "/truth-o-meter/statements/2012/jan/03/rick-perry/says-rick-santorum-voted-teapot-museum/",
         "statement_context": "a Web ad",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+                "name_slug": "rick-santorum",
+                "first_name": "Rick",
+                "last_name": "Santorum",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Santorum also voted for a teapot museum in North Carolina.&quot;</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-12-10",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true"
+        },
+        "ruling_date": "2011-12-11T13:10:37",
+        "ruling_headline": "Rick Perry says Mitt Romney's book deleted line that Mass. health care law \"should be the model for the country\" ",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-03T18:59:18",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/dec/11/rick-perry/rick-perry-says-mitt-romneys-book-deleted-line-mas/",
-        "statement_date": "2011-12-10",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
-            }
-        ],
+        "ruling_link_text": "Book consistent that states should choose",
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -381,34 +389,45 @@
                 "subject": "States"
             }
         ],
-        "statement": "<p>\r\n\tSays the paperback edition of Mitt Romney&#39;s book deleted line that Massachusetts&#39; individual mandate &quot;should be the model for the country&quot;</p>\r\n",
-        "ruling_headline": "Rick Perry says Mitt Romney's book deleted line that Mass. health care law \"should be the model for the country\" ",
-        "ruling_link_text": "Book consistent that states should choose",
+        "statement_url": "/truth-o-meter/statements/2011/dec/11/rick-perry/rick-perry-says-mitt-romneys-book-deleted-line-mas/",
         "statement_context": "a Republican presidential debate in Iowa",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "name_slug": "mitt-romney",
+                "first_name": "Mitt",
+                "last_name": "Romney",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>\r\n\tSays the paperback edition of Mitt Romney&#39;s book deleted line that Massachusetts&#39; individual mandate &quot;should be the model for the country&quot;</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-10-28",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling": "False",
+            "ruling_slug": "false"
+        },
+        "ruling_date": "2011-11-15T14:48:21",
+        "ruling_headline": "Rick Perry says federal bureaucrats will take over local building codes",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-12-11T13:10:37",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/nov/15/rick-perry/rick-perry-says-federal-bureaucrats-will-take-over/",
-        "statement_date": "2011-10-28",
-        "target": [],
+        "ruling_link_text": "No federal takeover",
         "subject": [
             {
                 "subject_slug": "energy",
@@ -423,68 +442,68 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tUnder energy efficiency legislation sponsored by U.S. Sen. Jeanne Shaheen, &quot;federal bureaucrats could take over the local building code enforcement in your city if so-called &lsquo;green mandates&rsquo; are not complied with quickly enough.&quot;</p>\r\n",
-        "ruling_headline": "Rick Perry says federal bureaucrats will take over local building codes",
-        "ruling_link_text": "No federal takeover",
+        "statement_url": "/truth-o-meter/statements/2011/nov/15/rick-perry/rick-perry-says-federal-bureaucrats-will-take-over/",
         "statement_context": "remarks at the Cornerstone Action Dinner in Manchester, N.H.",
+        "target": [],
+        "statement": "<p>\r\n\tUnder energy efficiency legislation sponsored by U.S. Sen. Jeanne Shaheen, &quot;federal bureaucrats could take over the local building code enforcement in your city if so-called &lsquo;green mandates&rsquo; are not complied with quickly enough.&quot;</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-10-28",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true"
+        },
+        "ruling_date": "2011-11-07T16:36:30",
+        "ruling_headline": "Rick Perry says taxpayers spend half a trillion dollars a year on tax preparation",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-11-15T14:48:21",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/nov/07/rick-perry/rick-perry-says-taxpayers-spend-half-trillion-doll/",
-        "statement_date": "2011-10-28",
-        "target": [],
+        "ruling_link_text": "A high estimate of what costs will be in the future",
         "subject": [
             {
                 "subject_slug": "taxes",
                 "subject": "Taxes"
             }
         ],
-        "statement": "<div style=\"background-color: transparent\">\r\n\t&quot;We spend half a trillion dollars a year in tax preparation.&quot;</div>\r\n",
-        "ruling_headline": "Rick Perry says taxpayers spend half a trillion dollars a year on tax preparation",
-        "ruling_link_text": "A high estimate of what costs will be in the future",
+        "statement_url": "/truth-o-meter/statements/2011/nov/07/rick-perry/rick-perry-says-taxpayers-spend-half-trillion-doll/",
         "statement_context": "a speech in Manchester, N.H.",
+        "target": [],
+        "statement": "<div style=\"background-color: transparent\">\r\n\t&quot;We spend half a trillion dollars a year in tax preparation.&quot;</div>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-10-01",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true"
+        },
+        "ruling_date": "2011-10-21T18:00:00",
+        "ruling_headline": "Rick Perry says they cut property taxes by one-third in Texas",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-11-07T16:36:30",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/oct/21/rick-perry/rick-perry-says-they-cut-property-taxes-one-third-/",
-        "statement_date": "2011-10-01",
-        "target": [],
+        "ruling_link_text": "Not when you look at all property taxes",
         "subject": [
             {
                 "subject_slug": "new-hampshire-2012",
@@ -495,90 +514,79 @@
                 "subject": "Taxes"
             }
         ],
-        "statement": "<p>\r\n\t&quot;We cut property taxes by one-third in the state of Texas while I&rsquo;ve been governor.&quot;</p>",
-        "ruling_headline": "Rick Perry says they cut property taxes by one-third in Texas",
-        "ruling_link_text": "Not when you look at all property taxes",
+        "statement_url": "/truth-o-meter/statements/2011/oct/21/rick-perry/rick-perry-says-they-cut-property-taxes-one-third-/",
         "statement_context": "a forum in Hampton, N.H.",
+        "target": [],
+        "statement": "<p>\r\n\t&quot;We cut property taxes by one-third in the state of Texas while I&rsquo;ve been governor.&quot;</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "name_slug": "mitt-romney",
+            "first_name": "Mitt",
+            "last_name": "Romney",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-10-18",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling": "Half-True",
+            "ruling_slug": "half-true"
+        },
+        "ruling_date": "2011-10-18T23:15:30",
+        "ruling_headline": "Mitt Romney says illegal immigrant population rose 60 percent, while California, Florida were steady",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-10-21T18:00:00",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/oct/18/mitt-romney/mitt-romney-says-illegal-immigrant-population-rose/",
-        "statement_date": "2011-10-18",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "rick-perry",
-                "last_name": "Perry",
-                "first_name": "Rick"
-            }
-        ],
+        "ruling_link_text": "Numbers right, though Perry's not entirely to blame",
         "subject": [
             {
                 "subject_slug": "immigration",
                 "subject": "Immigration"
             }
         ],
-        "statement": "<div>\r\n\tBetween 2000 and 2010, the illegal immigrant population of Texas increased by 60 percent, while California and Florida had &quot;no increase.&quot;</div>",
-        "ruling_headline": "Mitt Romney says illegal immigrant population rose 60 percent, while California, Florida were steady",
-        "ruling_link_text": "Numbers right, though Perry's not entirely to blame",
+        "statement_url": "/truth-o-meter/statements/2011/oct/18/mitt-romney/mitt-romney-says-illegal-immigrant-population-rose/",
         "statement_context": "a Republican presidential debate in Las Vegas",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+                "name_slug": "rick-perry",
+                "first_name": "Rick",
+                "last_name": "Perry",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<div>\r\n\tBetween 2000 and 2010, the illegal immigrant population of Texas increased by 60 percent, while California and Florida had &quot;no increase.&quot;</div>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-10-10",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true"
+        },
+        "ruling_date": "2011-10-14T09:10:51",
+        "ruling_headline": "Rick Perry ad says 'Romneycare' cost 18,000 jobs",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-10-18T23:15:30",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "mitt-romney",
-            "last_name": "Romney",
-            "first_name": "Mitt"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/oct/14/rick-perry/rick-perry-ad-says-romneycare-cost-18000-jobs/",
-        "statement_date": "2011-10-10",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
-            }
-        ],
+        "ruling_link_text": "Nobody got fired",
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -593,45 +601,45 @@
                 "subject": "Message Machine 2012"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Romneycare has &hellip; killed 18,000 Massachusetts jobs.&quot;</p>",
-        "ruling_headline": "Rick Perry ad says 'Romneycare' cost 18,000 jobs",
-        "ruling_link_text": "Nobody got fired",
+        "statement_url": "/truth-o-meter/statements/2011/oct/14/rick-perry/rick-perry-ad-says-romneycare-cost-18000-jobs/",
         "statement_context": "a campaign ad",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "name_slug": "mitt-romney",
+                "first_name": "Mitt",
+                "last_name": "Romney",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Romneycare has &hellip; killed 18,000 Massachusetts jobs.&quot;</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "name_slug": "mitt-romney",
+            "first_name": "Mitt",
+            "last_name": "Romney",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-10-11",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling": "Half-True",
+            "ruling_slug": "half-true"
+        },
+        "ruling_date": "2011-10-13T18:55:37",
+        "ruling_headline": "Mitt Romney says uninsured increased under Rick Perry",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-10-14T09:10:51",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/oct/13/mitt-romney/mitt-romney-says-uninsured-increased-under-rick-pe/",
-        "statement_date": "2011-10-11",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "rick-perry",
-                "last_name": "Perry",
-                "first_name": "Rick"
-            }
-        ],
+        "ruling_link_text": "Data is mixed",
         "subject": [
             {
                 "subject_slug": "children",
@@ -646,34 +654,45 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tWhen George W. Bush was governor of Texas, &quot;the percentage uninsured went down.&quot; Under his successor, Rick Perry, &quot;it&#39;s gone up.&quot;</p>",
-        "ruling_headline": "Mitt Romney says uninsured increased under Rick Perry",
-        "ruling_link_text": "Data is mixed",
+        "statement_url": "/truth-o-meter/statements/2011/oct/13/mitt-romney/mitt-romney-says-uninsured-increased-under-rick-pe/",
         "statement_context": "a Republicam debate in Hanover, N.H.",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+                "name_slug": "rick-perry",
+                "first_name": "Rick",
+                "last_name": "Perry",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>\r\n\tWhen George W. Bush was governor of Texas, &quot;the percentage uninsured went down.&quot; Under his successor, Rick Perry, &quot;it&#39;s gone up.&quot;</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-10-11",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling": "True",
+            "ruling_slug": "true"
+        },
+        "ruling_date": "2011-10-11T23:58:52",
+        "ruling_headline": "Perry switched to GOP at younger age than Reagan",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-10-13T18:55:37",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "mitt-romney",
-            "last_name": "Romney",
-            "first_name": "Mitt"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/oct/11/rick-perry/perry-switched-gop-younger-age-reagan/",
-        "statement_date": "2011-10-11",
-        "target": [],
+        "ruling_link_text": "Perry was younger 'R' than Reagan",
         "subject": [
             {
                 "subject_slug": "candidates-biography",
@@ -684,45 +703,34 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tSays he &quot;came to the Republican Party sooner in age&quot; than Ronald Reagan.</p>",
-        "ruling_headline": "Perry switched to GOP at younger age than Reagan",
-        "ruling_link_text": "Perry was younger 'R' than Reagan",
+        "statement_url": "/truth-o-meter/statements/2011/oct/11/rick-perry/perry-switched-gop-younger-age-reagan/",
         "statement_context": "Republican presidential primary debate",
+        "target": [],
+        "statement": "<p>\r\n\tSays he &quot;came to the Republican Party sooner in age&quot; than Ronald Reagan.</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+            "name_slug": "barack-obama",
+            "first_name": "Barack",
+            "last_name": "Obama",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            }
+        },
+        "statement_date": "2011-09-26",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling": "Half-True",
+            "ruling_slug": "half-true"
+        },
+        "ruling_date": "2011-09-28T18:06:53",
+        "ruling_headline": "Barack Obama slams Rick Perry on climate change, citing Texas wildfires",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-10-11T23:58:52",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/28/barack-obama/barack-obama-slams-rick-perry-climate-change-citin/",
-        "statement_date": "2011-09-26",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "rick-perry",
-                "last_name": "Perry",
-                "first_name": "Rick"
-            }
-        ],
+        "ruling_link_text": "Growing scientific sentiment that there's a link",
         "subject": [
             {
                 "subject_slug": "climate-change",
@@ -733,158 +741,169 @@
                 "subject": "Environment"
             }
         ],
-        "statement": "<p>Says Texas wildfires are linked to climate change.</p>\r\n",
-        "ruling_headline": "Barack Obama slams Rick Perry on climate change, citing Texas wildfires",
-        "ruling_link_text": "Growing scientific sentiment that there's a link",
+        "statement_url": "/truth-o-meter/statements/2011/sep/28/barack-obama/barack-obama-slams-rick-perry-climate-change-citin/",
         "statement_context": "a fundraising event in San Jose, Calif.",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+                "name_slug": "rick-perry",
+                "first_name": "Rick",
+                "last_name": "Perry",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>Says Texas wildfires are linked to climate change.</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-09-22",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true"
+        },
+        "ruling_date": "2011-09-23T17:13:04",
+        "ruling_headline": "Rick Perry says Mitt Romney shifted stance when he deleted health care line from his book",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-09-28T18:06:53",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-            "party": {
-                "party": "Democrat",
-                "party_slug": "democrat"
-            },
-            "name_slug": "barack-obama",
-            "last_name": "Obama",
-            "first_name": "Barack"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/23/rick-perry/rick-perry-says-mitt-romney-deleted-health-care-li/",
-        "statement_date": "2011-09-22",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
-            }
-        ],
+        "ruling_link_text": "Book changed, message not so much",
         "subject": [
             {
                 "subject_slug": "health-care",
                 "subject": "Health Care"
             }
         ],
-        "statement": "<p>\r\n\tSays that Romney touted the Massachusetts health plan for the nation in his hardcover book but then deleted it for the paperback edition.</p>",
-        "ruling_headline": "Rick Perry says Mitt Romney shifted stance when he deleted health care line from his book",
-        "ruling_link_text": "Book changed, message not so much",
+        "statement_url": "/truth-o-meter/statements/2011/sep/23/rick-perry/rick-perry-says-mitt-romney-deleted-health-care-li/",
         "statement_context": "a Republican presidential debate in Orlando",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_date": "2011-09-23T17:13:04",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/23/rick-perry/rick-perry-says-he-never-backed-moving-social-secu/",
-        "statement_date": "2011-09-22",
         "target": [
             {
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
                 "name_slug": "mitt-romney",
+                "first_name": "Mitt",
                 "last_name": "Romney",
-                "first_name": "Mitt"
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
             }
         ],
+        "statement": "<p>\r\n\tSays that Romney touted the Massachusetts health plan for the nation in his hardcover book but then deleted it for the paperback edition.</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-09-22",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true"
+        },
+        "ruling_date": "2011-09-23T17:04:47",
+        "ruling_headline": "Rick Perry says he never backed moving Social Security back to the states",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_link_text": "He went right up to the line twice on national TV",
         "subject": [
             {
                 "subject_slug": "social-security",
                 "subject": "Social Security"
             }
         ],
-        "statement": "<div style=\"background-color: transparent\">\r\n\t<div style=\"background-color: transparent\">\r\n\t\tSays he never said he wanted to move Social Security &quot;back to the states.&quot;</div>\r\n</div>",
-        "ruling_headline": "Rick Perry says he never backed moving Social Security back to the states",
-        "ruling_link_text": "He went right up to the line twice on national TV",
+        "statement_url": "/truth-o-meter/statements/2011/sep/23/rick-perry/rick-perry-says-he-never-backed-moving-social-secu/",
         "statement_context": "a Republican presidential debate in Orlando",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "name_slug": "mitt-romney",
+                "first_name": "Mitt",
+                "last_name": "Romney",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<div style=\"background-color: transparent\">\r\n\t<div style=\"background-color: transparent\">\r\n\t\tSays he never said he wanted to move Social Security &quot;back to the states.&quot;</div>\r\n</div>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-09-22",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire"
+        },
+        "ruling_date": "2011-09-23T00:33:19",
+        "ruling_headline": "Gov. Rick Perry says the federal government \"has not engaged\" in border security",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-09-23T17:04:47",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/23/rick-perry/gov-rick-perry-says-federal-government-has-not-eng/",
-        "statement_date": "2011-09-22",
-        "target": [],
+        "ruling_link_text": "More U.S. agents than ever patrol the border",
         "subject": [
             {
                 "subject_slug": "immigration",
                 "subject": "Immigration"
             }
         ],
-        "statement": "<p>&quot;The federal government has not engaged in (border security) at all.&quot;</p>\r\n",
-        "ruling_headline": "Gov. Rick Perry says the federal government \"has not engaged\" in border security",
-        "ruling_link_text": "More U.S. agents than ever patrol the border",
+        "statement_url": "/truth-o-meter/statements/2011/sep/23/rick-perry/gov-rick-perry-says-federal-government-has-not-eng/",
         "statement_context": " in the Fox News Google debate in Orlando",
+        "target": [],
+        "statement": "<p>&quot;The federal government has not engaged in (border security) at all.&quot;</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-09-12",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire"
+        },
+        "ruling_date": "2011-09-12T23:15:04",
+        "ruling_headline": "Rick Perry says the 2009 stimulus 'created zero jobs'",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-09-23T00:33:19",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/12/rick-perry/rick-perry-says-2009-stimulus-created-zero-jobs/",
-        "statement_date": "2011-09-12",
-        "target": [],
+        "ruling_link_text": "A ridiculous claim no matter who says it",
         "subject": [
             {
                 "subject_slug": "economy",
@@ -899,45 +918,34 @@
                 "subject": "Stimulus"
             }
         ],
-        "statement": "<p>\r\n\t&quot;The first round of stimulus ... it created zero jobs.&quot;</p>",
-        "ruling_headline": "Rick Perry says the 2009 stimulus 'created zero jobs'",
-        "ruling_link_text": "A ridiculous claim no matter who says it",
+        "statement_url": "/truth-o-meter/statements/2011/sep/12/rick-perry/rick-perry-says-2009-stimulus-created-zero-jobs/",
         "statement_context": "the CNN/Tea Party Express debate",
+        "target": [],
+        "statement": "<p>\r\n\t&quot;The first round of stimulus ... it created zero jobs.&quot;</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "name_slug": "mitt-romney",
+            "first_name": "Mitt",
+            "last_name": "Romney",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-09-12",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true"
+        },
+        "ruling_date": "2011-09-12T21:49:02",
+        "ruling_headline": "Mitt Romney says Rick Perry believes Social Security is unconstitutional",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-09-12T23:15:04",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/12/mitt-romney/mitt-romney-says-rick-perry-believes-social-2/",
-        "statement_date": "2011-09-12",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "rick-perry",
-                "last_name": "Perry",
-                "first_name": "Rick"
-            }
-        ],
+        "ruling_link_text": "His 2010 book isn't explicit, but strongly suggests it",
         "subject": [
             {
                 "subject_slug": "legal-issues",
@@ -948,169 +956,169 @@
                 "subject": "Social Security"
             }
         ],
-        "statement": "<p>\r\n\tSays that in his book, Rick Perry said that &quot;Social Security is unconstitutional.&quot;</p>",
-        "ruling_headline": "Mitt Romney says Rick Perry believes Social Security is unconstitutional",
-        "ruling_link_text": "His 2010 book isn't explicit, but strongly suggests it",
+        "statement_url": "/truth-o-meter/statements/2011/sep/12/mitt-romney/mitt-romney-says-rick-perry-believes-social-2/",
         "statement_context": "a Republican presidential debate",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_date": "2011-09-12T21:49:02",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "mitt-romney",
-            "last_name": "Romney",
-            "first_name": "Mitt"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/12/rick-perry/rick-perry-says-social-security-ponzi-scheme/",
-        "statement_date": "2011-09-12",
-        "target": [],
-        "subject": [
-            {
-                "subject_slug": "social-security",
-                "subject": "Social Security"
-            }
-        ],
-        "statement": "<p>\r\n\tSocial Security is a &quot;Ponzi scheme.&quot;</p>",
-        "ruling_headline": "Rick Perry says Social Security is a Ponzi scheme",
-        "ruling_link_text": "Perry's tone has softened, but his comparison is still wrong",
-        "statement_context": "a Republican presidential debate",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_date": "2011-09-12T21:37:23",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/12/mitt-romney/mitt-romney-says-rick-perry-believes-social-securi/",
-        "statement_date": "2011-09-12",
         "target": [
             {
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
                 "name_slug": "rick-perry",
+                "first_name": "Rick",
                 "last_name": "Perry",
-                "first_name": "Rick"
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
             }
         ],
+        "statement": "<p>\r\n\tSays that in his book, Rick Perry said that &quot;Social Security is unconstitutional.&quot;</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-09-12",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling": "False",
+            "ruling_slug": "false"
+        },
+        "ruling_date": "2011-09-12T21:37:23",
+        "ruling_headline": "Rick Perry says Social Security is a Ponzi scheme",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_link_text": "Perry's tone has softened, but his comparison is still wrong",
         "subject": [
             {
                 "subject_slug": "social-security",
                 "subject": "Social Security"
             }
         ],
-        "statement": "<p>\r\n\t&quot;In writing his book, Gov. Perry pointed out that &hellip; by any measure Social Security has been a failure.&quot;</p>",
+        "statement_url": "/truth-o-meter/statements/2011/sep/12/rick-perry/rick-perry-says-social-security-ponzi-scheme/",
+        "statement_context": "a Republican presidential debate",
+        "target": [],
+        "statement": "<p>\r\n\tSocial Security is a &quot;Ponzi scheme.&quot;</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+            "name_slug": "mitt-romney",
+            "first_name": "Mitt",
+            "last_name": "Romney",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-09-12",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling": "True",
+            "ruling_slug": "true"
+        },
+        "ruling_date": "2011-09-12T20:54:54",
         "ruling_headline": "Mitt Romney says Rick Perry wrote that Social Security is a 'failure'",
-        "ruling_link_text": "Tough talk straight from Perry's book",
-        "statement_context": "the CNN-Tea Party Express debate in Tampa",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-09-12T20:54:54",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "mitt-romney",
-            "last_name": "Romney",
-            "first_name": "Mitt"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/08/rick-perry/dukakis-created-jobs-three-times-faster-mitt-romne/",
-        "statement_date": "2011-09-07",
-        "target": [
+        "ruling_link_text": "Tough talk straight from Perry's book",
+        "subject": [
             {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
+                "subject_slug": "social-security",
+                "subject": "Social Security"
             }
         ],
+        "statement_url": "/truth-o-meter/statements/2011/sep/12/mitt-romney/mitt-romney-says-rick-perry-believes-social-securi/",
+        "statement_context": "the CNN-Tea Party Express debate in Tampa",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+                "name_slug": "rick-perry",
+                "first_name": "Rick",
+                "last_name": "Perry",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;In writing his book, Gov. Perry pointed out that &hellip; by any measure Social Security has been a failure.&quot;</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-09-07",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling": "Half-True",
+            "ruling_slug": "half-true"
+        },
+        "ruling_date": "2011-09-08T17:53:27",
+        "ruling_headline": "Dukakis created jobs three times faster than Mitt Romney, says Rick Perry",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "ruling_link_text": "Little evidence that guvs' policies were the cause",
         "subject": [
             {
                 "subject_slug": "jobs",
                 "subject": "Jobs"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Michael Dukakis created jobs three times faster&quot; than Mitt Romney.</p>",
-        "ruling_headline": "Dukakis created jobs three times faster than Mitt Romney, says Rick Perry",
-        "ruling_link_text": "Little evidence that guvs' policies were the cause",
+        "statement_url": "/truth-o-meter/statements/2011/sep/08/rick-perry/dukakis-created-jobs-three-times-faster-mitt-romne/",
         "statement_context": "a debate at the Reagan Library",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "name_slug": "mitt-romney",
+                "first_name": "Mitt",
+                "last_name": "Romney",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>\r\n\t&quot;Michael Dukakis created jobs three times faster&quot; than Mitt Romney.</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Donkey_1.jpg",
+            "name_slug": "new-hampshire-democratic-party",
+            "first_name": "",
+            "last_name": "New Hampshire Democratic Party",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            }
+        },
+        "statement_date": "2011-08-17",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling": "Half-True",
+            "ruling_slug": "half-true"
+        },
+        "ruling_date": "2011-09-08T17:15:36",
+        "ruling_headline": "Democrats say Texas graduation rate fell to 50th under Rick Perry",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-09-08T17:53:27",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/08/new-hampshire-democratic-party/democrats-say-texas-graduation-rate-fell-50th-unde/",
-        "statement_date": "2011-08-17",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "rick-perry",
-                "last_name": "Perry",
-                "first_name": "Rick"
-            }
-        ],
+        "ruling_link_text": "Stats are right, but larger forces at work than just Perry",
         "subject": [
             {
                 "subject_slug": "education",
@@ -1121,34 +1129,45 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tSince Rick Perry became governor, &quot;Texas has gone from 46th in the country to 50th in the population that graduates from high school.&quot;</p>",
-        "ruling_headline": "Democrats say Texas graduation rate fell to 50th under Rick Perry",
-        "ruling_link_text": "Stats are right, but larger forces at work than just Perry",
+        "statement_url": "/truth-o-meter/statements/2011/sep/08/new-hampshire-democratic-party/democrats-say-texas-graduation-rate-fell-50th-unde/",
         "statement_context": "an interview with the 'Telegraph.'",
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+                "name_slug": "rick-perry",
+                "first_name": "Rick",
+                "last_name": "Perry",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>\r\n\tSince Rick Perry became governor, &quot;Texas has gone from 46th in the country to 50th in the population that graduates from high school.&quot;</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-08-13",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling": "Mostly True",
+            "ruling_slug": "mostly-true"
+        },
+        "ruling_date": "2011-09-02T13:58:06",
+        "ruling_headline": "Rick Perry says Obama boasted that crimes in border towns are now lowest in history",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-09-08T17:15:36",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Donkey_1.jpg",
-            "party": {
-                "party": "Democrat",
-                "party_slug": "democrat"
-            },
-            "name_slug": "new-hampshire-democratic-party",
-            "last_name": "New Hampshire Democratic Party",
-            "first_name": ""
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/02/rick-perry/rick-perry-says-obama-boasted-crimes-border-towns-/",
-        "statement_date": "2011-08-13",
-        "target": [],
+        "ruling_link_text": "That was the tone, but never said safer than ever",
         "subject": [
             {
                 "subject_slug": "immigration",
@@ -1159,34 +1178,34 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>Says that when President Obama visited El Paso, he &quot;pronounced that the border with Mexico and the United States was safer than it ever was in history.&quot;</p>\r\n",
-        "ruling_headline": "Rick Perry says Obama boasted that crimes in border towns are now lowest in history",
-        "ruling_link_text": "That was the tone, but never said safer than ever",
+        "statement_url": "/truth-o-meter/statements/2011/sep/02/rick-perry/rick-perry-says-obama-boasted-crimes-border-towns-/",
         "statement_context": "a house party in New Hampshire",
+        "target": [],
+        "statement": "<p>Says that when President Obama visited El Paso, he &quot;pronounced that the border with Mexico and the United States was safer than it ever was in history.&quot;</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-08-13",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling": "Pants on Fire!",
+            "ruling_slug": "pants-fire"
+        },
+        "ruling_date": "2011-09-01T13:41:40",
+        "ruling_headline": "Rick Perry says Obama delivered $2 billion to Brazil to help offshore drilling",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-09-02T13:58:06",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/sep/01/rick-perry/rick-perry-says-obama-delivered-2-billion-brazil-h/",
-        "statement_date": "2011-08-13",
-        "target": [],
+        "ruling_link_text": "Not $2 billion and not from Obama",
         "subject": [
             {
                 "subject_slug": "energy",
@@ -1201,34 +1220,34 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tSays President Barack Obama delivered $2 billion to Brazil to help with offshore drilling projects.</p>",
-        "ruling_headline": "Rick Perry says Obama delivered $2 billion to Brazil to help offshore drilling",
-        "ruling_link_text": "Not $2 billion and not from Obama",
+        "statement_url": "/truth-o-meter/statements/2011/sep/01/rick-perry/rick-perry-says-obama-delivered-2-billion-brazil-h/",
         "statement_context": "a speech at a house party in New Hampshire.",
+        "target": [],
+        "statement": "<p>\r\n\tSays President Barack Obama delivered $2 billion to Brazil to help with offshore drilling projects.</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-08-17",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling": "False",
+            "ruling_slug": "false"
+        },
+        "ruling_date": "2011-08-25T16:35:04",
+        "ruling_headline": "Rick Perry says Texas added 21,000 doctors because of tort reform  ",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-09-01T13:41:40",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/aug/25/rick-perry/rick-perry-says-texas-added-21000-doctors-because-/",
-        "statement_date": "2011-08-17",
-        "target": [],
+        "ruling_link_text": "Doctors go where the people are",
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -1243,34 +1262,34 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tSays Texas gained 21,000 doctors due to tort reform.</p>",
-        "ruling_headline": "Rick Perry says Texas added 21,000 doctors because of tort reform  ",
-        "ruling_link_text": "Doctors go where the people are",
+        "statement_url": "/truth-o-meter/statements/2011/aug/25/rick-perry/rick-perry-says-texas-added-21000-doctors-because-/",
         "statement_context": "a speech at \"Politics and Eggs\" in Bedford, N.H.",
+        "target": [],
+        "statement": "<p>\r\n\tSays Texas gained 21,000 doctors due to tort reform.</p>"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "name_slug": "rick-perry",
+            "first_name": "Rick",
+            "last_name": "Perry",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            }
+        },
+        "statement_date": "2011-08-17",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling": "False",
+            "ruling_slug": "false"
+        },
+        "ruling_date": "2011-08-22T14:03:45",
+        "ruling_headline": "Rick Perry says more and more scientists are questioning global warming",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-08-25T16:35:04",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/aug/22/rick-perry/rick-perry-says-more-and-more-scientists-are-quest/",
-        "statement_date": "2011-08-17",
-        "target": [],
+        "ruling_link_text": "Actually, consensus is solid",
         "subject": [
             {
                 "subject_slug": "climate-change",
@@ -1285,45 +1304,34 @@
                 "subject": "Environment"
             }
         ],
-        "statement": "<p>Scientists are &quot;questioning the original idea that man-made global warming is what is causing the climate to change. &hellip; (It is) more and more being put into question.&quot;</p>\r\n",
-        "ruling_headline": "Rick Perry says more and more scientists are questioning global warming",
-        "ruling_link_text": "Actually, consensus is solid",
+        "statement_url": "/truth-o-meter/statements/2011/aug/22/rick-perry/rick-perry-says-more-and-more-scientists-are-quest/",
         "statement_context": "a campaign stop in New Hampshire",
+        "target": [],
+        "statement": "<p>Scientists are &quot;questioning the original idea that man-made global warming is what is causing the climate to change. &hellip; (It is) more and more being put into question.&quot;</p>\r\n"
+    },
+    {
+        "speaker": {
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Martin_Frost.jpg",
+            "name_slug": "martin-frost",
+            "first_name": "Martin",
+            "last_name": "Frost",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            }
+        },
+        "statement_date": "2011-08-12",
+        "ruling": {
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling": "Mostly False",
+            "ruling_slug": "barely-true"
+        },
+        "ruling_date": "2011-08-19T11:38:23",
+        "ruling_headline": "Did Gov. Rick Perry change position on same sex marriage?",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-08-22T14:03:45",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
-    },
-    {
-        "statement_url": "/truth-o-meter/statements/2011/aug/19/martin-frost/did-gov-rick-perry-change-position-same-sex-marria/",
-        "statement_date": "2011-08-12",
-        "target": [
-            {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-                "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
-                },
-                "name_slug": "rick-perry",
-                "last_name": "Perry",
-                "first_name": "Rick"
-            }
-        ],
+        "ruling_link_text": "A change in emphasis",
         "subject": [
             {
                 "subject_slug": "civil-rights",
@@ -1338,28 +1346,20 @@
                 "subject": "States"
             }
         ],
-        "statement": "<p>\r\n\tSays Rick Perry flip-flopped on gay marriage by first saying it was a state&rsquo;s rights issue and then saying he was in favor of a federal constitutional amendment banning gay marriage.</p>",
-        "ruling_headline": "Did Gov. Rick Perry change position on same sex marriage?",
-        "ruling_link_text": "A change in emphasis",
+        "statement_url": "/truth-o-meter/statements/2011/aug/19/martin-frost/did-gov-rick-perry-change-position-same-sex-marria/",
         "statement_context": "a column in \"POLITICO\"",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_date": "2011-08-19T11:38:23",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Martin_Frost.jpg",
-            "party": {
-                "party": "Democrat",
-                "party_slug": "democrat"
-            },
-            "name_slug": "martin-frost",
-            "last_name": "Frost",
-            "first_name": "Martin"
-        }
+        "target": [
+            {
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+                "name_slug": "rick-perry",
+                "first_name": "Rick",
+                "last_name": "Perry",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                }
+            }
+        ],
+        "statement": "<p>\r\n\tSays Rick Perry flip-flopped on gay marriage by first saying it was a state&rsquo;s rights issue and then saying he was in favor of a federal constitutional amendment banning gay marriage.</p>"
     }
 ]

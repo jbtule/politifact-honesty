@@ -1,31 +1,57 @@
 [
     {
-        "ruling_link_text": "Remnants of the Cold War",
-        "statement_context": "a news conference",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2016/mar/24/paul-ryan/paul-ryan-says-cuba-safe-harbor-fugitives-and-terr/",
-        "ruling_date": "2016-03-24T10:52:26",
-        "target": [],
+        "statement_date": "2016-08-03",
+        "ruling_date": "2016-08-04T17:59:02",
+        "ruling_link_text": "Enough blame to go around",
         "speaker": {
             "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
             "party": {
                 "party_slug": "republican",
                 "party": "Republican"
-            }
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
         },
-        "statement_date": "2016-03-17",
-        "statement": "<p>&quot;To this day, (the Cuban government) is a regime that provides safe harbor to terrorists and fugitives.&quot;</p>\r\n",
+        "target": [],
+        "subject": [
+            {
+                "subject_slug": "abortion",
+                "subject": "Abortion"
+            },
+            {
+                "subject_slug": "public-health",
+                "subject": "Public Health"
+            }
+        ],
+        "statement_url": "/truth-o-meter/statements/2016/aug/04/paul-ryan/ryan-blames-dems-zika-stalemate-omits-key-detail/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
+        "statement_context": "an op-ed",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says Cuba is a 'safe harbor' for fugitives and terrorists",
+        "statement": "<p>After initially agreeing with Republicans on an amount for Zika funding, &quot;Democrats derailed it.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan blames Dems for Zika stalemate, omits key detail"
+    },
+    {
+        "statement_date": "2016-03-17",
+        "ruling_date": "2016-03-24T10:52:26",
+        "ruling_link_text": "Remnants of the Cold War",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "foreign-policy",
@@ -35,35 +61,35 @@
                 "subject_slug": "terrorism",
                 "subject": "Terrorism"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Backed up by a respected academic paper",
-        "statement_context": "a column posted on Medium.com",
+        ],
+        "statement_url": "/truth-o-meter/statements/2016/mar/24/paul-ryan/paul-ryan-says-cuba-safe-harbor-fugitives-and-terr/",
         "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
         },
-        "statement_url": "/truth-o-meter/statements/2016/jan/19/paul-ryan/paul-ryan-says-if-you-were-raised-poor-youre-just-/",
-        "ruling_date": "2016-01-19T14:58:10",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2016-01-09",
-        "statement": "<p>&quot;Today, if you were raised poor, you&rsquo;re just as likely to stay poor as you were 50 years ago.&quot;</p>\r\n",
+        "statement_context": "a news conference",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says 'if you were raised poor, you’re just as likely to stay poor' as 50 years ago",
+        "statement": "<p>&quot;To this day, (the Cuban government) is a regime that provides safe harbor to terrorists and fugitives.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says Cuba is a 'safe harbor' for fugitives and terrorists"
+    },
+    {
+        "statement_date": "2016-01-09",
+        "ruling_date": "2016-01-19T14:58:10",
+        "ruling_link_text": "Backed up by a respected academic paper",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "families",
@@ -77,69 +103,69 @@
                 "subject_slug": "poverty",
                 "subject": "Poverty"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Double digits exist, but not the whole story",
-        "statement_context": "comments on 'Meet the Press'",
+        ],
+        "statement_url": "/truth-o-meter/statements/2016/jan/19/paul-ryan/paul-ryan-says-if-you-were-raised-poor-youre-just-/",
         "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling_slug": "true"
         },
-        "statement_url": "/truth-o-meter/statements/2015/dec/20/paul-ryan/paul-ryans-shaky-claim-obamacare-making-families-p/",
-        "ruling_date": "2015-12-20T10:47:44",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2015-12-20",
-        "statement": "<p>The Affordable Care Act is &quot;making families pay double-digit premium increases.&quot;</p>\r\n",
+        "statement_context": "a column posted on Medium.com",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan's shaky claim that Obamacare is 'making families pay double-digit premium increases'",
+        "statement": "<p>&quot;Today, if you were raised poor, you&rsquo;re just as likely to stay poor as you were 50 years ago.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says 'if you were raised poor, you’re just as likely to stay poor' as 50 years ago"
+    },
+    {
+        "statement_date": "2015-12-20",
+        "ruling_date": "2015-12-20T10:47:44",
+        "ruling_link_text": "Double digits exist, but not the whole story",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "health-care",
                 "subject": "Health Care"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "A lot has changed since 1934",
-        "statement_context": "on CNN's \"State of the Union\"",
+        ],
+        "statement_url": "/truth-o-meter/statements/2015/dec/20/paul-ryan/paul-ryans-shaky-claim-obamacare-making-families-p/",
         "ruling": {
-            "ruling_slug": "half-true",
             "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_url": "/truth-o-meter/statements/2015/may/17/paul-ryan/fast-track-trade-authority-has-every-president-fdr/",
-        "ruling_date": "2015-05-17T17:10:51",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2015-05-17",
-        "statement": "<p>&quot;Every president since Franklin Delano Roosevelt has had&quot; fast-track trade authority.</p>\r\n",
+        "statement_context": "comments on 'Meet the Press'",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Fast-track trade authority: Has every president since FDR had it?",
+        "statement": "<p>The Affordable Care Act is &quot;making families pay double-digit premium increases.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan's shaky claim that Obamacare is 'making families pay double-digit premium increases'"
+    },
+    {
+        "statement_date": "2015-05-17",
+        "ruling_date": "2015-05-17T17:10:51",
+        "ruling_link_text": "A lot has changed since 1934",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "congress",
@@ -161,35 +187,35 @@
                 "subject_slug": "trade",
                 "subject": "Trade"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Statistic typically peaks after recessions",
-        "statement_context": "a report issued by the House Budget Committee Republican staff",
+        ],
+        "statement_url": "/truth-o-meter/statements/2015/may/17/paul-ryan/fast-track-trade-authority-has-every-president-fdr/",
         "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_url": "/truth-o-meter/statements/2014/mar/04/paul-ryan/paul-ryan-releases-report-saying-percentage-americ/",
-        "ruling_date": "2014-03-04T09:00:38",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2014-03-03",
-        "statement": "<p>&quot;Over the past three years, &lsquo;deep poverty&rsquo; has reached its highest level on record.&quot;</p>\r\n",
+        "statement_context": "on CNN's \"State of the Union\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan releases report saying percentage of Americans in 'deep poverty' has hit a record over past three years",
+        "statement": "<p>&quot;Every president since Franklin Delano Roosevelt has had&quot; fast-track trade authority.</p>\r\n",
+        "ruling_headline": "Fast-track trade authority: Has every president since FDR had it?"
+    },
+    {
+        "statement_date": "2014-03-03",
+        "ruling_date": "2014-03-04T09:00:38",
+        "ruling_link_text": "Statistic typically peaks after recessions",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "history",
@@ -199,35 +225,35 @@
                 "subject_slug": "poverty",
                 "subject": "Poverty"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Initial claim wrong; clarification is true but not that meaningful",
-        "statement_context": "a press conference",
+        ],
+        "statement_url": "/truth-o-meter/statements/2014/mar/04/paul-ryan/paul-ryan-releases-report-saying-percentage-americ/",
         "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling_slug": "true"
         },
-        "statement_url": "/truth-o-meter/statements/2013/dec/19/paul-ryan/rep-paul-ryan-said-bipartisan-budget-deal-first-di/",
-        "ruling_date": "2013-12-19T12:45:35",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2013-12-10",
-        "statement": "<p>The Murray-Ryan deal &quot;is the first divided-government budget agreement since 1986.&quot;</p>\r\n",
+        "statement_context": "a report issued by the House Budget Committee Republican staff",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Rep. Paul Ryan said bipartisan budget deal is the first in divided government since 1986",
+        "statement": "<p>&quot;Over the past three years, &lsquo;deep poverty&rsquo; has reached its highest level on record.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan releases report saying percentage of Americans in 'deep poverty' has hit a record over past three years"
+    },
+    {
+        "statement_date": "2013-12-10",
+        "ruling_date": "2013-12-19T12:45:35",
+        "ruling_link_text": "Initial claim wrong; clarification is true but not that meaningful",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "congress",
@@ -237,35 +263,35 @@
                 "subject_slug": "federal-budget",
                 "subject": "Federal Budget"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Experts say he's right, though shutdowns are unpredictable",
-        "statement_context": "an interview on CBS' \"Face the Nation\"",
+        ],
+        "statement_url": "/truth-o-meter/statements/2013/dec/19/paul-ryan/rep-paul-ryan-said-bipartisan-budget-deal-first-di/",
         "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
         },
-        "statement_url": "/truth-o-meter/statements/2013/aug/08/paul-ryan/paul-ryan-says-government-shutdown-wouldnt-sidelin/",
-        "ruling_date": "2013-08-08T09:00:00",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2013-08-04",
-        "statement": "<p>&quot;Obamacare &hellip; carries on even under a government shutdown.&quot;</p>\r\n",
+        "statement_context": "a press conference",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says government shutdown wouldn't sideline Obamacare",
+        "statement": "<p>The Murray-Ryan deal &quot;is the first divided-government budget agreement since 1986.&quot;</p>\r\n",
+        "ruling_headline": "Rep. Paul Ryan said bipartisan budget deal is the first in divided government since 1986"
+    },
+    {
+        "statement_date": "2013-08-04",
+        "ruling_date": "2013-08-08T09:00:00",
+        "ruling_link_text": "Experts say he's right, though shutdowns are unpredictable",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -279,80 +305,80 @@
                 "subject_slug": "health-care",
                 "subject": "Health Care"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Which debt?",
-        "statement_context": "a speech at CPAC",
+        ],
+        "statement_url": "/truth-o-meter/statements/2013/aug/08/paul-ryan/paul-ryan-says-government-shutdown-wouldnt-sidelin/",
         "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
         },
-        "statement_url": "/truth-o-meter/statements/2013/mar/15/paul-ryan/paul-ryan-says-nations-debt-bigger-economy/",
-        "ruling_date": "2013-03-15T17:17:10",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2013-03-15",
-        "statement": "<p>\r\n\t&quot;Our debt is already bigger than our economy.&quot;</p>\r\n",
+        "statement_context": "an interview on CBS' \"Face the Nation\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says nation’s debt is bigger than the economy",
+        "statement": "<p>&quot;Obamacare &hellip; carries on even under a government shutdown.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says government shutdown wouldn't sideline Obamacare"
+    },
+    {
+        "statement_date": "2013-03-15",
+        "ruling_date": "2013-03-15T17:17:10",
+        "ruling_link_text": "Which debt?",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "federal-budget",
                 "subject": "Federal Budget"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "$300 million in cuts, but not necessarily in Ryan's budget",
-        "statement_context": "the vice presidential debate in Danville, Ky.",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/16/joe-biden/joe-biden-says-paul-ryan-cut-embassy-security-300-/",
-        "ruling_date": "2012-10-16T17:18:21",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Joe",
-            "name_slug": "joe-biden",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
-            "last_name": "Biden",
-            "party": {
-                "party_slug": "democrat",
-                "party": "Democrat"
-            }
+        "statement_url": "/truth-o-meter/statements/2013/mar/15/paul-ryan/paul-ryan-says-nations-debt-bigger-economy/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\tPaul Ryan &quot;cut embassy security in his budget by $300 million below what we asked for.&quot;</p>\r\n",
+        "statement_context": "a speech at CPAC",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Joe Biden says Paul Ryan cut embassy security by $300 million",
+        "statement": "<p>\r\n\t&quot;Our debt is already bigger than our economy.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says nation’s debt is bigger than the economy"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-16T17:18:21",
+        "ruling_link_text": "$300 million in cuts, but not necessarily in Ryan's budget",
+        "speaker": {
+            "first_name": "Joe",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "joe-biden",
+            "last_name": "Biden"
+        },
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -362,80 +388,80 @@
                 "subject_slug": "foreign-policy",
                 "subject": "Foreign Policy"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "A lot of friendly guesswork in this math.",
-        "statement_context": "the vice presidential debate",
+        ],
+        "statement_url": "/truth-o-meter/statements/2012/oct/16/joe-biden/joe-biden-says-paul-ryan-cut-embassy-security-300-/",
         "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_url": "/truth-o-meter/statements/2012/oct/15/paul-ryan/ryan-says-six-studies-say-math-works-romney-tax-pl/",
-        "ruling_date": "2012-10-15T18:09:49",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\tSays six studies verify that the math adds up for Mitt Romney&rsquo;s tax plan.</p>\r\n",
+        "statement_context": "the vice presidential debate in Danville, Ky.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Ryan says six studies say the math works in Romney tax plan",
+        "statement": "<p>\r\n\tPaul Ryan &quot;cut embassy security in his budget by $300 million below what we asked for.&quot;</p>\r\n",
+        "ruling_headline": "Joe Biden says Paul Ryan cut embassy security by $300 million"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-15T18:09:49",
+        "ruling_link_text": "A lot of friendly guesswork in this math.",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "taxes",
                 "subject": "Taxes"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Narrow truth masks reality of 'crippling' sanctions",
-        "statement_context": "the vice presidential debate",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/15/paul-ryan/paul-ryan-says-obama-administration-watered-down-s/",
-        "ruling_date": "2012-10-15T15:58:06",
-        "target": [
-            {
-                "first_name": "Barack",
-                "name_slug": "barack-obama",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-                "last_name": "Obama",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/oct/15/paul-ryan/ryan-says-six-studies-say-math-works-romney-tax-pl/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
         },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\tSays the Obama administration &quot;watered down sanctions&quot; against Iran, delayed them and tried to stop Congress &quot;from putting the tough sanctions in place.&quot;</p>\r\n",
+        "statement_context": "the vice presidential debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says the Obama administration ‘watered down sanctions’ against Iran",
+        "statement": "<p>\r\n\tSays six studies verify that the math adds up for Mitt Romney&rsquo;s tax plan.</p>\r\n",
+        "ruling_headline": "Ryan says six studies say the math works in Romney tax plan"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-15T15:58:06",
+        "ruling_link_text": "Narrow truth masks reality of 'crippling' sanctions",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [
+            {
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "foreign-policy",
@@ -453,46 +479,46 @@
                 "subject_slug": "trade",
                 "subject": "Trade"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Biden doesn't endorse forced abortions",
-        "statement_context": "the vice presidential debate",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/biden-sympathized-and-wouldnt-second-guess-forced-/",
-        "ruling_date": "2012-10-12T17:32:34",
-        "target": [
-            {
-                "first_name": "Joe",
-                "name_slug": "joe-biden",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
-                "last_name": "Biden",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/oct/15/paul-ryan/paul-ryan-says-obama-administration-watered-down-s/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
         },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\tSays Joe Biden &quot;went to China and said that he sympathized and wouldn&#39;t second-guess their one-child policy of forced abortions and sterilizations.&quot;</p>\r\n",
+        "statement_context": "the vice presidential debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says Biden sympathized and wouldn't second-guess forced abortions and sterilizations",
+        "statement": "<p>\r\n\tSays the Obama administration &quot;watered down sanctions&quot; against Iran, delayed them and tried to stop Congress &quot;from putting the tough sanctions in place.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says the Obama administration ‘watered down sanctions’ against Iran"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-12T17:32:34",
+        "ruling_link_text": "Biden doesn't endorse forced abortions",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [
+            {
+                "first_name": "Joe",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "joe-biden",
+                "last_name": "Biden"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "abortion",
@@ -502,46 +528,46 @@
                 "subject_slug": "china",
                 "subject": "China"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Wyden worked with Ryan but doesn't endorse latest plan",
-        "statement_context": "a debate in Danville, Ky.",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/12/joe-biden/joe-biden-says-no-democrats-support-paul-ryans-med/",
-        "ruling_date": "2012-10-12T17:29:58",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Joe",
-            "name_slug": "joe-biden",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
-            "last_name": "Biden",
-            "party": {
-                "party_slug": "democrat",
-                "party": "Democrat"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/biden-sympathized-and-wouldnt-second-guess-forced-/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
         },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\t&quot;There&#39;s not one Democrat who endorses&quot; the Romney-Ryan Medicare plan.</p>\r\n",
+        "statement_context": "the vice presidential debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Joe Biden says no Democrats support Paul Ryan’s Medicare proposal",
+        "statement": "<p>\r\n\tSays Joe Biden &quot;went to China and said that he sympathized and wouldn&#39;t second-guess their one-child policy of forced abortions and sterilizations.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says Biden sympathized and wouldn't second-guess forced abortions and sterilizations"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-12T17:29:58",
+        "ruling_link_text": "Wyden worked with Ryan but doesn't endorse latest plan",
+        "speaker": {
+            "first_name": "Joe",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "joe-biden",
+            "last_name": "Biden"
+        },
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "bipartisanship",
@@ -555,190 +581,190 @@
                 "subject_slug": "medicare",
                 "subject": "Medicare"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "He's right (but don't forget the provincial taxes)",
-        "statement_context": "the vice presidential debate in Danville, Ky.",
+        ],
+        "statement_url": "/truth-o-meter/statements/2012/oct/12/joe-biden/joe-biden-says-no-democrats-support-paul-ryans-med/",
         "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling_slug": "true"
         },
-        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/paul-ryan-says-canada-now-has-15-percent-corporate/",
-        "ruling_date": "2012-10-12T16:25:08",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\t&quot;The Canadians &mdash; they (dropped) their tax rates to 15 percent. The average tax rate on businesses in the industrialized world is 25 percent.&quot;</p>\r\n",
+        "statement_context": "a debate in Danville, Ky.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says Canada now has 15 percent corporate tax rate",
+        "statement": "<p>\r\n\t&quot;There&#39;s not one Democrat who endorses&quot; the Romney-Ryan Medicare plan.</p>\r\n",
+        "ruling_headline": "Joe Biden says no Democrats support Paul Ryan’s Medicare proposal"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-12T16:25:08",
+        "ruling_link_text": "He's right (but don't forget the provincial taxes)",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "taxes",
                 "subject": "Taxes"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Hillary Clinton was reporting views of others",
-        "statement_context": "the vice presidential debate in Danville, Ky.",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/paul-ryan-says-obama-administration-called-bashar-/",
-        "ruling_date": "2012-10-12T11:39:49",
-        "target": [
-            {
-                "first_name": "Joe",
-                "name_slug": "joe-biden",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
-                "last_name": "Biden",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            },
-            {
-                "first_name": "Hillary",
-                "name_slug": "hillary-clinton",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
-                "last_name": "Clinton",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/paul-ryan-says-canada-now-has-15-percent-corporate/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
         },
-        "statement_date": "2012-10-11",
-        "statement": "<p>The Obama administration &quot;called Bashar Assad a reformer when he was turning his Russian-provided guns on his own people.&quot;</p>\r\n",
+        "statement_context": "the vice presidential debate in Danville, Ky.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says Obama administration called Bashar Assad 'a reformer'",
+        "statement": "<p>\r\n\t&quot;The Canadians &mdash; they (dropped) their tax rates to 15 percent. The average tax rate on businesses in the industrialized world is 25 percent.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says Canada now has 15 percent corporate tax rate"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-12T11:39:49",
+        "ruling_link_text": "Hillary Clinton was reporting views of others",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [
+            {
+                "first_name": "Joe",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "joe-biden",
+                "last_name": "Biden"
+            },
+            {
+                "first_name": "Hillary",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/GYI_659046701_585968470.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "hillary-clinton",
+                "last_name": "Clinton"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "foreign-policy",
                 "subject": "Foreign Policy"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Hillary Clinton was reporting views of others",
-        "statement_context": "the vice presidential debate in Danville, Ky.",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/paul-ryan-says-obama-administration-called-bashar-/",
-        "ruling_date": "2012-10-12T11:39:49",
-        "target": [
-            {
-                "first_name": "Joe",
-                "name_slug": "joe-biden",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
-                "last_name": "Biden",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            },
-            {
-                "first_name": "Hillary",
-                "name_slug": "hillary-clinton",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/clinton_mug.jpg",
-                "last_name": "Clinton",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/paul-ryan-says-obama-administration-called-bashar-/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_date": "2012-10-11",
-        "statement": "<p>The Obama administration &quot;called Bashar Assad a reformer when he was turning his Russian-provided guns on his own people.&quot;</p>\r\n",
+        "statement_context": "the vice presidential debate in Danville, Ky.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says Obama administration called Bashar Assad 'a reformer'",
+        "statement": "<p>The Obama administration &quot;called Bashar Assad a reformer when he was turning his Russian-provided guns on his own people.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says Obama administration called Bashar Assad 'a reformer'"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-12T11:39:49",
+        "ruling_link_text": "Hillary Clinton was reporting views of others",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [
+            {
+                "first_name": "Joe",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "joe-biden",
+                "last_name": "Biden"
+            },
+            {
+                "first_name": "Hillary",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/GYI_659046701_585968470.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "hillary-clinton",
+                "last_name": "Clinton"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "foreign-policy",
                 "subject": "Foreign Policy"
             }
-        ]
+        ],
+        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/paul-ryan-says-obama-administration-called-bashar-/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
+        "statement_context": "the vice presidential debate in Danville, Ky.",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "statement": "<p>The Obama administration &quot;called Bashar Assad a reformer when he was turning his Russian-provided guns on his own people.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says Obama administration called Bashar Assad 'a reformer'"
     },
     {
-        "ruling_link_text": "They were in NYC same week but different days",
-        "statement_context": "in a debate",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/paul-ryan-said-obama-was-nyc-same-say-bibi-dissed-/",
+        "statement_date": "2012-10-11",
         "ruling_date": "2012-10-12T00:07:48",
+        "ruling_link_text": "They were in NYC same week but different days",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
         "target": [
             {
                 "first_name": "Barack",
-                "name_slug": "barack-obama",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-                "last_name": "Obama",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
                 "party": {
                     "party_slug": "democrat",
                     "party": "Democrat"
-                }
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama"
             }
         ],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\tSays Obama was in New York City the same day as Israeli Prime Minister Benjamin Netanyahu but went on a TV show instead of meeting with him.</p>\r\n",
-        "statement_type": {
-            "statement_type": "Attack"
-        },
-        "ruling_headline": "Paul Ryan said Obama was in NYC same day as Bibi but dissed him",
         "subject": [
             {
                 "subject_slug": "debates",
@@ -752,146 +778,146 @@
                 "subject_slug": "israel",
                 "subject": "Israel"
             }
-        ]
+        ],
+        "statement_url": "/truth-o-meter/statements/2012/oct/12/paul-ryan/paul-ryan-said-obama-was-nyc-same-say-bibi-dissed-/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
+        "statement_context": "in a debate",
+        "statement_type": {
+            "statement_type": "Attack"
+        },
+        "statement": "<p>\r\n\tSays Obama was in New York City the same day as Israeli Prime Minister Benjamin Netanyahu but went on a TV show instead of meeting with him.</p>\r\n",
+        "ruling_headline": "Paul Ryan said Obama was in NYC same day as Bibi but dissed him"
     },
     {
-        "ruling_link_text": "A windy claim",
-        "statement_context": "the vice-presidential debate",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/11/paul-ryan/ryan-says-stimulus-dollars-paid-electric-cars-finl/",
+        "statement_date": "2012-10-11",
         "ruling_date": "2012-10-11T23:56:20",
-        "target": [
-            {
-                "first_name": "Barack",
-                "name_slug": "barack-obama",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-                "last_name": "Obama",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            }
-        ],
+        "ruling_link_text": "A windy claim",
         "speaker": {
             "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
             "party": {
                 "party_slug": "republican",
                 "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [
+            {
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama"
             }
-        },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\tSays the Obama administration spent taxpayer dollars on electric cars in Finland (and) windmills in China.</p>\r\n",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_headline": "Ryan says stimulus dollars paid for electric cars in Finland and windmills from China",
+        ],
         "subject": [
             {
                 "subject_slug": "stimulus",
                 "subject": "Stimulus"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Economic prediction, not promise",
-        "statement_context": "a vice presidential debate",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/11/paul-ryan/ryan-obama-promised-unemployment-would-not-exceed-/",
-        "ruling_date": "2012-10-11T23:01:07",
-        "target": [
-            {
-                "first_name": "Barack",
-                "name_slug": "barack-obama",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-                "last_name": "Obama",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/oct/11/paul-ryan/ryan-says-stimulus-dollars-paid-electric-cars-finl/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
         },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\tSays Obama promised unemployment would never go above 8 percent.</p>\r\n",
+        "statement_context": "the vice-presidential debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Ryan: Obama promised unemployment would not exceed 8 percent",
+        "statement": "<p>\r\n\tSays the Obama administration spent taxpayer dollars on electric cars in Finland (and) windmills in China.</p>\r\n",
+        "ruling_headline": "Ryan says stimulus dollars paid for electric cars in Finland and windmills from China"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-11T23:01:07",
+        "ruling_link_text": "Economic prediction, not promise",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [
+            {
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "jobs",
                 "subject": "Jobs"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "A guarantee today in some ways, not others",
-        "statement_context": "the vice presidential debate in Danville, Ky.",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/11/joe-biden/says-mitt-romney-paul-ryan-would-eliminate-guarant/",
-        "ruling_date": "2012-10-11T22:40:54",
-        "target": [
-            {
-                "first_name": "Mitt",
-                "name_slug": "mitt-romney",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-                "last_name": "Romney",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            },
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Joe",
-            "name_slug": "joe-biden",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
-            "last_name": "Biden",
-            "party": {
-                "party_slug": "democrat",
-                "party": "Democrat"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/oct/11/paul-ryan/ryan-obama-promised-unemployment-would-not-exceed-/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
         },
-        "statement_date": "2012-10-11",
-        "statement": "<p>\r\n\tSays Mitt Romney and Paul Ryan would &quot;eliminate the guarantee of Medicare.&quot;</p>\r\n",
+        "statement_context": "a vice presidential debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Joe Biden says Mitt Romney, Paul Ryan would 'eliminate the guarantee of Medicare.'",
+        "statement": "<p>\r\n\tSays Obama promised unemployment would never go above 8 percent.</p>\r\n",
+        "ruling_headline": "Ryan: Obama promised unemployment would not exceed 8 percent"
+    },
+    {
+        "statement_date": "2012-10-11",
+        "ruling_date": "2012-10-11T22:40:54",
+        "ruling_link_text": "A guarantee today in some ways, not others",
+        "speaker": {
+            "first_name": "Joe",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-joebiden.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "joe-biden",
+            "last_name": "Biden"
+        },
+        "target": [
+            {
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney",
+                "last_name": "Romney"
+            },
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -901,46 +927,46 @@
                 "subject_slug": "medicare",
                 "subject": "Medicare"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Indirect effects at best",
-        "statement_context": "an interview on \"Fox News Sunday\"",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/oct/02/paul-ryan/paul-ryan-says-dozen-obamacare-taxes-hit-middle-cl/",
-        "ruling_date": "2012-10-02T19:06:27",
-        "target": [
-            {
-                "first_name": "Barack",
-                "name_slug": "barack-obama",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-                "last_name": "Obama",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/oct/11/joe-biden/says-mitt-romney-paul-ryan-would-eliminate-guarant/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_date": "2012-09-30",
-        "statement": "<p>\r\n\tSays President Barack Obama &quot;already passed all these Obamacare taxes. About a dozen of them hit middle-income taxpayers.&quot;</p>\r\n",
+        "statement_context": "the vice presidential debate in Danville, Ky.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says a dozen 'Obamacare' taxes hit middle-class Americans",
+        "statement": "<p>\r\n\tSays Mitt Romney and Paul Ryan would &quot;eliminate the guarantee of Medicare.&quot;</p>\r\n",
+        "ruling_headline": "Joe Biden says Mitt Romney, Paul Ryan would 'eliminate the guarantee of Medicare.'"
+    },
+    {
+        "statement_date": "2012-09-30",
+        "ruling_date": "2012-10-02T19:06:27",
+        "ruling_link_text": "Indirect effects at best",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [
+            {
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -950,35 +976,35 @@
                 "subject_slug": "taxes",
                 "subject": "Taxes"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "With a little hedging",
-        "statement_context": "an appearance on 'This Week.'",
+        ],
+        "statement_url": "/truth-o-meter/statements/2012/oct/02/paul-ryan/paul-ryan-says-dozen-obamacare-taxes-hit-middle-cl/",
         "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
         },
-        "statement_url": "/truth-o-meter/statements/2012/sep/11/paul-ryan/paul-ryan-says-romney-has-always-supported-2014-af/",
-        "ruling_date": "2012-09-11T18:09:18",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2012-09-09",
-        "statement": "<p>\r\n\tSays he and Mitt Romney &quot;always said that we agree with the 2014 deadline&quot; for leaving Afghanistan.</p>\r\n",
+        "statement_context": "an interview on \"Fox News Sunday\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says Romney has always supported 2014 Afghanistan withdrawal",
+        "statement": "<p>\r\n\tSays President Barack Obama &quot;already passed all these Obamacare taxes. About a dozen of them hit middle-income taxpayers.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says a dozen 'Obamacare' taxes hit middle-class Americans"
+    },
+    {
+        "statement_date": "2012-09-09",
+        "ruling_date": "2012-09-11T18:09:18",
+        "ruling_link_text": "With a little hedging",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "afghanistan",
@@ -988,56 +1014,56 @@
                 "subject_slug": "foreign-policy",
                 "subject": "Foreign Policy"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "She recycles claim about old plan",
-        "statement_context": "a speech at the Democratic National Convention in Charlotte, N.C.",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/sep/05/kathleen-sebelius/kathleen-sebelius-repeats-problematic-claim-romney/",
-        "ruling_date": "2012-09-05T19:51:33",
-        "target": [
-            {
-                "first_name": "Mitt",
-                "name_slug": "mitt-romney",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
-                "last_name": "Romney",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            },
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Kathleen",
-            "name_slug": "kathleen-sebelius",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Kathleen_Sebelius.jpg",
-            "last_name": "Sebelius",
-            "party": {
-                "party_slug": "democrat",
-                "party": "Democrat"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/sep/11/paul-ryan/paul-ryan-says-romney-has-always-supported-2014-af/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
         },
-        "statement_date": "2012-09-04",
-        "statement": "<p>\r\n\t&quot;Republicans would give seniors a (Medicare) voucher that limits what&#39;s covered, costing seniors as much as $6,400 more a year.&quot;</p>\r\n",
+        "statement_context": "an appearance on 'This Week.'",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Kathleen Sebelius repeats claim that Romney-Ryan Medicare 'voucher' plan would cost seniors $6,400",
+        "statement": "<p>\r\n\tSays he and Mitt Romney &quot;always said that we agree with the 2014 deadline&quot; for leaving Afghanistan.</p>\r\n",
+        "ruling_headline": "Paul Ryan says Romney has always supported 2014 Afghanistan withdrawal"
+    },
+    {
+        "statement_date": "2012-09-04",
+        "ruling_date": "2012-09-05T19:51:33",
+        "ruling_link_text": "She recycles claim about old plan",
+        "speaker": {
+            "first_name": "Kathleen",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Kathleen_Sebelius.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "kathleen-sebelius",
+            "last_name": "Sebelius"
+        },
+        "target": [
+            {
+                "first_name": "Mitt",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "mitt-romney",
+                "last_name": "Romney"
+            },
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "health-care",
@@ -1047,46 +1073,46 @@
                 "subject_slug": "medicare",
                 "subject": "Medicare"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Misleading on Medicare",
-        "statement_context": "a speech at the Republican National Convention",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/aug/29/paul-ryan/paul-ryan-said-president-obama-funneled-716-billio/",
-        "ruling_date": "2012-08-29T23:27:27",
-        "target": [
-            {
-                "first_name": "Barack",
-                "name_slug": "barack-obama",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-                "last_name": "Obama",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/sep/05/kathleen-sebelius/kathleen-sebelius-repeats-problematic-claim-romney/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_date": "2012-08-29",
-        "statement": "<p>\r\n\tPresident Obama &quot;funneled&quot; $716 billion out of Medicare &quot;at the expense of the elderly.&quot;</p>\r\n",
+        "statement_context": "a speech at the Democratic National Convention in Charlotte, N.C.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan said President Obama “funneled” $716 billion out of Medicare “at the expense of the elderly.”",
+        "statement": "<p>\r\n\t&quot;Republicans would give seniors a (Medicare) voucher that limits what&#39;s covered, costing seniors as much as $6,400 more a year.&quot;</p>\r\n",
+        "ruling_headline": "Kathleen Sebelius repeats claim that Romney-Ryan Medicare 'voucher' plan would cost seniors $6,400"
+    },
+    {
+        "statement_date": "2012-08-29",
+        "ruling_date": "2012-08-29T23:27:27",
+        "ruling_link_text": "Misleading on Medicare",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [
+            {
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -1096,46 +1122,46 @@
                 "subject_slug": "medicare",
                 "subject": "Medicare"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "UPDATE: Reconsidering the differences",
-        "statement_context": "a campaign commercial",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/aug/23/barack-obama/barack-obama-ad-says-paul-ryans-medicare-plan-coul/",
-        "ruling_date": "2012-08-23T18:28:58",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Barack",
-            "name_slug": "barack-obama",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-            "last_name": "Obama",
-            "party": {
-                "party_slug": "democrat",
-                "party": "Democrat"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/aug/29/paul-ryan/paul-ryan-said-president-obama-funneled-716-billio/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
         },
-        "statement_date": "2012-08-17",
-        "statement": "<p>\r\n\tPaul Ryan&rsquo;s Medicare plan &quot;could raise future retirees&rsquo; costs more than $6,000.&quot;</p>\r\n",
+        "statement_context": "a speech at the Republican National Convention",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Barack Obama ad says Paul Ryan’s Medicare plan could raise costs for Medicare beneficiaries by $6,000 each",
+        "statement": "<p>\r\n\tPresident Obama &quot;funneled&quot; $716 billion out of Medicare &quot;at the expense of the elderly.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan said President Obama “funneled” $716 billion out of Medicare “at the expense of the elderly.”"
+    },
+    {
+        "statement_date": "2012-08-17",
+        "ruling_date": "2012-08-23T18:28:58",
+        "ruling_link_text": "UPDATE: Reconsidering the differences",
+        "speaker": {
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama",
+            "last_name": "Obama"
+        },
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "corrections-and-updates",
@@ -1153,46 +1179,46 @@
                 "subject_slug": "message-machine-2012",
                 "subject": "Message Machine 2012"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Bill he co-sponsored could hamper IVF, but not \"outlaw\" it",
-        "statement_context": "a graphic on the Internet",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/aug/17/ultraviolet/womens-group-says-paul-ryan-would-outlaw-vitro-fer/",
-        "ruling_date": "2012-08-17T17:54:07",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "",
-            "name_slug": "ultraviolet",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Ultraviolet_logo.jpg",
-            "last_name": "Ultraviolet",
-            "party": {
-                "party_slug": "none",
-                "party": "None"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/aug/23/barack-obama/barack-obama-ad-says-paul-ryans-medicare-plan-coul/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_date": "2012-08-16",
-        "statement": "<p>\r\n\tPaul Ryan would &quot;outlaw in vitro fertilization.&quot;</p>\r\n",
+        "statement_context": "a campaign commercial",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Women's group says Paul Ryan would \"outlaw in vitro fertilization”",
+        "statement": "<p>\r\n\tPaul Ryan&rsquo;s Medicare plan &quot;could raise future retirees&rsquo; costs more than $6,000.&quot;</p>\r\n",
+        "ruling_headline": "Barack Obama ad says Paul Ryan’s Medicare plan could raise costs for Medicare beneficiaries by $6,000 each"
+    },
+    {
+        "statement_date": "2012-08-16",
+        "ruling_date": "2012-08-17T17:54:07",
+        "ruling_link_text": "Bill he co-sponsored could hamper IVF, but not \"outlaw\" it",
+        "speaker": {
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Ultraviolet_logo.jpg",
+            "party": {
+                "party_slug": "none",
+                "party": "None"
+            },
+            "name_slug": "ultraviolet",
+            "last_name": "Ultraviolet"
+        },
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "abortion",
@@ -1210,46 +1236,46 @@
                 "subject_slug": "women",
                 "subject": "Women"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "A lesson in Washington linguistics",
-        "statement_context": "remarks at a campaign event",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/aug/16/barack-obama/does-paul-ryan-want-turn-medicare-voucher-program/",
-        "ruling_date": "2012-08-16T13:58:23",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Barack",
-            "name_slug": "barack-obama",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-            "last_name": "Obama",
-            "party": {
-                "party_slug": "democrat",
-                "party": "Democrat"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/aug/17/ultraviolet/womens-group-says-paul-ryan-would-outlaw-vitro-fer/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_date": "2012-08-15",
-        "statement": "<p>\r\n\tSays Mitt Romney and Paul Ryan &quot;want to turn Medicare into a voucher system.&quot;</p>\r\n",
+        "statement_context": "a graphic on the Internet",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Do Mitt Romney and Paul Ryan want to turn Medicare into a voucher program?",
+        "statement": "<p>\r\n\tPaul Ryan would &quot;outlaw in vitro fertilization.&quot;</p>\r\n",
+        "ruling_headline": "Women's group says Paul Ryan would \"outlaw in vitro fertilization”"
+    },
+    {
+        "statement_date": "2012-08-15",
+        "ruling_date": "2012-08-16T13:58:23",
+        "ruling_link_text": "A lesson in Washington linguistics",
+        "speaker": {
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama",
+            "last_name": "Obama"
+        },
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -1263,46 +1289,46 @@
                 "subject_slug": "medicare",
                 "subject": "Medicare"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Both sides trying to reduce future spending",
-        "statement_context": "an interview on \"Face the Nation\"",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/aug/15/stephanie-cutter/ryans-plan-includes-700-billion-medicare-cuts-says/",
-        "ruling_date": "2012-08-15T11:01:28",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Stephanie",
-            "name_slug": "stephanie-cutter",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/cutter.jpg",
-            "last_name": "Cutter",
-            "party": {
-                "party_slug": "democrat",
-                "party": "Democrat"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/aug/16/barack-obama/does-paul-ryan-want-turn-medicare-voucher-program/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
         },
-        "statement_date": "2012-08-12",
-        "statement": "<p>\r\n\tSays Paul Ryan&#39;s budget relies on the same $700 billion in savings from Medicare that Mitt Romney and other Republicans have been attacking Democrats about.</p>\r\n",
+        "statement_context": "remarks at a campaign event",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Ryan's plan includes $700 billion in Medicare \"cuts,\" says Stephanie Cutter",
+        "statement": "<p>\r\n\tSays Mitt Romney and Paul Ryan &quot;want to turn Medicare into a voucher system.&quot;</p>\r\n",
+        "ruling_headline": "Do Mitt Romney and Paul Ryan want to turn Medicare into a voucher program?"
+    },
+    {
+        "statement_date": "2012-08-12",
+        "ruling_date": "2012-08-15T11:01:28",
+        "ruling_link_text": "Both sides trying to reduce future spending",
+        "speaker": {
+            "first_name": "Stephanie",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/cutter.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "stephanie-cutter",
+            "last_name": "Cutter"
+        },
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -1320,46 +1346,46 @@
                 "subject_slug": "retirement",
                 "subject": "Retirement"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "GOP's budget guru should know better",
-        "statement_context": "a congressional Web page",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/apr/10/paul-ryan/paul-ryan-barack-obama-has-doubled-size-government/",
-        "ruling_date": "2012-04-10T16:42:24",
-        "target": [
-            {
-                "first_name": "Barack",
-                "name_slug": "barack-obama",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-                "last_name": "Obama",
-                "party": {
-                    "party_slug": "democrat",
-                    "party": "Democrat"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/aug/15/stephanie-cutter/ryans-plan-includes-700-billion-medicare-cuts-says/",
+        "ruling": {
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling_slug": "true"
         },
-        "statement_date": "2012-04-10",
-        "statement": "<p>\r\n\tPresident Barack Obama &quot;has doubled the size of government since he took office.&quot;</p>\r\n",
+        "statement_context": "an interview on \"Face the Nation\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says Barack Obama 'has doubled the size of government since he took office'",
+        "statement": "<p>\r\n\tSays Paul Ryan&#39;s budget relies on the same $700 billion in savings from Medicare that Mitt Romney and other Republicans have been attacking Democrats about.</p>\r\n",
+        "ruling_headline": "Ryan's plan includes $700 billion in Medicare \"cuts,\" says Stephanie Cutter"
+    },
+    {
+        "statement_date": "2012-04-10",
+        "ruling_date": "2012-04-10T16:42:24",
+        "ruling_link_text": "GOP's budget guru should know better",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [
+            {
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+                "party": {
+                    "party_slug": "democrat",
+                    "party": "Democrat"
+                },
+                "name_slug": "barack-obama",
+                "last_name": "Obama"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "corrections-and-updates",
@@ -1369,46 +1395,46 @@
                 "subject_slug": "federal-budget",
                 "subject": "Federal Budget"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "That's one way to put it",
-        "statement_context": "remarks to a meeting of the Newspaper Association of America",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2012/apr/06/barack-obama/president-barack-obama-says-gop-budget-cuts-financ/",
-        "ruling_date": "2012-04-06T16:34:55",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Barack",
-            "name_slug": "barack-obama",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
-            "last_name": "Obama",
-            "party": {
-                "party_slug": "democrat",
-                "party": "Democrat"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/apr/10/paul-ryan/paul-ryan-barack-obama-has-doubled-size-government/",
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling_slug": "pants-fire"
         },
-        "statement_date": "2012-04-03",
-        "statement": "<p>\r\n\tUnder the House Republican budget, &quot;if these cuts were to be spread out evenly &hellip; the year after next, nearly 10 million college students would see their financial aid cut by an average of more than $1,000 each.&quot;</p>\r\n",
+        "statement_context": "a congressional Web page",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "President Barack Obama says GOP budget cuts financial aid to college students",
+        "statement": "<p>\r\n\tPresident Barack Obama &quot;has doubled the size of government since he took office.&quot;</p>\r\n",
+        "ruling_headline": "Paul Ryan says Barack Obama 'has doubled the size of government since he took office'"
+    },
+    {
+        "statement_date": "2012-04-03",
+        "ruling_date": "2012-04-06T16:34:55",
+        "ruling_link_text": "That's one way to put it",
+        "speaker": {
+            "first_name": "Barack",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "barack-obama",
+            "last_name": "Obama"
+        },
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "education",
@@ -1418,46 +1444,46 @@
                 "subject_slug": "federal-budget",
                 "subject": "Federal Budget"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Budget resolution specifically bars the practice",
-        "statement_context": "an interview on CBS' \"Face the Nation\"",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2011/jun/01/debbie-wasserman-schultz/debbie-wasserman-schultz-says-ryan-medicare-plan-w/",
-        "ruling_date": "2011-06-01T11:22:54",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "Debbie",
-            "name_slug": "debbie-wasserman-schultz",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/27560_6444958138_7609_n.jpg",
-            "last_name": "Wasserman Schultz",
-            "party": {
-                "party_slug": "democrat",
-                "party": "Democrat"
-            }
+        "statement_url": "/truth-o-meter/statements/2012/apr/06/barack-obama/president-barack-obama-says-gop-budget-cuts-financ/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_date": "2011-05-29",
-        "statement": "<div style=\"margin: 0px; background-color: transparent;\">\r\n\tThe Medicare proposal by Rep. Paul Ryan, R-Wis., would &quot;allow insurance companies to deny you coverage and drop you for pre-existing conditions.&quot;</div>\r\n",
+        "statement_context": "remarks to a meeting of the Newspaper Association of America",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Debbie Wasserman Schultz says Ryan Medicare plan would allow insurers to use pre-existing conditions as barrier to coverage",
+        "statement": "<p>\r\n\tUnder the House Republican budget, &quot;if these cuts were to be spread out evenly &hellip; the year after next, nearly 10 million college students would see their financial aid cut by an average of more than $1,000 each.&quot;</p>\r\n",
+        "ruling_headline": "President Barack Obama says GOP budget cuts financial aid to college students"
+    },
+    {
+        "statement_date": "2011-05-29",
+        "ruling_date": "2011-06-01T11:22:54",
+        "ruling_link_text": "Budget resolution specifically bars the practice",
+        "speaker": {
+            "first_name": "Debbie",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/27560_6444958138_7609_n.jpg",
+            "party": {
+                "party_slug": "democrat",
+                "party": "Democrat"
+            },
+            "name_slug": "debbie-wasserman-schultz",
+            "last_name": "Wasserman Schultz"
+        },
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "corrections-and-updates",
@@ -1475,99 +1501,46 @@
                 "subject_slug": "medicare",
                 "subject": "Medicare"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Still a government role, but Ryan plan would privatize Medicare",
-        "statement_context": "an advertisement",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "statement_url": "/truth-o-meter/statements/2011/may/25/agenda-project/throw-granny-cliff-ad-says-paul-ryan-plan-would-pr/",
-        "ruling_date": "2011-05-25T18:15:43",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
         ],
-        "speaker": {
-            "first_name": "",
-            "name_slug": "agenda-project",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Agenda_project_logo.jpg",
-            "last_name": "The Agenda Project",
-            "party": {
-                "party_slug": "none",
-                "party": "None"
-            }
-        },
-        "statement_date": "2011-05-17",
-        "statement": "<p>\r\n\tThe Paul Ryan budget proposal would &quot;privatize Medicare.&quot;</p>",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_headline": "Throw-granny-from-the-cliff ad says Paul Ryan plan would privatize Medicare",
-        "subject": [
-            {
-                "subject_slug": "federal-budget",
-                "subject": "Federal Budget"
-            },
-            {
-                "subject_slug": "health-care",
-                "subject": "Health Care"
-            },
-            {
-                "subject_slug": "medicare",
-                "subject": "Medicare"
-            }
-        ]
-    },
-    {
-        "ruling_link_text": "This part of ad is, ahem, over the top",
-        "statement_context": "an advertisement",
+        "statement_url": "/truth-o-meter/statements/2011/jun/01/debbie-wasserman-schultz/debbie-wasserman-schultz-says-ryan-medicare-plan-w/",
         "ruling": {
-            "ruling_slug": "false",
             "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
         },
-        "statement_url": "/truth-o-meter/statements/2011/may/25/agenda-project/throw-granny-cliff-asks-what-country-would-be-with/",
-        "ruling_date": "2011-05-25T18:15:17",
-        "target": [
-            {
-                "first_name": "Paul",
-                "name_slug": "paul-ryan",
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-                "last_name": "Ryan",
-                "party": {
-                    "party_slug": "republican",
-                    "party": "Republican"
-                }
-            }
-        ],
-        "speaker": {
-            "first_name": "",
-            "name_slug": "agenda-project",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Agenda_project_logo.jpg",
-            "last_name": "The Agenda Project",
-            "party": {
-                "party_slug": "none",
-                "party": "None"
-            }
-        },
-        "statement_date": "2011-05-17",
-        "statement": "<p>\r\n\tThe Paul Ryan budget proposal would leave the country &quot;without Medicare.&quot;</p>",
+        "statement_context": "an interview on CBS' \"Face the Nation\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Throw-granny-from-the-cliff ad asks what the U.S. would be “without Medicare\"",
+        "statement": "<div style=\"margin: 0px; background-color: transparent;\">\r\n\tThe Medicare proposal by Rep. Paul Ryan, R-Wis., would &quot;allow insurance companies to deny you coverage and drop you for pre-existing conditions.&quot;</div>\r\n",
+        "ruling_headline": "Debbie Wasserman Schultz says Ryan Medicare plan would allow insurers to use pre-existing conditions as barrier to coverage"
+    },
+    {
+        "statement_date": "2011-05-17",
+        "ruling_date": "2011-05-25T18:15:43",
+        "ruling_link_text": "Still a government role, but Ryan plan would privatize Medicare",
+        "speaker": {
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Agenda_project_logo.jpg",
+            "party": {
+                "party_slug": "none",
+                "party": "None"
+            },
+            "name_slug": "agenda-project",
+            "last_name": "The Agenda Project"
+        },
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -1581,103 +1554,156 @@
                 "subject_slug": "medicare",
                 "subject": "Medicare"
             }
-        ]
+        ],
+        "statement_url": "/truth-o-meter/statements/2011/may/25/agenda-project/throw-granny-cliff-ad-says-paul-ryan-plan-would-pr/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
+        },
+        "statement_context": "an advertisement",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "statement": "<p>\r\n\tThe Paul Ryan budget proposal would &quot;privatize Medicare.&quot;</p>",
+        "ruling_headline": "Throw-granny-from-the-cliff ad says Paul Ryan plan would privatize Medicare"
     },
     {
-        "ruling_link_text": "It's not the usual rate cited, but economists say it's reasonable",
-        "statement_context": "a speech in Chicago",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
+        "statement_date": "2011-05-17",
+        "ruling_date": "2011-05-25T18:15:17",
+        "ruling_link_text": "This part of ad is, ahem, over the top",
+        "speaker": {
+            "first_name": "",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Agenda_project_logo.jpg",
+            "party": {
+                "party_slug": "none",
+                "party": "None"
+            },
+            "name_slug": "agenda-project",
+            "last_name": "The Agenda Project"
         },
-        "statement_url": "/truth-o-meter/statements/2011/may/18/paul-ryan/paul-ryan-says-barack-obama-wants-top-tax-rate-448/",
+        "target": [
+            {
+                "first_name": "Paul",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+                "party": {
+                    "party_slug": "republican",
+                    "party": "Republican"
+                },
+                "name_slug": "paul-ryan",
+                "last_name": "Ryan"
+            }
+        ],
+        "subject": [
+            {
+                "subject_slug": "federal-budget",
+                "subject": "Federal Budget"
+            },
+            {
+                "subject_slug": "health-care",
+                "subject": "Health Care"
+            },
+            {
+                "subject_slug": "medicare",
+                "subject": "Medicare"
+            }
+        ],
+        "statement_url": "/truth-o-meter/statements/2011/may/25/agenda-project/throw-granny-cliff-asks-what-country-would-be-with/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
+        "statement_context": "an advertisement",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "statement": "<p>\r\n\tThe Paul Ryan budget proposal would leave the country &quot;without Medicare.&quot;</p>",
+        "ruling_headline": "Throw-granny-from-the-cliff ad asks what the U.S. would be “without Medicare\""
+    },
+    {
+        "statement_date": "2011-05-16",
         "ruling_date": "2011-05-18T16:42:42",
-        "target": [],
+        "ruling_link_text": "It's not the usual rate cited, but economists say it's reasonable",
         "speaker": {
             "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
             "party": {
                 "party_slug": "republican",
                 "party": "Republican"
-            }
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
         },
-        "statement_date": "2011-05-16",
-        "statement": "<p>\r\n\tOn taxes, President Barack Obama wants to raise &quot;the top rate to 44.8 percent.&quot;</p>",
-        "statement_type": {
-            "statement_type": "Claim"
-        },
-        "ruling_headline": "Paul Ryan says Barack Obama wants a top tax rate of 44.8 percent",
+        "target": [],
         "subject": [
             {
                 "subject_slug": "taxes",
                 "subject": "Taxes"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "Some models do go haywire, but not all, and the timing isn't clear",
-        "statement_context": "a private briefing to Members of Congress",
+        ],
+        "statement_url": "/truth-o-meter/statements/2011/may/18/paul-ryan/paul-ryan-says-barack-obama-wants-top-tax-rate-448/",
         "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
         },
-        "statement_url": "/truth-o-meter/statements/2011/mar/21/paul-ryan/paul-ryan-says-cbo-model-self-destructs-due-rising/",
-        "ruling_date": "2011-03-21T12:20:02",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2011-03-18",
-        "statement": "<div style=\"background-color: transparent;\">\r\n\t&quot;The Congressional Budget Office has this economic model where they measure the economy going forward, and they are now telling us that the entire economy crashes in the year 2037 because their computer simulation can&#39;t conceive of any way in which the U.S. economy can continue.&quot;</div>",
+        "statement_context": "a speech in Chicago",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan says CBO model of economy self-destructs due to rising deficits in 2037",
+        "statement": "<p>\r\n\tOn taxes, President Barack Obama wants to raise &quot;the top rate to 44.8 percent.&quot;</p>",
+        "ruling_headline": "Paul Ryan says Barack Obama wants a top tax rate of 44.8 percent"
+    },
+    {
+        "statement_date": "2011-03-18",
+        "ruling_date": "2011-03-21T12:20:02",
+        "ruling_link_text": "Some models do go haywire, but not all, and the timing isn't clear",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "economy",
                 "subject": "Economy"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "May depend on Congress' stomach for proposed Medicare cuts",
-        "statement_context": "the GOP response to the State of the Union",
+        ],
+        "statement_url": "/truth-o-meter/statements/2011/mar/21/paul-ryan/paul-ryan-says-cbo-model-self-destructs-due-rising/",
         "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
         },
-        "statement_url": "/truth-o-meter/statements/2011/jan/27/paul-ryan/rep-paul-ryan-claims-health-care-law-accelerating-/",
-        "ruling_date": "2011-01-27T14:28:20",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2011-01-25",
-        "statement": "<p>\r\n\tThe health care law &quot;is accelerating our country toward bankruptcy.&quot;</p>",
+        "statement_context": "a private briefing to Members of Congress",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Rep. Paul Ryan claims health care law \"is accelerating our country toward bankruptcy\"",
+        "statement": "<div style=\"background-color: transparent;\">\r\n\t&quot;The Congressional Budget Office has this economic model where they measure the economy going forward, and they are now telling us that the entire economy crashes in the year 2037 because their computer simulation can&#39;t conceive of any way in which the U.S. economy can continue.&quot;</div>",
+        "ruling_headline": "Paul Ryan says CBO model of economy self-destructs due to rising deficits in 2037"
+    },
+    {
+        "statement_date": "2011-01-25",
+        "ruling_date": "2011-01-27T14:28:20",
+        "ruling_link_text": "May depend on Congress' stomach for proposed Medicare cuts",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "federal-budget",
@@ -1687,35 +1713,35 @@
                 "subject_slug": "health-care",
                 "subject": "Health Care"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "He's right: A landmark is looming",
-        "statement_context": "a response to the State of the Union address",
+        ],
+        "statement_url": "/truth-o-meter/statements/2011/jan/27/paul-ryan/rep-paul-ryan-claims-health-care-law-accelerating-/",
         "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
         },
-        "statement_url": "/truth-o-meter/statements/2011/jan/25/paul-ryan/paul-ryan-state-union-response-says-us-debt-will-s/",
-        "ruling_date": "2011-01-25T23:59:50",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2011-01-25",
-        "statement": "<p>\r\n\t&quot;The debt will soon eclipse our entire economy.&quot;</p>",
+        "statement_context": "the GOP response to the State of the Union",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan, in State of the Union response, says U.S. debt will soon eclipse GDP",
+        "statement": "<p>\r\n\tThe health care law &quot;is accelerating our country toward bankruptcy.&quot;</p>",
+        "ruling_headline": "Rep. Paul Ryan claims health care law \"is accelerating our country toward bankruptcy\""
+    },
+    {
+        "statement_date": "2011-01-25",
+        "ruling_date": "2011-01-25T23:59:50",
+        "ruling_link_text": "He's right: A landmark is looming",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "deficit",
@@ -1729,35 +1755,35 @@
                 "subject_slug": "federal-budget",
                 "subject": "Federal Budget"
             }
-        ]
-    },
-    {
-        "ruling_link_text": "He ignores longtime contributions to Social Security",
-        "statement_context": "a speech to the Oklahoma Council of Public Affairs",
+        ],
+        "statement_url": "/truth-o-meter/statements/2011/jan/25/paul-ryan/paul-ryan-state-union-response-says-us-debt-will-s/",
         "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling_slug": "true"
         },
-        "statement_url": "/truth-o-meter/statements/2010/apr/21/paul-ryan/paul-ryans-federal-dole-statistics-omit-important-/",
-        "ruling_date": "2010-04-21T14:04:26",
-        "target": [],
-        "speaker": {
-            "first_name": "Paul",
-            "name_slug": "paul-ryan",
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/paul_ryan_last.jpg",
-            "last_name": "Ryan",
-            "party": {
-                "party_slug": "republican",
-                "party": "Republican"
-            }
-        },
-        "statement_date": "2010-03-31",
-        "statement": "<p>In 2004, \"20 percent of U.S. households were getting about 75 percent of their income from the federal government. ... Another 20 percent were receiving almost 40 percent.\"</p>",
+        "statement_context": "a response to the State of the Union address",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_headline": "Paul Ryan's federal dole statistics omit important details",
+        "statement": "<p>\r\n\t&quot;The debt will soon eclipse our entire economy.&quot;</p>",
+        "ruling_headline": "Paul Ryan, in State of the Union response, says U.S. debt will soon eclipse GDP"
+    },
+    {
+        "statement_date": "2010-03-31",
+        "ruling_date": "2010-04-21T14:04:26",
+        "ruling_link_text": "He ignores longtime contributions to Social Security",
+        "speaker": {
+            "first_name": "Paul",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/AP_WX201_HOUSE_2016_PRIMARI.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "paul-ryan",
+            "last_name": "Ryan"
+        },
+        "target": [],
         "subject": [
             {
                 "subject_slug": "economy",
@@ -1783,6 +1809,18 @@
                 "subject_slug": "taxes",
                 "subject": "Taxes"
             }
-        ]
+        ],
+        "statement_url": "/truth-o-meter/statements/2010/apr/21/paul-ryan/paul-ryans-federal-dole-statistics-omit-important-/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
+        "statement_context": "a speech to the Oklahoma Council of Public Affairs",
+        "statement_type": {
+            "statement_type": "Claim"
+        },
+        "statement": "<p>In 2004, \"20 percent of U.S. households were getting about 75 percent of their income from the federal government. ... Another 20 percent were receiving almost 40 percent.\"</p>",
+        "ruling_headline": "Paul Ryan's federal dole statistics omit important details"
     }
 ]

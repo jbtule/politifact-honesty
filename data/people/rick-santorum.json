@@ -1,7 +1,18 @@
 [
     {
-        "statement_url": "/truth-o-meter/statements/2015/sep/02/rick-santorum/santorum-un-climate-head-debunked-widely-cited-97-/",
         "statement_date": "2015-08-28",
+        "ruling_date": "2015-09-02T16:00:21",
+        "ruling_link_text": "Wrong person, wrong study",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -21,33 +32,33 @@
                 "subject": "Science"
             }
         ],
-        "statement": "<p>The claim that 97 percent of scientists believe humans are causing&nbsp;climate change has been debunked by the &quot;head&quot; of the United Nations Intergovernmental Panel on Climate Change. &quot;That number was pulled out of thin air.&quot;</p>\r\n",
-        "ruling_headline": "Santorum: UN climate head debunked widely cited 97% climate change consensus figure",
-        "ruling_link_text": "Wrong person, wrong study",
+        "statement_url": "/truth-o-meter/statements/2015/sep/02/rick-santorum/santorum-un-climate-head-debunked-widely-cited-97-/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "an interview with Bill Maher",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2015-09-02T16:00:21",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>The claim that 97 percent of scientists believe humans are causing&nbsp;climate change has been debunked by the &quot;head&quot; of the United Nations Intergovernmental Panel on Climate Change. &quot;That number was pulled out of thin air.&quot;</p>\r\n",
+        "ruling_headline": "Santorum: UN climate head debunked widely cited 97% climate change consensus figure"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2015/sep/01/rick-santorum/santorum-cites-flawed-climate-change-figure-and-mi/",
         "statement_date": "2015-08-28",
+        "ruling_date": "2015-09-01T17:26:18",
+        "ruling_link_text": "'Two orders of mischaracterization'",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -63,33 +74,33 @@
                 "subject": "Science"
             }
         ],
-        "statement": "<p>&quot;The most recent survey of climate scientists said about 57 percent don&rsquo;t agree with the idea that 95 percent of the change in the climate is caused by CO2.&quot;</p>\r\n",
-        "ruling_headline": "Santorum cites flawed climate change figure, and misquotes it ",
-        "ruling_link_text": "'Two orders of mischaracterization'",
+        "statement_url": "/truth-o-meter/statements/2015/sep/01/rick-santorum/santorum-cites-flawed-climate-change-figure-and-mi/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "an interview with Bill Maher.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2015-09-01T17:26:18",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>&quot;The most recent survey of climate scientists said about 57 percent don&rsquo;t agree with the idea that 95 percent of the change in the climate is caused by CO2.&quot;</p>\r\n",
+        "ruling_headline": "Santorum cites flawed climate change figure, and misquotes it "
     },
     {
-        "statement_url": "/truth-o-meter/statements/2015/jun/07/rick-santorum/foxs-debate-rules-would-have-kept-bill-clinton-sta/",
         "statement_date": "2015-06-07",
+        "ruling_date": "2015-06-07T18:29:52",
+        "ruling_link_text": "1991 is not 2015",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -97,33 +108,33 @@
                 "subject": "Polls and Public Opinion"
             }
         ],
-        "statement": "<p>If Fox News&#39; presidential debate rules had been in place during the&nbsp;1992 election,&nbsp;&quot;Bill Clinton wouldn&#39;t have been&nbsp;on the stage.&quot;</p>\r\n",
-        "ruling_headline": "Fox's debate rules would have kept Bill Clinton off the stage in 1992 election, Rick Santorum says",
-        "ruling_link_text": "1991 is not 2015",
+        "statement_url": "/truth-o-meter/statements/2015/jun/07/rick-santorum/foxs-debate-rules-would-have-kept-bill-clinton-sta/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
         "statement_context": "comments on \"Fox News Sunday\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2015-06-07T18:29:52",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>If Fox News&#39; presidential debate rules had been in place during the&nbsp;1992 election,&nbsp;&quot;Bill Clinton wouldn&#39;t have been&nbsp;on the stage.&quot;</p>\r\n",
+        "ruling_headline": "Fox's debate rules would have kept Bill Clinton off the stage in 1992 election, Rick Santorum says"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2015/apr/15/rick-santorum/book-howard-zinn-most-popular-high-school-history-/",
         "statement_date": "2015-04-10",
+        "ruling_date": "2015-04-15T16:28:09",
+        "ruling_link_text": "No hard evidence for that",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -135,33 +146,33 @@
                 "subject": "History"
             }
         ],
-        "statement": "<p>Says Howard Zinn, &quot;an anti-American Marxist,&quot; wrote &quot;the most popular textbook that&#39;s taught in our high schools in America.&quot;</p>\r\n",
-        "ruling_headline": "Is book by Howard Zinn the 'most popular' high-school history textbook?",
-        "ruling_link_text": "No hard evidence for that",
+        "statement_url": "/truth-o-meter/statements/2015/apr/15/rick-santorum/book-howard-zinn-most-popular-high-school-history-/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
         "statement_context": "a speech to the NRA",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2015-04-15T16:28:09",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>Says Howard Zinn, &quot;an anti-American Marxist,&quot; wrote &quot;the most popular textbook that&#39;s taught in our high schools in America.&quot;</p>\r\n",
+        "ruling_headline": "Is book by Howard Zinn the 'most popular' high-school history textbook?"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2015/apr/13/rick-santorum/90-american-workers-dont-own-their-own-business-ri/",
         "statement_date": "2015-04-05",
+        "ruling_date": "2015-04-13T16:00:16",
+        "ruling_link_text": "Different ways to count, but very close",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -173,33 +184,33 @@
                 "subject": "Workers"
             }
         ],
-        "statement": "<p>&quot;Ninety percent of American workers don&#39;t own their own business.&quot;</p>\r\n",
-        "ruling_headline": "90% of American workers don't own their own business, Rick Santorum says",
-        "ruling_link_text": "Different ways to count, but very close",
+        "statement_url": "/truth-o-meter/statements/2015/apr/13/rick-santorum/90-american-workers-dont-own-their-own-business-ri/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
+        },
         "statement_context": "an interview on \"Face the Nation.\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2015-04-13T16:00:16",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>&quot;Ninety percent of American workers don&#39;t own their own business.&quot;</p>\r\n",
+        "ruling_headline": "90% of American workers don't own their own business, Rick Santorum says"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2015/apr/08/rick-santorum/70-americans-dont-have-college-degree-rick-santoru/",
         "statement_date": "2015-04-05",
+        "ruling_date": "2015-04-08T10:00:00",
+        "ruling_link_text": "GOP needs to woo workers, he says",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -211,33 +222,33 @@
                 "subject": "Education"
             }
         ],
-        "statement": "<p>Seventy percent of Americans &quot;don&#39;t have a college degree.&quot;</p>\r\n",
-        "ruling_headline": "70% of Americans don't have college degree, Rick Santorum says",
-        "ruling_link_text": "GOP needs to woo workers, he says",
+        "statement_url": "/truth-o-meter/statements/2015/apr/08/rick-santorum/70-americans-dont-have-college-degree-rick-santoru/",
+        "ruling": {
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling_slug": "true"
+        },
         "statement_context": "an interview on \"Face the Nation.\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2015-04-08T10:00:00",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>Seventy percent of Americans &quot;don&#39;t have a college degree.&quot;</p>\r\n",
+        "ruling_headline": "70% of Americans don't have college degree, Rick Santorum says"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/aug/29/rick-santorum/rick-santorum-says-when-his-grandfather-arrived-us/",
         "statement_date": "2012-08-28",
+        "ruling_date": "2012-08-29T19:30:46",
+        "ruling_link_text": "Government benefits were smaller than today, but far from zero",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -245,43 +256,43 @@
                 "subject": "Welfare"
             }
         ],
-        "statement": "<p>\r\n\tWhen his grandfather arrived in the United States, &quot;there were no government benefits for immigrants.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says that when his grandfather arrived in the U.S., “there were no government benefits for immigrants\"",
-        "ruling_link_text": "Government benefits were smaller than today, but far from zero",
+        "statement_url": "/truth-o-meter/statements/2012/aug/29/rick-santorum/rick-santorum-says-when-his-grandfather-arrived-us/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "a speech at the Republican National Convention in Tampa",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-08-29T19:30:46",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tWhen his grandfather arrived in the United States, &quot;there were no government benefits for immigrants.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says that when his grandfather arrived in the U.S., “there were no government benefits for immigrants\""
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/aug/28/rick-santorum/Santorum-Romney-claim-Obama-ending-welfare-work/",
         "statement_date": "2012-08-28",
+        "ruling_date": "2012-08-28T21:28:24",
+        "ruling_link_text": "That's not what the memo says",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
                 "name_slug": "barack-obama",
-                "last_name": "Obama",
-                "first_name": "Barack"
+                "last_name": "Obama"
             }
         ],
         "subject": [
@@ -290,33 +301,33 @@
                 "subject": "Welfare"
             }
         ],
-        "statement": "<p>\r\n\tSays President Obama has waived &quot;the work requirement for welfare.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum repeats Romney claim that Obama is ending work requirement in welfare",
-        "ruling_link_text": "That's not what the memo says",
+        "statement_url": "/truth-o-meter/statements/2012/aug/28/rick-santorum/Santorum-Romney-claim-Obama-ending-welfare-work/",
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling_slug": "pants-fire"
+        },
         "statement_context": "a convention speech",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-08-28T21:28:24",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tSays President Obama has waived &quot;the work requirement for welfare.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum repeats Romney claim that Obama is ending work requirement in welfare"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/apr/03/rick-santorum/rick-santorum-says-american-history-not-available-/",
         "statement_date": "2012-04-02",
+        "ruling_date": "2012-04-03T18:26:05",
+        "ruling_link_text": "All but one — a med school — teach U.S. history",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -328,33 +339,33 @@
                 "subject": "History"
             }
         ],
-        "statement": "<p>\r\n\t&quot;I think it&rsquo;s seven or eight of the California system of universities don&rsquo;t even teach an American history course. It&rsquo;s not even available to be taught.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says seven or eight Calif. universities 'don't even teach' American history",
-        "ruling_link_text": "All but one — a med school — teach U.S. history",
+        "statement_url": "/truth-o-meter/statements/2012/apr/03/rick-santorum/rick-santorum-says-american-history-not-available-/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "in a speech in Wisconsin",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-04-03T18:26:05",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;I think it&rsquo;s seven or eight of the California system of universities don&rsquo;t even teach an American history course. It&rsquo;s not even available to be taught.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says seven or eight Calif. universities 'don't even teach' American history"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/mar/29/rick-santorum/santorum-says-americans-overwhelmingly-oppose-heal/",
         "statement_date": "2012-03-26",
+        "ruling_date": "2012-03-29T12:11:47",
+        "ruling_link_text": "True of the mandate, and views of the law are becoming more negative",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -362,43 +373,43 @@
                 "subject": "Health Care"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Polls show Americans are overwhelmingly opposed to Obamacare, especially the individual mandate.&quot;</p>\r\n",
-        "ruling_headline": "Santorum says Americans 'overwhelmingly' oppose health law, mandate",
-        "ruling_link_text": "True of the mandate, and views of the law are becoming more negative",
+        "statement_url": "/truth-o-meter/statements/2012/mar/29/rick-santorum/santorum-says-americans-overwhelmingly-oppose-heal/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
+        },
         "statement_context": "an op-ed in \"U.S. News & World Report\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-03-29T12:11:47",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;Polls show Americans are overwhelmingly opposed to Obamacare, especially the individual mandate.&quot;</p>\r\n",
+        "ruling_headline": "Santorum says Americans 'overwhelmingly' oppose health law, mandate"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/mar/28/rick-santorum/santorum-accuses-romney-favoring-high-gas-prices-m/",
         "statement_date": "2012-03-25",
+        "ruling_date": "2012-03-28T12:08:58",
+        "ruling_link_text": "Not so accurate paraphrase of his words in '06",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
+                "first_name": "Mitt",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
                 "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
+                "last_name": "Romney"
             }
         ],
         "subject": [
@@ -407,43 +418,43 @@
                 "subject": "Gas Prices"
             }
         ],
-        "statement": "<p>\r\n\tSays Mitt Romney said &quot;we are going to have to live with high gas prices, it&#39;s a good thing because it will reduce consumption, we don&#39;t want to produce any more gasoline.&quot;</p>\r\n",
-        "ruling_headline": "Santorum accuses Romney of favoring high gas prices in Massachusetts",
-        "ruling_link_text": "Not so accurate paraphrase of his words in '06",
+        "statement_url": "/truth-o-meter/statements/2012/mar/28/rick-santorum/santorum-accuses-romney-favoring-high-gas-prices-m/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a campaign appearance in Wisconsin",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-03-28T12:08:58",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tSays Mitt Romney said &quot;we are going to have to live with high gas prices, it&#39;s a good thing because it will reduce consumption, we don&#39;t want to produce any more gasoline.&quot;</p>\r\n",
+        "ruling_headline": "Santorum accuses Romney of favoring high gas prices in Massachusetts"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/mar/13/rick-santorum/rick-santorum-says-many-parts-country-experience-r/",
         "statement_date": "2012-03-10",
+        "ruling_date": "2012-03-13T16:47:19",
+        "ruling_link_text": "About as many planned outages as blackouts caused by squirrels",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
                 "name_slug": "barack-obama",
-                "last_name": "Obama",
-                "first_name": "Barack"
+                "last_name": "Obama"
             }
         ],
         "subject": [
@@ -452,43 +463,43 @@
                 "subject": "Energy"
             }
         ],
-        "statement": "<p>\r\n\tPresident Barack Obama&rsquo;s policies have forced &quot;many parts of the country to experience rolling blackouts.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says 'many parts of the country ... experience rolling blackouts'",
-        "ruling_link_text": "About as many planned outages as blackouts caused by squirrels",
+        "statement_url": "/truth-o-meter/statements/2012/mar/13/rick-santorum/rick-santorum-says-many-parts-country-experience-r/",
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling_slug": "pants-fire"
+        },
         "statement_context": "a op-ed posted on his website",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-03-13T16:47:19",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tPresident Barack Obama&rsquo;s policies have forced &quot;many parts of the country to experience rolling blackouts.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says 'many parts of the country ... experience rolling blackouts'"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/mar/08/rick-santorum/rick-santorum-says-after-obamacare-all-americans-w/",
         "statement_date": "2012-03-06",
+        "ruling_date": "2012-03-08T12:30:37",
+        "ruling_link_text": "At most it would be 60 percent",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
                 "name_slug": "barack-obama",
-                "last_name": "Obama",
-                "first_name": "Barack"
+                "last_name": "Obama"
             }
         ],
         "subject": [
@@ -513,33 +524,33 @@
                 "subject": "Medicare"
             }
         ],
-        "statement": "<p>\r\n\tAfter President Barack Obama&rsquo;s health care law takes full effect, &quot;100 percent&quot; of Americans will &quot;depend on some form of federal payment, some form of government benefit to help provide for them.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says after 'Obamacare,' all Americans will be dependent on the federal government",
-        "ruling_link_text": "At most it would be 60 percent",
+        "statement_url": "/truth-o-meter/statements/2012/mar/08/rick-santorum/rick-santorum-says-after-obamacare-all-americans-w/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "a campaign speech in Steubenville, Ohio",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-03-08T12:30:37",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tAfter President Barack Obama&rsquo;s health care law takes full effect, &quot;100 percent&quot; of Americans will &quot;depend on some form of federal payment, some form of government benefit to help provide for them.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says after 'Obamacare,' all Americans will be dependent on the federal government"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/mar/08/rick-santorum/rick-santorum-says-almost-half-americans-receive-f/",
         "statement_date": "2012-03-06",
+        "ruling_date": "2012-03-08T11:31:36",
+        "ruling_link_text": "It may even be higher now",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -571,33 +582,33 @@
                 "subject": "Veterans"
             }
         ],
-        "statement": "<p>\r\n\t&quot;A little less than 50 percent of the people in this country depend on some form of federal payment, some form of government benefit to help provide for them.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says almost half of Americans receive federal benefits",
-        "ruling_link_text": "It may even be higher now",
+        "statement_url": "/truth-o-meter/statements/2012/mar/08/rick-santorum/rick-santorum-says-almost-half-americans-receive-f/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
+        },
         "statement_context": "a campaign speech in Steubenville, Ohio",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-03-08T11:31:36",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;A little less than 50 percent of the people in this country depend on some form of federal payment, some form of government benefit to help provide for them.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says almost half of Americans receive federal benefits"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/mar/07/rick-santorum/rick-santorum-says-happiness-time-our-founders-was/",
         "statement_date": "2012-02-29",
+        "ruling_date": "2012-03-07T11:37:28",
+        "ruling_link_text": "Founders' understanding was far more sweeping",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -605,33 +616,33 @@
                 "subject": "History"
             }
         ],
-        "statement": "<p>\r\n\t&quot;If you look up the dictionary definition of happiness at the time of our founders &hellip; happiness was not doing what you want to do but doing what you ought to do.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says happiness 'at the time of our founders' was 'doing what you ought to do'",
-        "ruling_link_text": "Founders' understanding was far more sweeping",
+        "statement_url": "/truth-o-meter/statements/2012/mar/07/rick-santorum/rick-santorum-says-happiness-time-our-founders-was/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
         "statement_context": "a speech near Knoxville, Tenn.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-03-07T11:37:28",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;If you look up the dictionary definition of happiness at the time of our founders &hellip; happiness was not doing what you want to do but doing what you ought to do.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says happiness 'at the time of our founders' was 'doing what you ought to do'"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/mar/07/rick-santorum/rick-santorum-says-government-lets-health-insurers/",
         "statement_date": "2012-02-29",
+        "ruling_date": "2012-03-07T11:11:29",
+        "ruling_link_text": "Not all revenue, not for every plan",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -639,33 +650,33 @@
                 "subject": "Health Care"
             }
         ],
-        "statement": "<p>\r\n\tSays the federal government &quot;tells health insurance companies how much money they&#39;re allowed to keep of what they receive in revenues -- 15 percent.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says government lets health insurers keep only 15 percent of their revenue",
-        "ruling_link_text": "Not all revenue, not for every plan",
+        "statement_url": "/truth-o-meter/statements/2012/mar/07/rick-santorum/rick-santorum-says-government-lets-health-insurers/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a campaign speech",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-03-07T11:11:29",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tSays the federal government &quot;tells health insurance companies how much money they&#39;re allowed to keep of what they receive in revenues -- 15 percent.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says government lets health insurers keep only 15 percent of their revenue"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/mar/06/rick-santorum/santorum-says-when-his-grandfather-came-us-1925-th/",
         "statement_date": "2012-02-29",
+        "ruling_date": "2012-03-06T12:22:39",
+        "ruling_link_text": "Veterans pensions, workers' comp were among programs in place then",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -717,43 +728,43 @@
                 "subject": "Workers"
             }
         ],
-        "statement": "<p>\r\n\t&quot;When my grandfather came to this country back in 1925, there were no government benefits.&quot;</p>\r\n<p>\r\n\t&nbsp;</p>\r\n",
-        "ruling_headline": "Santorum says when his grandfather came to the U.S. in 1925, 'there were no government benefits'",
-        "ruling_link_text": "Veterans pensions, workers' comp were among programs in place then",
+        "statement_url": "/truth-o-meter/statements/2012/mar/06/rick-santorum/santorum-says-when-his-grandfather-came-us-1925-th/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "a campaign speech",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-03-06T12:22:39",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;When my grandfather came to this country back in 1925, there were no government benefits.&quot;</p>\r\n<p>\r\n\t&nbsp;</p>\r\n",
+        "ruling_headline": "Santorum says when his grandfather came to the U.S. in 1925, 'there were no government benefits'"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/mar/01/ron-paul/ron-paul-says-rick-santorum-opposes-right-work/",
         "statement_date": "2012-02-28",
+        "ruling_date": "2012-03-01T10:29:50",
+        "ruling_link_text": "Santorum voted against it in '96, now supports it",
+        "speaker": {
+            "first_name": "Ron",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-ronpaul.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "ron-paul",
+            "last_name": "Paul"
+        },
         "target": [
             {
+                "first_name": "Rick",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
                 "name_slug": "rick-santorum",
-                "last_name": "Santorum",
-                "first_name": "Rick"
+                "last_name": "Santorum"
             }
         ],
         "subject": [
@@ -766,43 +777,43 @@
                 "subject": "Workers"
             }
         ],
-        "statement": "<p>\r\n\tSays Rick Santorum &quot;opposes right-to-work&quot;</p>\r\n",
-        "ruling_headline": "Ron Paul says Rick Santorum 'opposes right-to-work'",
-        "ruling_link_text": "Santorum voted against it in '96, now supports it",
+        "statement_url": "/truth-o-meter/statements/2012/mar/01/ron-paul/ron-paul-says-rick-santorum-opposes-right-work/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a campaign commercial",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-03-01T10:29:50",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-ronpaul.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "ron-paul",
-            "last_name": "Paul",
-            "first_name": "Ron"
-        }
+        "statement": "<p>\r\n\tSays Rick Santorum &quot;opposes right-to-work&quot;</p>\r\n",
+        "ruling_headline": "Ron Paul says Rick Santorum 'opposes right-to-work'"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/29/rick-santorum/rick-santorum-ad-quotes-mitt-romney-distancing-him/",
         "statement_date": "2012-02-23",
+        "ruling_date": "2012-02-29T15:26:14",
+        "ruling_link_text": "Old but accurate",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
+                "first_name": "Mitt",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
                 "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
+                "last_name": "Romney"
             }
         ],
         "subject": [
@@ -815,43 +826,43 @@
                 "subject": "Message Machine 2012"
             }
         ],
-        "statement": "<p>\r\n\tSays Mitt Romney said he does not &quot;line up with the NRA.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum ad quotes Mitt Romney distancing himself from NRA",
-        "ruling_link_text": "Old but accurate",
+        "statement_url": "/truth-o-meter/statements/2012/feb/29/rick-santorum/rick-santorum-ad-quotes-mitt-romney-distancing-him/",
+        "ruling": {
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling_slug": "true"
+        },
         "statement_context": "a television ad",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-02-29T15:26:14",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tSays Mitt Romney said he does not &quot;line up with the NRA.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum ad quotes Mitt Romney distancing himself from NRA"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/27/rick-santorum/rick-santorum-calls-barack-obama-snob-wanting-ever/",
         "statement_date": "2012-02-25",
+        "ruling_date": "2012-02-27T17:43:01",
+        "ruling_link_text": "In most speeches, Obama's clear that's not what he wants",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
                 "name_slug": "barack-obama",
-                "last_name": "Obama",
-                "first_name": "Barack"
+                "last_name": "Obama"
             }
         ],
         "subject": [
@@ -860,33 +871,33 @@
                 "subject": "Education"
             }
         ],
-        "statement": "<p>\r\n\t&quot;President Obama once said he wants everybody in America to go to college.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum calls Barack Obama a 'snob' for wanting 'everybody in America to go to college'",
-        "ruling_link_text": "In most speeches, Obama's clear that's not what he wants",
+        "statement_url": "/truth-o-meter/statements/2012/feb/27/rick-santorum/rick-santorum-calls-barack-obama-snob-wanting-ever/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "a speech in Troy, Mich.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-02-27T17:43:01",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;President Obama once said he wants everybody in America to go to college.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum calls Barack Obama a 'snob' for wanting 'everybody in America to go to college'"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/27/rick-santorum/rick-santorum-says-amniocentesis-does-fact-result-/",
         "statement_date": "2012-02-19",
+        "ruling_date": "2012-02-27T17:26:00",
+        "ruling_link_text": "Most test results come back normal",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -902,33 +913,33 @@
                 "subject": "Public Health"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Amniocentesis, does, in fact, result more often than not in this country in abortion.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says, 'Amniocentesis does, in fact, result more often than not ... in abortion'",
-        "ruling_link_text": "Most test results come back normal",
+        "statement_url": "/truth-o-meter/statements/2012/feb/27/rick-santorum/rick-santorum-says-amniocentesis-does-fact-result-/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "an interview on CBS's \"Face the Nation\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-02-27T17:26:00",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;Amniocentesis, does, in fact, result more often than not in this country in abortion.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says, 'Amniocentesis does, in fact, result more often than not ... in abortion'"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/27/rick-santorum/rick-santorum-says-90-percent-down-syndrome-childr/",
         "statement_date": "2012-02-19",
+        "ruling_date": "2012-02-27T11:57:39",
+        "ruling_link_text": "Studies show 80 to 90 percent, but evidence of regional variation",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -940,33 +951,33 @@
                 "subject": "Health Care"
             }
         ],
-        "statement": "<p>\r\n\tAfter prenatal diagnosis, &quot;90 percent of Down syndrome children in America are aborted.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says \"90 percent of Down syndrome children in America are aborted\"",
-        "ruling_link_text": "Studies show 80 to 90 percent, but evidence of regional variation",
+        "statement_url": "/truth-o-meter/statements/2012/feb/27/rick-santorum/rick-santorum-says-90-percent-down-syndrome-childr/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "an interview on CBS's \"Face the Nation\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-02-27T11:57:39",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tAfter prenatal diagnosis, &quot;90 percent of Down syndrome children in America are aborted.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says \"90 percent of Down syndrome children in America are aborted\""
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/24/rick-santorum/rick-santorum-says-over-40-percent-children-are-bo/",
         "statement_date": "2012-02-22",
+        "ruling_date": "2012-02-24T12:43:38",
+        "ruling_link_text": "Federal data says yes for 2009, the most recent year available",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -982,33 +993,33 @@
                 "subject": "Women"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Over 40 percent of children born in America are born out of wedlock.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says over 40 percent of children are born out of wedlock",
-        "ruling_link_text": "Federal data says yes for 2009, the most recent year available",
+        "statement_url": "/truth-o-meter/statements/2012/feb/24/rick-santorum/rick-santorum-says-over-40-percent-children-are-bo/",
+        "ruling": {
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling_slug": "true"
+        },
         "statement_context": "a Republican presidential debate in Mesa, Ariz.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-02-24T12:43:38",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;Over 40 percent of children born in America are born out of wedlock.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says over 40 percent of children are born out of wedlock"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/23/rick-santorum/rick-santorum-charts-explosion-federal-entitlement/",
         "statement_date": "2012-02-22",
+        "ruling_date": "2012-02-23T10:48:18",
+        "ruling_link_text": "Wrong figure for 1958, better number for 2011",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1024,33 +1035,33 @@
                 "subject": "Social Security"
             }
         ],
-        "statement": "<p>\r\n\t&quot;When I was born, less than 10 percent of the federal budget was entitlement spending. It&#39;s now 60 percent of the budget.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum charts explosion of federal entitlement spending since 1958",
-        "ruling_link_text": "Wrong figure for 1958, better number for 2011",
+        "statement_url": "/truth-o-meter/statements/2012/feb/23/rick-santorum/rick-santorum-charts-explosion-federal-entitlement/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a Republican presidential debate in Mesa, Ariz.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-02-23T10:48:18",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;When I was born, less than 10 percent of the federal budget was entitlement spending. It&#39;s now 60 percent of the budget.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum charts explosion of federal entitlement spending since 1958"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/23/rick-santorum/rick-santorum-says-defense-spending-has-fallen-195/",
         "statement_date": "2012-02-22",
+        "ruling_date": "2012-02-23T10:45:50",
+        "ruling_link_text": "By the measure he uses, Santorum is pretty close",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1062,33 +1073,33 @@
                 "subject": "Military"
             }
         ],
-        "statement": "<p>\r\n\t&quot;When I was born, defense spending was 60 percent of the budget. It&#39;s now 17 percent.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says defense spending has fallen since 1958 as percent of federal budget",
-        "ruling_link_text": "By the measure he uses, Santorum is pretty close",
+        "statement_url": "/truth-o-meter/statements/2012/feb/23/rick-santorum/rick-santorum-says-defense-spending-has-fallen-195/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
+        },
         "statement_context": "a Republican presidential debate in Mesa, Ariz.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-02-23T10:45:50",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;When I was born, defense spending was 60 percent of the budget. It&#39;s now 17 percent.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says defense spending has fallen since 1958 as percent of federal budget"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/22/rick-santorum/rick-santorum-says-you-cant-name-one-time-last-20-/",
         "statement_date": "2012-02-17",
+        "ruling_date": "2012-02-22T14:59:38",
+        "ruling_link_text": "They have -- time and again",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1104,43 +1115,43 @@
                 "subject": "Military"
             }
         ],
-        "statement": "<p>\r\n\tSays in the last 20 years, the French have not &quot;stood by&quot; the United States on foreign policy.</p>\r\n",
-        "ruling_headline": "Rick Santorum says you can’t “name one time in the last 20 years that the French stood by us with anything”",
-        "ruling_link_text": "They have -- time and again",
+        "statement_url": "/truth-o-meter/statements/2012/feb/22/rick-santorum/rick-santorum-says-you-cant-name-one-time-last-20-/",
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling_slug": "pants-fire"
+        },
         "statement_context": "a campaign event",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-02-22T14:59:38",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tSays in the last 20 years, the French have not &quot;stood by&quot; the United States on foreign policy.</p>\r\n",
+        "ruling_headline": "Rick Santorum says you can’t “name one time in the last 20 years that the French stood by us with anything”"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/16/rick-santorum/rick-santorum-ad-says-mitt-romney-favors-cap-and-t/",
         "statement_date": "2012-02-14",
+        "ruling_date": "2012-02-16T17:55:55",
+        "ruling_link_text": "Evidence says he doesn't",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
+                "first_name": "Mitt",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
                 "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
+                "last_name": "Romney"
             }
         ],
         "subject": [
@@ -1161,43 +1172,43 @@
                 "subject": "Message Machine 2012"
             }
         ],
-        "statement": "<p>Says Mitt Romney supports cap and trade.</p>\r\n",
-        "ruling_headline": "Rick Santorum ad says Mitt Romney favors cap and trade",
-        "ruling_link_text": "Evidence says he doesn't",
+        "statement_url": "/truth-o-meter/statements/2012/feb/16/rick-santorum/rick-santorum-ad-says-mitt-romney-favors-cap-and-t/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "a video ad airing in Michigan",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-02-16T17:55:55",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>Says Mitt Romney supports cap and trade.</p>\r\n",
+        "ruling_headline": "Rick Santorum ad says Mitt Romney favors cap and trade"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/feb/16/rick-santorum/rombo-ad-rick-santorum-says-mitt-romney-adviser-eq/",
         "statement_date": "2012-02-14",
+        "ruling_date": "2012-02-16T16:32:37",
+        "ruling_link_text": "Add \"former\" before \"Romney adviser,\" and it would have gotten a True",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
+                "first_name": "Mitt",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
                 "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
+                "last_name": "Romney"
             }
         ],
         "subject": [
@@ -1214,33 +1225,33 @@
                 "subject": "Message Machine 2012"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Romney adviser admits Romneycare was blueprint for Obamacare.&quot;</p>\r\n",
-        "ruling_headline": "In \"Rombo\" ad, Rick Santorum says Mitt Romney adviser equated Massachusetts health care law with Obama's",
-        "ruling_link_text": "Add \"former\" before \"Romney adviser,\" and it would have gotten a True",
+        "statement_url": "/truth-o-meter/statements/2012/feb/16/rick-santorum/rombo-ad-rick-santorum-says-mitt-romney-adviser-eq/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
+        },
         "statement_context": "a television ad",
         "statement_type": {
             "statement_type": "Attack"
         },
-        "ruling_date": "2012-02-16T16:32:37",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;Romney adviser admits Romneycare was blueprint for Obamacare.&quot;</p>\r\n",
+        "ruling_headline": "In \"Rombo\" ad, Rick Santorum says Mitt Romney adviser equated Massachusetts health care law with Obama's"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/27/rick-santorum/sen-rick-santorum-says-he-warned-meltdown-and-bubb/",
         "statement_date": "2012-01-26",
+        "ruling_date": "2012-01-27T18:46:17",
+        "ruling_link_text": "Warning wasn't about a bubble",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1260,43 +1271,43 @@
                 "subject": "Housing"
             }
         ],
-        "statement": "<p>\r\n\t&quot;In 2006, I went out and authored a letter with 24 other senators asking for major reform of Freddie and Fannie, warning of a meltdown and a bubble in the housing market.&quot;</p>\r\n",
-        "ruling_headline": "Sen. Rick Santorum says he warned 'of a meltdown and a bubble in the housing market'",
-        "ruling_link_text": "Warning wasn't about a bubble",
+        "statement_url": "/truth-o-meter/statements/2012/jan/27/rick-santorum/sen-rick-santorum-says-he-warned-meltdown-and-bubb/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
         "statement_context": "a Republican presidential debate in Jacksonville, Fla.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-27T18:46:17",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;In 2006, I went out and authored a letter with 24 other senators asking for major reform of Freddie and Fannie, warning of a meltdown and a bubble in the housing market.&quot;</p>\r\n",
+        "ruling_headline": "Sen. Rick Santorum says he warned 'of a meltdown and a bubble in the housing market'"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/27/rick-santorum/rick-santorum-calls-massachusetts-health-law-top-d/",
         "statement_date": "2012-01-26",
+        "ruling_date": "2012-01-27T15:48:58",
+        "ruling_link_text": "Top down, maybe. Not government run.",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
+                "first_name": "Mitt",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
                 "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
+                "last_name": "Romney"
             }
         ],
         "subject": [
@@ -1305,33 +1316,33 @@
                 "subject": "Health Care"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Romneycare &hellip; is a top-down, government-run health care system.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum calls Massachusetts health law top-down and government-run",
-        "ruling_link_text": "Top down, maybe. Not government run.",
+        "statement_url": "/truth-o-meter/statements/2012/jan/27/rick-santorum/rick-santorum-calls-massachusetts-health-law-top-d/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
         "statement_context": "a Republican presidential primary debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-27T15:48:58",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;Romneycare &hellip; is a top-down, government-run health care system.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum calls Massachusetts health law top-down and government-run"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/24/rick-santorum/rick-santorum-says-2008-spike-oil-prices-caused-fl/",
         "statement_date": "2012-01-23",
+        "ruling_date": "2012-01-24T15:34:19",
+        "ruling_link_text": "You might remember that housing bubble",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1355,33 +1366,33 @@
                 "subject": "Oil Spill"
             }
         ],
-        "statement": "<p>\r\n\tFlorida&#39;s economy &quot;became a bad economy ... because of a huge spike in oil prices in the summer of 2008.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says a 2008 spike in oil prices caused Florida's economy to falter",
-        "ruling_link_text": "You might remember that housing bubble",
+        "statement_url": "/truth-o-meter/statements/2012/jan/24/rick-santorum/rick-santorum-says-2008-spike-oil-prices-caused-fl/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
         "statement_context": "a Republican presidential debate in Tampa, Fla.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-24T15:34:19",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tFlorida&#39;s economy &quot;became a bad economy ... because of a huge spike in oil prices in the summer of 2008.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says a 2008 spike in oil prices caused Florida's economy to falter"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/24/rick-santorum/rick-santorum-calls-newt-gingrich-longtime-support/",
         "statement_date": "2012-01-23",
+        "ruling_date": "2012-01-24T12:59:07",
+        "ruling_link_text": "Several times",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1393,43 +1404,43 @@
                 "subject": "Legal Issues"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Speaker Gingrich for 20 years supported a federal individual mandate&quot; for health insurance.</p>\r\n",
-        "ruling_headline": "Rick Santorum calls Newt Gingrich a longtime supporter of insurance mandate",
-        "ruling_link_text": "Several times",
+        "statement_url": "/truth-o-meter/statements/2012/jan/24/rick-santorum/rick-santorum-calls-newt-gingrich-longtime-support/",
+        "ruling": {
+            "ruling": "Mostly True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif",
+            "ruling_slug": "mostly-true"
+        },
         "statement_context": "a Republican presidential primary debate in Tampa, Fla.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-24T12:59:07",
-        "ruling": {
-            "ruling_slug": "mostly-true",
-            "ruling": "Mostly True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlytrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;Speaker Gingrich for 20 years supported a federal individual mandate&quot; for health insurance.</p>\r\n",
+        "ruling_headline": "Rick Santorum calls Newt Gingrich a longtime supporter of insurance mandate"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/20/rick-santorum/rick-santorum-says-obama-wants-cut-veterans-benefi/",
         "statement_date": "2012-01-19",
+        "ruling_date": "2012-01-20T18:21:40",
+        "ruling_link_text": "Cuts are not to VA budget",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
                 "name_slug": "barack-obama",
-                "last_name": "Obama",
-                "first_name": "Barack"
+                "last_name": "Obama"
             }
         ],
         "subject": [
@@ -1442,33 +1453,33 @@
                 "subject": "Veterans"
             }
         ],
-        "statement": "<p>\r\n\tPresident Obama has &quot;said he is going to cut veterans&#39; benefits.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says President Barack Obama wants to cut veterans’ benefits",
-        "ruling_link_text": "Cuts are not to VA budget",
+        "statement_url": "/truth-o-meter/statements/2012/jan/20/rick-santorum/rick-santorum-says-obama-wants-cut-veterans-benefi/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a Republican presidential primary debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-20T18:21:40",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tPresident Obama has &quot;said he is going to cut veterans&#39; benefits.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says President Barack Obama wants to cut veterans’ benefits"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/19/rick-santorum/rick-santorum-says-obama-prohibits-encouraging-you/",
         "statement_date": "2012-01-16",
+        "ruling_date": "2012-01-19T18:09:38",
+        "ruling_link_text": "Mum on marriage?",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1480,33 +1491,33 @@
                 "subject": "Poverty"
             }
         ],
-        "statement": "<p>\r\n\tSays an Obama administration policy prohibits people who work with at-risk youth from promoting marriage as a way to avoid poverty.</p>\r\n",
-        "ruling_headline": "Rick Santorum says Obama prohibits encouraging young people to marry",
-        "ruling_link_text": "Mum on marriage?",
+        "statement_url": "/truth-o-meter/statements/2012/jan/19/rick-santorum/rick-santorum-says-obama-prohibits-encouraging-you/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "a debate in South Carolina",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-19T18:09:38",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tSays an Obama administration policy prohibits people who work with at-risk youth from promoting marriage as a way to avoid poverty.</p>\r\n",
+        "ruling_headline": "Rick Santorum says Obama prohibits encouraging young people to marry"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/09/rick-santorum/rick-santorum-says-welfare-reform-deserves-credit-/",
         "statement_date": "2012-01-04",
+        "ruling_date": "2012-01-09T16:39:37",
+        "ruling_link_text": "Economy was a big factor too",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1526,33 +1537,33 @@
                 "subject": "Welfare"
             }
         ],
-        "statement": "<p>\r\n\tAs a result of welfare reform, &quot;poverty levels went down to the lowest level ever for ... African-American children.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says welfare reform deserves credit for reductions in African-American child poverty",
-        "ruling_link_text": "Economy was a big factor too",
+        "statement_url": "/truth-o-meter/statements/2012/jan/09/rick-santorum/rick-santorum-says-welfare-reform-deserves-credit-/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a New Hampshire town hall with voters",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-09T16:39:37",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tAs a result of welfare reform, &quot;poverty levels went down to the lowest level ever for ... African-American children.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says welfare reform deserves credit for reductions in African-American child poverty"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/08/rick-santorum/rick-santorum-says-republicans-medicare-plan-would/",
         "statement_date": "2012-01-08",
+        "ruling_date": "2012-01-08T16:26:36",
+        "ruling_link_text": "Substantial differences between plans",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1568,33 +1579,33 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tPaul Ryan&rsquo;s Medicare plan provides &quot;pretty much&quot; the same coverage that members of Congress receive.</p>\r\n",
-        "ruling_headline": "Rick Santorum says Republicans’ Medicare plan would give seniors same benefits that Congress members receive",
-        "ruling_link_text": "Substantial differences between plans",
+        "statement_url": "/truth-o-meter/statements/2012/jan/08/rick-santorum/rick-santorum-says-republicans-medicare-plan-would/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
         "statement_context": "a Republican presidential primary debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-08T16:26:36",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tPaul Ryan&rsquo;s Medicare plan provides &quot;pretty much&quot; the same coverage that members of Congress receive.</p>\r\n",
+        "ruling_headline": "Rick Santorum says Republicans’ Medicare plan would give seniors same benefits that Congress members receive"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/04/rick-santorum/rick-santorum-ad-claims-he-reformed-welfare/",
         "statement_date": "2011-12-29",
+        "ruling_date": "2012-01-04T15:50:33",
+        "ruling_link_text": "Not all by himself",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1602,43 +1613,43 @@
                 "subject": "Welfare"
             }
         ],
-        "statement": "<p>\r\n\tRick Santorum &quot;reformed welfare.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum ad claims he reformed welfare",
-        "ruling_link_text": "Not all by himself",
+        "statement_url": "/truth-o-meter/statements/2012/jan/04/rick-santorum/rick-santorum-ad-claims-he-reformed-welfare/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a video ad",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-04T15:50:33",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tRick Santorum &quot;reformed welfare.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum ad claims he reformed welfare"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/03/rick-perry/says-rick-santorum-voted-teapot-museum/",
         "statement_date": "2012-01-02",
+        "ruling_date": "2012-01-03T18:59:18",
+        "ruling_link_text": "Yes, but not specifically",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-perry",
+            "last_name": "Perry"
+        },
         "target": [
             {
+                "first_name": "Rick",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
                 "name_slug": "rick-santorum",
-                "last_name": "Santorum",
-                "first_name": "Rick"
+                "last_name": "Santorum"
             }
         ],
         "subject": [
@@ -1655,33 +1666,33 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Santorum also voted for a teapot museum in North Carolina.&quot;</p>\r\n",
-        "ruling_headline": "Rick Perry says Rick Santorum voted for a teapot museum",
-        "ruling_link_text": "Yes, but not specifically",
+        "statement_url": "/truth-o-meter/statements/2012/jan/03/rick-perry/says-rick-santorum-voted-teapot-museum/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a Web ad",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-03T18:59:18",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Perry_1.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-perry",
-            "last_name": "Perry",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;Santorum also voted for a teapot museum in North Carolina.&quot;</p>\r\n",
+        "ruling_headline": "Rick Perry says Rick Santorum voted for a teapot museum"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2012/jan/03/rick-santorum/rick-santorum-says-hes-won-votes-democrats-indepen/",
         "statement_date": "2011-12-29",
+        "ruling_date": "2012-01-03T17:51:09",
+        "ruling_link_text": "Less and less as time went on",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1697,33 +1708,33 @@
                 "subject": "History"
             }
         ],
-        "statement": "<p>\r\n\tSays he has &quot;been able to attract independents and Democrats to win&quot; elections in Pennsylvania.</p>\r\n",
-        "ruling_headline": "Rick Santorum says he's won votes of Democrats, independents in Pennsylvania",
-        "ruling_link_text": "Less and less as time went on",
+        "statement_url": "/truth-o-meter/statements/2012/jan/03/rick-santorum/rick-santorum-says-hes-won-votes-democrats-indepen/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "an interview on NBC's \"Today\" ",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2012-01-03T17:51:09",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tSays he has &quot;been able to attract independents and Democrats to win&quot; elections in Pennsylvania.</p>\r\n",
+        "ruling_headline": "Rick Santorum says he's won votes of Democrats, independents in Pennsylvania"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/dec/02/rick-santorum/Rick-Santorum-says-he-called-for-resignation/",
         "statement_date": "2011-11-29",
+        "ruling_date": "2011-12-02T17:38:01",
+        "ruling_link_text": "Balanced budget vote fell short",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1735,33 +1746,33 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tThe balanced-budget amendment once came within one vote of passing Congress but was defeated because of the no vote from a top Senate Republican, and Rick Santorum says he &quot;stood up and called for him to resign his chairmanship.&quot;</p>\r\n",
-        "ruling_headline": "Rick Santorum says he called for resignation of a high-ranking Republican over no vote on balanced budget amendment",
-        "ruling_link_text": "Balanced budget vote fell short",
+        "statement_url": "/truth-o-meter/statements/2011/dec/02/rick-santorum/Rick-Santorum-says-he-called-for-resignation/",
+        "ruling": {
+            "ruling": "True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif",
+            "ruling_slug": "true"
+        },
         "statement_context": "an op-ed in the \"New Hampshire Union Leader\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-12-02T17:38:01",
-        "ruling": {
-            "ruling_slug": "true",
-            "ruling": "True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/politifact/rulings/rulings-tom-true.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tThe balanced-budget amendment once came within one vote of passing Congress but was defeated because of the no vote from a top Senate Republican, and Rick Santorum says he &quot;stood up and called for him to resign his chairmanship.&quot;</p>\r\n",
+        "ruling_headline": "Rick Santorum says he called for resignation of a high-ranking Republican over no vote on balanced budget amendment"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/nov/09/rick-santorum/rick-santorum-says-unemployment-college-grads-4-5-/",
         "statement_date": "2011-11-09",
+        "ruling_date": "2011-11-09T23:07:10",
+        "ruling_link_text": "Right for college grads; too high for non-college grads",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1773,43 +1784,43 @@
                 "subject": "Workers"
             }
         ],
-        "statement": "<div style=\"background-color: transparent;\">\r\n\t&quot;The unemployment rate among (the) non-college-educated is well into the double digits in America. It&#39;s 4 percent or 5 percent for people who have college degrees.&quot;</div>\r\n",
-        "ruling_headline": "Rick Santorum says unemployment for college grads is 4 to 5 percent but for non-college-educated it's well into double digits",
-        "ruling_link_text": "Right for college grads; too high for non-college grads",
+        "statement_url": "/truth-o-meter/statements/2011/nov/09/rick-santorum/rick-santorum-says-unemployment-college-grads-4-5-/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a Republican presidential debate in Michigan",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-11-09T23:07:10",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<div style=\"background-color: transparent;\">\r\n\t&quot;The unemployment rate among (the) non-college-educated is well into the double digits in America. It&#39;s 4 percent or 5 percent for people who have college degrees.&quot;</div>\r\n",
+        "ruling_headline": "Rick Santorum says unemployment for college grads is 4 to 5 percent but for non-college-educated it's well into double digits"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/oct/18/rick-santorum/rick-santorum-has-it-wrong-mitt-romneys-book/",
         "statement_date": "2011-10-18",
+        "ruling_date": "2011-10-18T23:15:33",
+        "ruling_link_text": "Wrong again on Romney's book",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
+                "first_name": "Mitt",
                 "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/mugs/mug-mittromney.jpg",
                 "party": {
-                    "party": "Republican",
-                    "party_slug": "republican"
+                    "party_slug": "republican",
+                    "party": "Republican"
                 },
                 "name_slug": "mitt-romney",
-                "last_name": "Romney",
-                "first_name": "Mitt"
+                "last_name": "Romney"
             }
         ],
         "subject": [
@@ -1818,33 +1829,33 @@
                 "subject": "Health Care"
             }
         ],
-        "statement": "<p>\r\n\tSays Romney wrote in the first edition of his book that his health care plan should be expanded nationwide and then, &quot;You took it out of your book.&quot;</p>",
-        "ruling_headline": "Rick Santorum has it wrong on Mitt Romney's book",
-        "ruling_link_text": "Wrong again on Romney's book",
+        "statement_url": "/truth-o-meter/statements/2011/oct/18/rick-santorum/rick-santorum-has-it-wrong-mitt-romneys-book/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
         "statement_context": "a Republican presidential primary debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-10-18T23:15:33",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tSays Romney wrote in the first edition of his book that his health care plan should be expanded nationwide and then, &quot;You took it out of your book.&quot;</p>",
+        "ruling_headline": "Rick Santorum has it wrong on Mitt Romney's book"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/oct/13/rick-santorum/rick-santorum/",
         "statement_date": "2011-10-11",
+        "ruling_date": "2011-10-13T18:35:24",
+        "ruling_link_text": "Marriage equals less poverty",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1860,33 +1871,33 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tThe poverty rate for families in which a husband and a wife work is 5 percent, but in families headed by one person &hellip; &quot;it&#39;s 30 percent today.&quot;</p>",
-        "ruling_headline": "Rick Santorum says two-parent families better off financially",
-        "ruling_link_text": "Marriage equals less poverty",
+        "statement_url": "/truth-o-meter/statements/2011/oct/13/rick-santorum/rick-santorum/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a Republican presidental primary debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-10-13T18:35:24",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tThe poverty rate for families in which a husband and a wife work is 5 percent, but in families headed by one person &hellip; &quot;it&#39;s 30 percent today.&quot;</p>",
+        "ruling_headline": "Rick Santorum says two-parent families better off financially"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/jul/27/rick-santorum/rick-santorum-says-church-attendance-single-digits/",
         "statement_date": "2011-07-18",
+        "ruling_date": "2011-07-27T18:14:51",
+        "ruling_link_text": "Not a consistent pattern",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1894,33 +1905,33 @@
                 "subject": "New Hampshire 2012"
             }
         ],
-        "statement": "<p>\r\n\tIn Europe, &quot;church attendance rates (are) in the single digits&quot; because churches are supported by taxes.</p>",
-        "ruling_headline": "Rick Santorum says church attendance in the single digits in Europe because of government support",
-        "ruling_link_text": "Not a consistent pattern",
+        "statement_url": "/truth-o-meter/statements/2011/jul/27/rick-santorum/rick-santorum-says-church-attendance-single-digits/",
+        "ruling": {
+            "ruling": "Mostly False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif",
+            "ruling_slug": "barely-true"
+        },
         "statement_context": "a house party in Henniker, N.H.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-07-27T18:14:51",
-        "ruling": {
-            "ruling_slug": "barely-true",
-            "ruling": "Mostly False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-mostlyfalse.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tIn Europe, &quot;church attendance rates (are) in the single digits&quot; because churches are supported by taxes.</p>",
+        "ruling_headline": "Rick Santorum says church attendance in the single digits in Europe because of government support"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/jun/15/rick-santorum/did-medicare-part-d-come-40-percent-under-budget-b/",
         "statement_date": "2011-05-05",
+        "ruling_date": "2011-06-15T16:01:26",
+        "ruling_link_text": "Under budget, but how much and why are disputed",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1940,33 +1951,33 @@
                 "subject": "Retirement"
             }
         ],
-        "statement": "<p>\r\n\tThe Medicare drug program &quot;resulted in the program coming in 40 percent under budget. ... And the reason it was, is because the design was right.&quot;&nbsp;</p>",
-        "ruling_headline": "Did Medicare Part D come in 40 percent under budget because of its design?",
-        "ruling_link_text": "Under budget, but how much and why are disputed",
+        "statement_url": "/truth-o-meter/statements/2011/jun/15/rick-santorum/did-medicare-part-d-come-40-percent-under-budget-b/",
+        "ruling": {
+            "ruling": "Half-True",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif",
+            "ruling_slug": "half-true"
+        },
         "statement_context": "a debate in South Carolina",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-06-15T16:01:26",
-        "ruling": {
-            "ruling_slug": "half-true",
-            "ruling": "Half-True",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-halftrue.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tThe Medicare drug program &quot;resulted in the program coming in 40 percent under budget. ... And the reason it was, is because the design was right.&quot;&nbsp;</p>",
+        "ruling_headline": "Did Medicare Part D come in 40 percent under budget because of its design?"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/jun/15/rick-santorum/rick-santorum-says-barack-obama-has-raised-stop-si/",
         "statement_date": "2011-06-06",
+        "ruling_date": "2011-06-15T14:19:01",
+        "ruling_link_text": "At most, a \"reduce your speed\" sign",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -1982,33 +1993,33 @@
                 "subject": "Oil Spill"
             }
         ],
-        "statement": "<p>\r\n\tSays President Barack Obama &quot;has put (up) a stop sign &hellip; against oil drilling, against any kind of exploration offshore or in Alaska.&quot;</p>",
-        "ruling_headline": "Rick Santorum says Barack Obama has raised a \"stop sign\" on oil exploration",
-        "ruling_link_text": "At most, a \"reduce your speed\" sign",
+        "statement_url": "/truth-o-meter/statements/2011/jun/15/rick-santorum/rick-santorum-says-barack-obama-has-raised-stop-si/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "a Republican presidential debate",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-06-15T14:19:01",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\tSays President Barack Obama &quot;has put (up) a stop sign &hellip; against oil drilling, against any kind of exploration offshore or in Alaska.&quot;</p>",
+        "ruling_headline": "Rick Santorum says Barack Obama has raised a \"stop sign\" on oil exploration"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/jun/15/rick-santorum/rick-santorum-says-social-security-cost-living-adj/",
         "statement_date": "2011-06-12",
+        "ruling_date": "2011-06-15T11:03:29",
+        "ruling_link_text": "No, it's tied to consumer prices",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -2016,33 +2027,33 @@
                 "subject": "Social Security"
             }
         ],
-        "statement": "<p>\r\n\t&quot;The cost-of-living increase in Social Security is tied to wage inflation.&quot;</p>",
-        "ruling_headline": "Rick Santorum says Social Security cost-of-living adjustments should be based on consumer prices, not wages",
-        "ruling_link_text": "No, it's tied to consumer prices",
+        "statement_url": "/truth-o-meter/statements/2011/jun/15/rick-santorum/rick-santorum-says-social-security-cost-living-adj/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "an interview on NBC's \"Meet the Press\"",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-06-15T11:03:29",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;The cost-of-living increase in Social Security is tied to wage inflation.&quot;</p>",
+        "ruling_headline": "Rick Santorum says Social Security cost-of-living adjustments should be based on consumer prices, not wages"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/mar/31/rick-santorum/rick-santorum-says-one-every-three-pregnancies-end/",
         "statement_date": "2011-03-29",
+        "ruling_date": "2011-03-31T17:02:02",
+        "ruling_link_text": "Flawed math and a questionable leap of logic",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [],
         "subject": [
             {
@@ -2058,43 +2069,43 @@
                 "subject": "Social Security"
             }
         ],
-        "statement": "<div style=\"background-color: transparent;\">\r\n\t&quot;A third of all the young people in America are not in America today because of abortion, because one in three pregnancies end in abortion.&quot;</div>",
-        "ruling_headline": "Rick Santorum says one of every three pregnancies ends in an abortion",
-        "ruling_link_text": "Flawed math and a questionable leap of logic",
+        "statement_url": "/truth-o-meter/statements/2011/mar/31/rick-santorum/rick-santorum-says-one-every-three-pregnancies-end/",
+        "ruling": {
+            "ruling": "False",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif",
+            "ruling_slug": "false"
+        },
         "statement_context": "a radio interview",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-03-31T17:02:02",
-        "ruling": {
-            "ruling_slug": "false",
-            "ruling": "False",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-false.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<div style=\"background-color: transparent;\">\r\n\t&quot;A third of all the young people in America are not in America today because of abortion, because one in three pregnancies end in abortion.&quot;</div>",
+        "ruling_headline": "Rick Santorum says one of every three pregnancies ends in an abortion"
     },
     {
-        "statement_url": "/truth-o-meter/statements/2011/mar/10/rick-santorum/rick-santorum-said-obama-said-any-child-born-prema/",
         "statement_date": "2011-03-07",
+        "ruling_date": "2011-03-10T12:34:36",
+        "ruling_link_text": "Disagreement on abortion taken to an extreme",
+        "speaker": {
+            "first_name": "Rick",
+            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
+            "party": {
+                "party_slug": "republican",
+                "party": "Republican"
+            },
+            "name_slug": "rick-santorum",
+            "last_name": "Santorum"
+        },
         "target": [
             {
-                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/obamamug_1.jpg",
+                "first_name": "Barack",
+                "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/NYT_OBAMA_1.jpg",
                 "party": {
-                    "party": "Democrat",
-                    "party_slug": "democrat"
+                    "party_slug": "democrat",
+                    "party": "Democrat"
                 },
                 "name_slug": "barack-obama",
-                "last_name": "Obama",
-                "first_name": "Barack"
+                "last_name": "Obama"
             }
         ],
         "subject": [
@@ -2103,28 +2114,17 @@
                 "subject": "Abortion"
             }
         ],
-        "statement": "<p>\r\n\t&quot;Any child born prematurely, according to the president, in his own words, can be killed.&quot;</p>",
-        "ruling_headline": "Rick Santorum said Obama said \"any child\" born prematurely \"can be killed\"",
-        "ruling_link_text": "Disagreement on abortion taken to an extreme",
+        "statement_url": "/truth-o-meter/statements/2011/mar/10/rick-santorum/rick-santorum-said-obama-said-any-child-born-prema/",
+        "ruling": {
+            "ruling": "Pants on Fire!",
+            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif",
+            "ruling_slug": "pants-fire"
+        },
         "statement_context": "a speech to the Iowa Faith and Freedom Coalition.",
         "statement_type": {
             "statement_type": "Claim"
         },
-        "ruling_date": "2011-03-10T12:34:36",
-        "ruling": {
-            "ruling_slug": "pants-fire",
-            "ruling": "Pants on Fire!",
-            "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com/rulings/tom-pantsonfire.gif"
-        },
-        "speaker": {
-            "canonical_photo": "http://static.politifact.com.s3.amazonaws.com/politifact/mugs/Rick_Santorum_2.jpg",
-            "party": {
-                "party": "Republican",
-                "party_slug": "republican"
-            },
-            "name_slug": "rick-santorum",
-            "last_name": "Santorum",
-            "first_name": "Rick"
-        }
+        "statement": "<p>\r\n\t&quot;Any child born prematurely, according to the president, in his own words, can be killed.&quot;</p>",
+        "ruling_headline": "Rick Santorum said Obama said \"any child\" born prematurely \"can be killed\""
     }
 ]
