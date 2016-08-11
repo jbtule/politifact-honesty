@@ -5,18 +5,30 @@ open System
 open Fable.Core
 open Fable.Import.Node
 
-let run (peopleSlugs:string list) =
-
-  let rulingSlugs = [
+let run (peopleSlugs:string list) (cloudSlugs:string list) =
+  let lyingSlugs = [
       "pants-fire"
       "false"
+  ]
+
+  let inbetweenSlugs = [
       "barely-true"
       "half-true"
+  ]
+
+  let honestSlugs = [
       "mostly-true"
       "true"
   ]
+
+  let rulingSlugs = 
+    lyingSlugs
+    @ inbetweenSlugs
+    @ honestSlugs
   
   let rulingSlugsSet = Set(rulingSlugs)
+  let honsetSlugSet = Set(honestSlugs)
+  let lyingSlugSet = Set(lyingSlugs)
 
   let countIt (personSlug:string) (statements: Politifact.Statement[]) =
     statements
@@ -69,6 +81,40 @@ let run (peopleSlugs:string list) =
         fs.appendFileSync(file, String.Join(",",personSlug::counts) ,null)
         fs.appendFileSync(file, "\n" ,null)
         printfn "%s:%i" personSlug count
+  
+  try
+    fs.mkdirSync("data/cloud", null)
+  with _ -> ()
+
+  let writeCloud(personSlug,statements:Politifact.Statement[],_) = 
+    printfn "Generating cloud csv for %s" personSlug
+
+    let writeCloudType kind (slugSet:string Set) =
+      let topics =
+        statements 
+          |> Array.filter (fun s-> s.speaker.name_slug = personSlug)
+          |> Array.filter (fun s-> slugSet.Contains(s.ruling.ruling_slug))
+          |> Array.collect (fun s-> s.subject)
+          |> Array.map(fun su->su.subject)
+          |> Array.filter(fun st-> String.IsNullOrWhiteSpace(st) |> not)
+          |> Array.collect (fun st->st.Split(' '))
+          |> Array.groupBy id
+          |> Array.map (fun (w,l)-> (w,Array.length l))
+      
+      let file = sprintf "data/cloud/%s|%s.csv" personSlug kind
+      fs.writeFileSync(file,"",null)
+      for topic, count in topics do
+         fs.appendFileSync(file, sprintf "%s,%i" topic count,null)
+         fs.appendFileSync(file, "\n" ,null)
+      ()
+
+    writeCloudType "lying" lyingSlugSet
+    writeCloudType "honest" honsetSlugSet
+
+  let cloudSlugSet = Set(cloudSlugs)
+  parsed 
+    |> List.filter(fun (p,_,_)-> cloudSlugSet.Contains(p) )
+    |> List.iter(writeCloud)
 
   writeData 50
   writeData 100

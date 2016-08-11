@@ -31,7 +31,7 @@ type Statement = {
   statement_url: string
   statement_date: DateTime
   target: Person[]
-  subject:Subject
+  subject:Subject []
   statement:string
   ruling_headline: string
   ruling_link_text: string

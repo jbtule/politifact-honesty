@@ -33,6 +33,7 @@ let main argv =
     |> ignore
 
   // people used in the Robert Mann Graph
+
   let people = [ 
                   "donald-trump"
                   "michele-bachmann"
@@ -58,7 +59,7 @@ let main argv =
   if program.download then
       Download.run people
   else if program.count then
-      Count.run people
+      Count.run people ["donald-trump";"hillary-clinton"]
   else if program.graph then
       Graph.run()
   else
