@@ -104,7 +104,7 @@ let run (peopleSlugs:string list) (cloudSlugs:string list) =
       let file = sprintf "data/cloud/%s|%s.csv" personSlug kind
       fs.writeFileSync(file,"",null)
       for topic, count in topics do
-         fs.appendFileSync(file, sprintf "%s,%i" topic count,null)
+         fs.appendFileSync(file, sprintf "%i %s" count topic,null)
          fs.appendFileSync(file, "\n" ,null)
       ()
 
